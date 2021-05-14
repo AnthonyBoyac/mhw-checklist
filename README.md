@@ -1,19 +1,2 @@
-# vue-portfolio
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# mhw-checklist
+The gamer completionist in me created a website to fulfill every personal requirements for Capcom's popular game: Monster Hunter World.
