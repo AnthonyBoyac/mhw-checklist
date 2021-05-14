@@ -1,0 +1,36 @@
+- Group remaining additions into components
+  - WHAT'S REMAINING:
+    - Set decorations on every armor/weapon/tool
+    - Unlock Tools
+    - Crowns (big/small monsters & big/small crowns)
+    - Reach Max Monsters Research Level
+    - Craft Palico equipement (separate equipement)
+      - Low Rank
+      - High Rank
+      - Master Rank
+      - Full Armor Sets
+    - Max Palico Gadgets
+    - Max Level Tailriders
+    - Nurture/Upgrade Kinsects
+    - Complete Quests
+    - A Rank Arena challenges
+    - Get Items
+    - Get Pendants
+    - Unlock Elder Melder's full collection?
+    - Complete Deliveries
+    - Unlock Room Customization
+    - Augment weapons
+    - Max upgraded equipement
+
+_____
+- Search filter for materials
+- Find better icons for everything but weapons
+
+
+add some sort of image/pattern to background of page
+________________________
+END PROJECT
+1. Add twitch account like how https://monsterhunterworld.wiki.fextralife.com/Armor+Sets
+does it
+2. Possibly separate bodies for weapons and armors/decos/charms/etc. to limit how many
+items get locally stored in array (better performance)
