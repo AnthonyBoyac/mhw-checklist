@@ -85,3 +85,18 @@ export default {
 }
 </script>
 
+<style>
+#decos-table th:nth-child(even),
+#decos-table td:nth-child(even) {
+  border-left: 2px solid var(--main-table-border-color);
+}
+#decos-table th:nth-child(2n + 3),
+#decos-table td:nth-child(2n + 3) {
+  text-align: center;
+}
+#decos-table th:nth-child(n + 3),
+#decos-table td:nth-child(n + 3) {
+  width: 100px
+}
+
+</style>

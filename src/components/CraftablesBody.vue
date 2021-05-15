@@ -23,7 +23,7 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="(item) in this.theItems" :key="item.name">
+        <tr v-for="item in this.theItems" :key="item.name">
           <td v-if="this.$route.path.includes('/charms')">
             <input type="checkbox" 
             :id='`${item.name}`' 
@@ -237,12 +237,12 @@ table {
   width: 100%;
   border-radius: 10px;
   font-size: 14px;
-  border: 2px solid #6d6d6d;
+  border: 2px solid var(--main-table-border-color);
 }
 th, td {
   padding: 7px 5px;
-  border-top: 2px solid #6d6d6d;
-  border-bottom: 2px solid #6d6d6d;
+  border-top: 2px solid var(--main-table-border-color);
+  border-bottom: 2px solid var(--main-table-border-color);
 }
 th {
   color: #e67068;
@@ -258,7 +258,7 @@ td:nth-child(2) {
 td:nth-child(2n + 3),
 th:nth-child(2n + 3){
   text-align: right;
-  border-left: 2px solid #6d6d6d;
+  border-left: 2px solid var(--main-table-border-color);
 }
 td:nth-child(2n + 4),
 th:nth-child(2n + 4){
