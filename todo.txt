@@ -30,5 +30,3 @@ ________________________
 END PROJECT
 1. Add twitch account like how https://monsterhunterworld.wiki.fextralife.com/Armor+Sets
 does it
-2. Possibly separate bodies for weapons and armors/decos/charms/etc. to limit how many
-items get locally stored in array (better performance)
