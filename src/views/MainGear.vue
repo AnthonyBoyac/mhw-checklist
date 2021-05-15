@@ -26,6 +26,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('/crowns')">
+      <li v-for="(url, index) in urls.crowns" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
   </div>
   <div :class="{ 'toggle-components': !isHome }">
     <ProgressTracker 
