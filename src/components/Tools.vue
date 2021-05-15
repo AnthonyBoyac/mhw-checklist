@@ -8,7 +8,7 @@
     <table id="tools-table">
       <thead>
         <tr>
-          <th>Crafted</th>
+          <th>Unlocked</th>
           <th>Decorated</th>
           <th>Name</th>
           <th>Description</th>
