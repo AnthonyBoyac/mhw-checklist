@@ -90,6 +90,8 @@ export default {
     progressCounter: Number
   },
   mounted() {
+    // get local storage items for each data variable to display 
+    // what has been checked off from the checkboxes inputs
     if (localStorage.getItem('craftedGear'))
       this.clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
     if (localStorage.getItem('setDecos'))
@@ -108,7 +110,9 @@ export default {
     fullyUpgraded() {
       localStorage.setItem('fullyUpgraded', JSON.stringify(this.fullyUpgraded))
     },
-    // when changing sub nav, run function
+    // - watches change in 'title' variable when changing sub nav
+    // - used to update default checkbox behavior by toggling the 'disabled' attribute
+    // - changes function based on current path
     title() {
       if (!this.$route.path.includes('/charms')) {
         setTimeout(function () {
