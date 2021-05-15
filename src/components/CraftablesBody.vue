@@ -10,7 +10,7 @@
         <tr>
           <th>Crafted</th>
           <th v-if="this.$route.path.includes('/armor')">Upgraded</th>
-          <th v-if="!this.$route.path.includes('/charms')">Decorations</th>
+          <th v-if="!this.$route.path.includes('/charms')">Decorated</th>
           <th>Name</th>
           <th>Material 1</th>
           <th></th>
