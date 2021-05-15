@@ -24,7 +24,14 @@
       </thead>
       <tbody>
         <tr v-for="(item) in this.theItems" :key="item.name">
-          <td>
+          <td v-if="this.$route.path.includes('/charms')">
+            <input type="checkbox" 
+            :id='`${item.name}`' 
+            :value="`${item.name}`" 
+            v-model="clearedItems"
+            @change="onChange" />
+          </td>
+          <td v-else>
             <input type="checkbox" 
             :id='`${item.name}`' 
             :value="`${item.name}`" 
@@ -103,35 +110,36 @@ export default {
     },
     // when changing sub nav, run function
     title() {
-      setTimeout(function () {
-        for (var i = 0; i < this.clearedItems.length; i++) {
-          var el = document.getElementById(this.clearedItems[i])
-          if (el != null && !this.$route.path.includes('/armor'))
-            el.parentNode.nextSibling.nextSibling.children[0].disabled = false;
-          else if (el != null && this.$route.path.includes('/armor'))
-            el.parentNode.nextSibling.children[0].disabled = false;
-        };
-        if (this.$route.path.includes('/armor')) {
-          for (var i = 0; i < this.fullyUpgraded.length; i++) {
-            var el = document.getElementById(this.fullyUpgraded[i])
+      if (!this.$route.path.includes('/charms')) {
+        setTimeout(function () {
+          for (var i = 0; i < this.clearedItems.length; i++) {
+            var el = document.getElementById(this.clearedItems[i])
+            if (el != null && !this.$route.path.includes('/armor'))
+              el.parentNode.nextSibling.nextSibling.children[0].disabled = false;
+            else if (el != null && this.$route.path.includes('/armor'))
+              el.parentNode.nextSibling.children[0].disabled = false;
+          };
+          if (this.$route.path.includes('/armor')) {
+            for (var i = 0; i < this.fullyUpgraded.length; i++) {
+              var el = document.getElementById(this.fullyUpgraded[i])
+              if (el != null) {
+                el.disabled = false;
+                el.parentNode.previousSibling.children[0].disabled = true;
+                el.parentNode.nextSibling.children[0].disabled = false;
+              }
+            }
+          };
+          for (var i = 0; i < this.setDecos.length; i++) {
+            var el = document.getElementById(this.setDecos[i])
             if (el != null) {
               el.disabled = false;
-              el.parentNode.previousSibling.children[0].disabled = true;
-              el.parentNode.nextSibling.children[0].disabled = false;
+              el.parentNode.previousSibling.previousSibling.children[0].disabled = true;
+              if (this.$route.path.includes('/armor'))
+                el.parentNode.previousSibling.children[0].disabled = true;
             }
-          }
-        };
-        for (var i = 0; i < this.setDecos.length; i++) {
-          var el = document.getElementById(this.setDecos[i])
-          if (el != null) {
-            el.disabled = false;
-            el.parentNode.previousSibling.previousSibling.children[0].disabled = true;
-            if (this.$route.path.includes('/armor'))
-              el.parentNode.previousSibling.children[0].disabled = true;
-          }
-        };
-
-      }.bind(this))
+          };
+        }.bind(this))
+      }
     }
   },
   methods: {
@@ -166,11 +174,11 @@ export default {
         else
           var el = document.getElementById(e).parentNode.previousSibling.previousSibling.children[0]
 
-        if (document.getElementById(e).checked) 
+        if (document.getElementById(e).checked)
           el.disabled = true;
         else if (!document.getElementById(e).checked)
           el.disabled = false;
-        
+
       }, 0)
     },
     toggleUpgrades(e) {
