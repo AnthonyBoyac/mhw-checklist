@@ -54,6 +54,17 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
+  <div v-else-if="`${currentPath}`.includes('/crowns')">
+    <div :class="{ 'toggle-components': isHome }">
+      <Crowns 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
   <div v-else>
     <div :class="{ 'toggle-components': isHome }">
       <CraftablesBody 
@@ -72,13 +83,15 @@ import ProgressTracker from '@/components/ProgressTracker'
 import CraftablesBody from '@/components/CraftablesBody'
 import Decorations from '@/components/Decorations'
 import Tools from '@/components/Tools'
+import Crowns from '@/components/Crowns'
 
 export default {
   components: {
     ProgressTracker,
     CraftablesBody,
     Decorations,
-    Tools
+    Tools,
+    Crowns
   },
   data() {
     return {
@@ -113,6 +126,9 @@ export default {
         ],
         tools: [
           { url: '/tools.json', title: 'Specialized Tools'}
+        ],
+        crowns: [
+          { url: '/crowns.json', title: 'Crowns'}
         ]
       },
       items: [],

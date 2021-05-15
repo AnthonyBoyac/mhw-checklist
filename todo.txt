@@ -1,7 +1,5 @@
 - Group remaining additions into components
   - WHAT'S REMAINING:
-    - Set decorations on every armor/weapon/tool
-    - Unlock Tools
     - Crowns (big/small monsters & big/small crowns)
     - Reach Max Monsters Research Level
     - Craft Palico equipement (separate equipement)

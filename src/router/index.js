@@ -29,6 +29,10 @@ const routes = [
   {
     path: '/specialized-tools',
     component: () => import('../views/MainGear.vue')
+  },
+  {
+    path: '/crowns',
+    component: () => import('../views/MainGear.vue')
   }
 ]
 

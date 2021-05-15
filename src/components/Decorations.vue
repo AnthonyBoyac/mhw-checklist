@@ -72,7 +72,6 @@ export default {
     }
   },
   methods: {
-
     // update progress counter on checkbox value change 
     onChange(e) {
       if (e.target.checked) {
@@ -98,5 +97,4 @@ export default {
 #decos-table td:nth-child(n + 3) {
   width: 100px
 }
-
 </style>

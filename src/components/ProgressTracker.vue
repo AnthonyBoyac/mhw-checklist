@@ -62,6 +62,8 @@ export default {
         fetchArr = this.gearUrls.decorations
       } else if (this.$route.path.includes('/specialized-tools')) {
         fetchArr = this.gearUrls.tools
+      } else if (this.$route.path.includes('/crowns')) {
+        fetchArr = this.gearUrls.crowns
       }
       fetchArr.forEach((data, index) =>
         fetch(data.url)

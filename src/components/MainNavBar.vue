@@ -6,6 +6,7 @@
     <li><router-link to="/charms">Charms</router-link></li>
     <li><router-link to="/decorations">Decorations</router-link></li>
     <li><router-link to="/specialized-tools">Tools</router-link></li>
+    <li><router-link to="/crowns">Crowns</router-link></li>
   </ul>
 </template>
 
