@@ -26,6 +26,9 @@ export default {
 
 
 <style>
+:root {
+  --main-table-border-color: #6d6d6d;
+}
 html {
   overflow-y: scroll;
   background-color: #000000;
