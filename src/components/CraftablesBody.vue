@@ -9,6 +9,7 @@
       <thead>
         <tr>
           <th>Crafted</th>
+          <th v-if="this.$route.path.includes('/armor')">Upgraded</th>
           <th v-if="!this.$route.path.includes('/charms')">Decorations</th>
           <th>Name</th>
           <th>Material 1</th>
@@ -22,20 +23,30 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="(item, index) in this.theItems" :key="index">
+        <tr v-for="(item) in this.theItems" :key="item.name">
           <td>
             <input type="checkbox" 
             :id='`${item.name}`' 
             :value="`${item.name}`" 
             v-model="clearedItems"
-            @click="enableCheckbox(item.name)" />
+            @click="toggleCrafting(item.name)" />
+          </td>
+          <td v-if="this.$route.path.includes('/armor')">
+            <input type="checkbox" 
+            :id="`${item.name}` + ' upgraded'"
+            :value="`${item.name}` + ' upgraded'" 
+            v-model="fullyUpgraded"
+            @click="toggleUpgrades(item.name + ' upgraded')"
+            disabled/>
           </td>
           <td v-if="!this.$route.path.includes('/charms')">
             <input type="checkbox" 
-            :id="`${item.name}` + 'decos'"
-            :value="`${item.name}` + 'decos'" 
+            :id="`${item.name}` + ' deco'"
+            :value="`${item.name}` + ' deco'" 
             v-model="setDecos"
-            @change="onChange" disabled/>
+            @change="onChange" 
+            @click="toggleDecos(item.name + ' deco')"
+            disabled/>
           </td>
           <td>{{item.name}}</td>
           <td>{{item.item1_name}}</td>
@@ -61,7 +72,8 @@ export default {
   data() {
     return {
       clearedItems: [],
-      setDecos: []
+      setDecos: [],
+      fullyUpgraded: []
     }
   },
   props: {
@@ -75,32 +87,103 @@ export default {
       this.clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
     if (localStorage.getItem('setDecos'))
       this.setDecos = JSON.parse(localStorage.getItem('setDecos'))
+    if (localStorage.getItem('fullyUpgraded'))
+      this.fullyUpgraded = JSON.parse(localStorage.getItem('fullyUpgraded'))
   },
   watch: {
     // add/remove list item in/from local storage depending whether the checkox is checked or not
-    clearedItems: {
-      handler() {
-        localStorage.setItem('craftedGear', JSON.stringify(this.clearedItems))
-      }
+    clearedItems() {
+      localStorage.setItem('craftedGear', JSON.stringify(this.clearedItems))
     },
-    setDecos: {
-      handler() {
-        localStorage.setItem('setDecos', JSON.stringify(this.setDecos))
-      }
+    setDecos() {
+      localStorage.setItem('setDecos', JSON.stringify(this.setDecos))
+    },
+    fullyUpgraded() {
+      localStorage.setItem('fullyUpgraded', JSON.stringify(this.fullyUpgraded))
+    },
+    // when changing sub nav, run function
+    title() {
+      setTimeout(function () {
+        for (var i = 0; i < this.clearedItems.length; i++) {
+          var el = document.getElementById(this.clearedItems[i])
+          if (el != null && !this.$route.path.includes('/armor'))
+            el.parentNode.nextSibling.nextSibling.children[0].disabled = false;
+          else if (el != null && this.$route.path.includes('/armor'))
+            el.parentNode.nextSibling.children[0].disabled = false;
+        };
+        if (this.$route.path.includes('/armor')) {
+          for (var i = 0; i < this.fullyUpgraded.length; i++) {
+            var el = document.getElementById(this.fullyUpgraded[i])
+            if (el != null) {
+              el.disabled = false;
+              el.parentNode.previousSibling.children[0].disabled = true;
+              el.parentNode.nextSibling.children[0].disabled = false;
+            }
+          }
+        };
+        for (var i = 0; i < this.setDecos.length; i++) {
+          var el = document.getElementById(this.setDecos[i])
+          if (el != null) {
+            el.disabled = false;
+            el.parentNode.previousSibling.previousSibling.children[0].disabled = true;
+            if (this.$route.path.includes('/armor'))
+              el.parentNode.previousSibling.children[0].disabled = true;
+          }
+        };
+
+      }.bind(this))
     }
   },
   methods: {
     // update progress counter on checkbox value change 
     onChange(e) {
-      if (e.target.checked) {
+      if (e.target.checked)
         this.$emit('increase', e)
-      } else {
+      else
         this.$emit('decrease', e)
-      }
     },
-    enableCheckbox(e) {
-      console.log(document.getElementById(e).parentNode.nextSibling.children[0])
-      document.getElementById(e).parentNode.nextSibling.children[0].disabled = false;
+    toggleCrafting(e) {
+      var x = this.$route.path
+      setTimeout(function () {
+        if (x.includes('/armor'))
+          var el = document.getElementById(e).parentNode.nextSibling.children[0]
+        else
+          var el = document.getElementById(e).parentNode.nextSibling.nextSibling.children[0]
+
+        if (document.getElementById(e).checked)
+          el.disabled = false;
+        else if (!document.getElementById(e).checked)
+          el.disabled = true;
+
+        el.checked = false;
+      }, 0)
+    },
+    toggleDecos(e) {
+      var x = this.$route.path
+      setTimeout(function () {
+        if (x.includes('/armor'))
+          var el = document.getElementById(e).parentNode.previousSibling.children[0]
+        else
+          var el = document.getElementById(e).parentNode.previousSibling.previousSibling.children[0]
+
+        if (document.getElementById(e).checked) 
+          el.disabled = true;
+        else if (!document.getElementById(e).checked)
+          el.disabled = false;
+        
+      }, 0)
+    },
+    toggleUpgrades(e) {
+      setTimeout(function () {
+        var el = document.getElementById(e)
+        if (el.checked) {
+          el.parentNode.previousSibling.children[0].disabled = true;
+          el.parentNode.nextSibling.children[0].disabled = false;
+        } else if (!el.checked) {
+          el.parentNode.previousSibling.children[0].disabled = false;
+          el.parentNode.nextSibling.children[0].disabled = true;
+        }
+      }, 0)
     }
   }
 }
