@@ -158,19 +158,19 @@ export default {
     },
     checkGear() {
       var compGearChecked = document.getElementById("checkbox-filter");
-      var checkedItems;
+      var clearedItems;
       if (compGearChecked.checked) {
         if (this.currentPath.includes('/decorations'))
-          checkedItems = JSON.parse(localStorage.getItem('unlockedDecos'))
+          clearedItems = JSON.parse(localStorage.getItem('unlockedDecos'))
         else if (this.currentPath.includes('/specialized-tools'))
-          checkedItems = JSON.parse(localStorage.getItem('unlockedTools'))
+          clearedItems = JSON.parse(localStorage.getItem('unlockedTools'))
         else
-          checkedItems = JSON.parse(localStorage.getItem('craftedGear'))
+          clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 
-        for (var i = 0; i < checkedItems.length; i++) {
+        for (var i = 0; i < clearedItems.length; i++) {
           // only check data from current view
-          if (document.getElementById(checkedItems[i]) != null)
-            document.getElementById(checkedItems[i]).parentNode.parentNode.style.display = "revert";
+          if (document.getElementById(clearedItems[i]) != null)
+            document.getElementById(clearedItems[i]).parentNode.parentNode.style.display = "revert";
         }
       }
       compGearChecked.checked = false;
