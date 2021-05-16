@@ -1,5 +1,7 @@
 - Group remaining additions into components
   - WHAT'S REMAINING:
+    - Fix filter for 'Tools' component
+    - Fix checked checkboxes when switching views/composnents
     - Crowns (big/small monsters & big/small crowns)
     - Reach Max Monsters Research Level
     - Craft Palico equipement (separate equipement)
@@ -15,6 +17,7 @@
     - Get Items
     - Get Pendants
     - Unlock Elder Melder's full collection?
+    - Observation log??
     - Complete Deliveries
     - Unlock Room Customization
     - Augment weapons
