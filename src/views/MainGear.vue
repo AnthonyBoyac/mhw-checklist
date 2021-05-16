@@ -64,7 +64,7 @@
       <Crowns 
       :title="currentTitle" 
       :theItems="items" 
-      :maxProgressCount="maxProgress" 
+      :maxProgressCount="maxProgress * 2" 
       :progressCounter="progress"
       @increase="increaseProgress" 
       @decrease="decreaseProgress" />
@@ -164,13 +164,13 @@ export default {
       // check if "hide crafted gear" is selected
       // if yes, display hidden gear, uncheck input, then move on
       this.checkGear()
+      this.currentTitle = theTitle
 
       fetch(theUrl)
         .then(response => response.json())
         .then(res => {
           this.items = res,
-            this.maxProgress = res.length,
-            this.currentTitle = theTitle
+          this.maxProgress = res.length
         })
       this.progress = localStorage.getItem(theTitle + ' count')
       // since 'localStorage' only stores strings, we convert to int
@@ -185,6 +185,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('unlockedDecos'))
         else if (this.currentPath.includes('/specialized-tools'))
           clearedItems = JSON.parse(localStorage.getItem('unlockedTools'))
+        else if (this.currentPath.includes('/crown'))
+          clearedItems = JSON.parse(localStorage.getItem('monstersCrowns'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 

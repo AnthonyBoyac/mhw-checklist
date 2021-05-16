@@ -3,6 +3,7 @@
     <BodyHeader
     :title="title"
     :clearedItems="clearedItems"
+    :setDecos="setDecos"
     :progressCounter="progressCounter"
     :maxProgressCount="maxProgressCount" />
     <table id="gear-table">

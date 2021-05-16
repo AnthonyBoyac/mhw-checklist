@@ -3,7 +3,7 @@
   <div class="gear-header">
     <div class="sort-gear">
       <input type="checkbox" id="checkbox-filter" @click=checkFilter()>
-      <label for="crafted-gear">Hide crafted gear</label>
+      <label for="completed">Hide crafted gear</label>
     </div>
     <div class="gear-progress">
       <span>
@@ -18,6 +18,7 @@
 export default {
   props: {
     clearedItems: Array,
+    setDecos: Array,
     progressCounter: Number,
     maxProgressCount: Number,
     title: String
@@ -25,17 +26,25 @@ export default {
   methods: {
     checkFilter() {
       // hide/display checked gear
+      var currentArr = ''
+      if (this.$route.path.includes('armor') 
+      || this.$route.path.includes('weapon')
+      || this.$route.path.includes('tools'))
+        currentArr = this.setDecos
+      else
+        currentArr = this.clearedItems
+      console.log(currentArr)
       var compGearChecked = document.getElementById("checkbox-filter");
       if (compGearChecked.checked) {
-        for (var i = 0; i < this.clearedItems.length; i++) {
+        for (var i = 0; i < currentArr.length; i++) {
           // only checks data from current view
-          if (document.getElementById(this.clearedItems[i]) != null)
-            document.getElementById(this.clearedItems[i]).parentNode.parentNode.style.display = "none";
+          if (document.getElementById(currentArr[i]) != null)
+            document.getElementById(currentArr[i]).parentNode.parentNode.style.display = "none";
         }
       } else {
-        for (var i = 0; i < this.clearedItems.length; i++) {
-          if (document.getElementById(this.clearedItems[i]) != null)
-            document.getElementById(this.clearedItems[i]).parentNode.parentNode.style.display = "revert";
+        for (var i = 0; i < currentArr.length; i++) {
+          if (document.getElementById(currentArr[i]) != null)
+            document.getElementById(currentArr[i]).parentNode.parentNode.style.display = "revert";
         }
       }
     },

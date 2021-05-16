@@ -27,6 +27,7 @@ export default {
       progressImg: [],
       progressTitle: [],
       soloMaxProgress: [],
+      maxProgressMultiplier: 1
     }
   },
   mounted() {
@@ -51,7 +52,8 @@ export default {
       // reset data to stop duplicates
       this.maxProgress = []
       this.progressImg = []
-      var fetchArr;
+      var fetchArr
+      this.maxProgressMultiplier = 1
       if (this.$route.path.includes('/weapons')) {
         fetchArr = this.gearUrls.weapons
       } else if (this.$route.path.includes('/armor')) {
@@ -64,12 +66,13 @@ export default {
         fetchArr = this.gearUrls.tools
       } else if (this.$route.path.includes('/crowns')) {
         fetchArr = this.gearUrls.crowns
+        this.maxProgressMultiplier = 2
       }
       fetchArr.forEach((data, index) =>
         fetch(data.url)
         .then(response => response.json())
         .then(res => {
-          this.maxProgress[index] = res.length
+          this.maxProgress[index] = res.length * this.maxProgressMultiplier
           this.progressTitle[index] = data.title
           this.progressImg[index] = data.img
           if (localStorage.getItem(data.title + ' count') == null)
