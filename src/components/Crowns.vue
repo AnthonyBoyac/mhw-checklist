@@ -89,6 +89,7 @@ export default {
           if (el == localArr[i]) {
             this.bothCrownsChecked.push(e.target.id)
             localStorage.setItem("bothCrownsCleared", JSON.stringify(this.bothCrownsChecked))
+            break;
           }
         }
         this.$emit('increase', e)
