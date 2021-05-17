@@ -33,7 +33,6 @@ export default {
         currentArr = this.setDecos
       else
         currentArr = this.clearedItems
-      console.log(currentArr)
       var compGearChecked = document.getElementById("checkbox-filter");
       if (compGearChecked.checked) {
         for (var i = 0; i < currentArr.length; i++) {
