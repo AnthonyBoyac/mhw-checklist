@@ -3,6 +3,7 @@
     <BodyHeader
     :title="title"
     :clearedItems="clearedItems"
+    :setDecos="setDecos"
     :progressCounter="progressCounter"
     :maxProgressCount="maxProgressCount" />
     <table id="tools-table">
@@ -72,7 +73,7 @@ export default {
     setDecos() {
       localStorage.setItem('setDecos', JSON.stringify(this.setDecos))
     },
-    title() {
+    maxProgressCount() {
       setTimeout(function () {
         for (var i = 0; i < this.clearedItems.length; i++) {
           var el = document.getElementById(this.clearedItems[i])
