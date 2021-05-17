@@ -1,6 +1,6 @@
 - Group remaining additions into components
   - WHAT'S REMAINING:
-    - Crowns (big/small monsters & big/small crowns)
+    - Crowns (endemic life)
     - Reach Max Monsters Research Level
     - Craft Palico equipement (separate equipement)
       - Low Rank

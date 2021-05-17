@@ -133,7 +133,8 @@ export default {
           { url: '/tools.json', title: 'Specialized Tools'}
         ],
         crowns: [
-          { url: '/monsters_crowns.json', title: 'Crowns'}
+          { url: '/monsters_crowns.json', title: 'Monsters'},
+          { url: '/endemic_life_crowns.json', title: 'Endemic Life'}
         ]
       },
       items: [],
