@@ -108,3 +108,31 @@ export default {
   }
 }
 </script>
+
+<style>
+.sub-nav,
+.gear-container {
+  max-width: 1000px;
+}
+td:first-child,
+td:last-child {
+  width: 100px;
+}
+td:nth-child(2) {
+  width: 250px;
+}
+th:nth-child(3),
+td:nth-child(3) {
+  text-align: center;
+}
+th:nth-child(4),
+td:nth-child(4) {
+  border-left: 2px solid var(--main-table-border-color);
+  width: 0;
+}
+th:last-child,
+td:last-child {
+  border-left: none;
+  text-align: center;
+}
+</style>
