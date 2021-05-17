@@ -64,6 +64,8 @@ export default {
         fetchArr = this.gearUrls.decorations
       } else if (this.$route.path.includes('/specialized-tools')) {
         fetchArr = this.gearUrls.tools
+      } else if (this.$route.path.includes('palico-gear')) {
+        fetchArr = this.gearUrls.palico
       } else if (this.$route.path.includes('/crowns')) {
         fetchArr = this.gearUrls.crowns
         this.maxProgressMultiplier = 2

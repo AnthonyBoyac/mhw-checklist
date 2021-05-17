@@ -32,6 +32,10 @@ const routes = [
     component: MainGear
   },
   {
+    path: '/palico-gear',
+    component: MainGear
+  },
+  {
     path: '/crowns',
     component: MainGear
   },

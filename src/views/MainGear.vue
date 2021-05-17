@@ -26,6 +26,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('palico-gear')">
+      <li v-for="(url, index) in urls.palico" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
     <ul v-else-if="`${currentPath}`.includes('/crowns')">
       <li v-for="(url, index) in urls.crowns" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
@@ -56,6 +61,17 @@
   <div v-else-if="`${currentPath}`.includes('/specialized-tools')">
     <div :class="{ 'toggle-components': isHome }">
       <Tools 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
+  <div v-else-if="`${currentPath}`.includes('palico-gear')">
+    <div :class="{ 'toggle-components': isHome }">
+      <PalicoGear 
       :title="currentTitle" 
       :theItems="items" 
       :maxProgressCount="maxProgress" 
@@ -104,6 +120,7 @@ import ProgressTracker from '@/components/ProgressTracker'
 import CraftablesBody from '@/components/CraftablesBody'
 import Decorations from '@/components/Decorations'
 import Tools from '@/components/Tools'
+import PalicoGear from '@/components/PalicoGear'
 import Crowns from '@/components/Crowns'
 import Research from '@/components/Research'
 
@@ -114,7 +131,8 @@ export default {
     Decorations,
     Tools,
     Crowns,
-    Research
+    Research,
+    PalicoGear
   },
   data() {
     return {
@@ -149,6 +167,11 @@ export default {
         ],
         tools: [
           { url: '/tools.json', title: 'Specialized Tools'}
+        ],
+        palico: [
+          { url: '/palico_low_ranks.json', title: 'Low Rank'},
+          { url: '/palico_high_ranks.json', title: 'High Rank'},
+          { url: '/palico_master_ranks.json', title: 'Master Rank'}
         ],
         crowns: [
           { url: '/monsters.json', title: 'Monsters'},
