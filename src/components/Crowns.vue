@@ -96,7 +96,6 @@ export default {
       } else {
         var localArr = JSON.parse(localStorage.getItem('bothCrownsCleared'))
         for (var i = 0; i < localArr.length; i++) {
-          console.log(i)
           if (localArr[i] == e.target.id || localArr[i] == el) {
             this.bothCrownsChecked.splice(i, 1)
             localStorage.setItem("bothCrownsCleared", JSON.stringify(this.bothCrownsChecked))
