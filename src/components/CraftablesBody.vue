@@ -114,7 +114,7 @@ export default {
     // - watches change in 'title' variable when changing sub nav
     // - used to update default checkbox behavior by toggling the 'disabled' attribute
     // - changes function based on current path
-    title() {
+    maxProgressCount() {
       if (!this.$route.path.includes('/charms')) {
         setTimeout(function () {
           for (var i = 0; i < this.clearedItems.length; i++) {
