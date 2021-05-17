@@ -1,7 +1,6 @@
 - Group remaining additions into components
   - WHAT'S REMAINING:
-    - Crowns (endemic life)
-    - Reach Max Monsters Research Level
+    - Reach Max Monsters Research Level (use 'monsters.json' for monster titles)
     - Craft Palico equipement (separate equipement)
       - Low Rank
       - High Rank
@@ -20,6 +19,7 @@
     - Unlock Room Customization
     - Augment weapons
     - Max upgraded equipement
+    - Add crowns images for table data in 'Crowns' nav
 
 _____
 - Search filter for materials
