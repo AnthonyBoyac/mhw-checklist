@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
+import MainGear from '@/views/MainGear.vue'
 
 const routes = [
   {
@@ -12,27 +13,31 @@ const routes = [
   },
   {
     path: '/armor',
-    component: () => import('../views/MainGear.vue')
+    component: MainGear
   },
   {
     path: '/weapons',
-    component: () => import('../views/MainGear.vue')
+    component: MainGear
   },
   {
     path: '/charms',
-    component: () => import('../views/MainGear.vue')
+    component: MainGear
   },
   {
     path: '/decorations',
-    component: () => import('../views/MainGear.vue')
+    component: MainGear
   },
   {
     path: '/specialized-tools',
-    component: () => import('../views/MainGear.vue')
+    component: MainGear
   },
   {
     path: '/crowns',
-    component: () => import('../views/MainGear.vue')
+    component: MainGear
+  },
+  {
+    path: '/research',
+    component: MainGear
   }
 ]
 

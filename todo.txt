@@ -1,6 +1,5 @@
 - Group remaining additions into components
   - WHAT'S REMAINING:
-    - Reach Max Monsters Research Level (use 'monsters.json' for monster titles)
     - Craft Palico equipement (separate equipement)
       - Low Rank
       - High Rank
@@ -19,8 +18,12 @@
     - Unlock Room Customization
     - Augment weapons
     - Max upgraded equipement
+    - Guild Card titles
+    - Guild Card backgrounds
     - Add crowns images for table data in 'Crowns' nav
 
+Note: For endemic life crowns, eat micro/macrozoologist buff to increase chances of crowns 
+spawning for these
 _____
 - Search filter for materials
 - Find better icons for everything but weapons

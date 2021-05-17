@@ -31,6 +31,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('research')">
+      <li v-for="(url, index) in urls.research" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
   </div>
   <div :class="{ 'toggle-components': !isHome }">
     <ProgressTracker 
@@ -70,6 +75,17 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
+  <div v-else-if="`${currentPath}`.includes('research')">
+    <div :class="{ 'toggle-components': isHome }">
+      <Research 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
   <div v-else>
     <div :class="{ 'toggle-components': isHome }">
       <CraftablesBody 
@@ -89,6 +105,7 @@ import CraftablesBody from '@/components/CraftablesBody'
 import Decorations from '@/components/Decorations'
 import Tools from '@/components/Tools'
 import Crowns from '@/components/Crowns'
+import Research from '@/components/Research'
 
 export default {
   components: {
@@ -96,7 +113,8 @@ export default {
     CraftablesBody,
     Decorations,
     Tools,
-    Crowns
+    Crowns,
+    Research
   },
   data() {
     return {
@@ -135,6 +153,9 @@ export default {
         crowns: [
           { url: '/monsters.json', title: 'Monsters'},
           { url: '/endemic_life_crowns.json', title: 'Endemic Life'}
+        ],
+        research: [
+          { url: '/monsters.json', title: 'Research Level'},
         ]
       },
       items: [],
@@ -188,6 +209,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('unlockedTools'))
         else if (this.currentPath.includes('/crown'))
           clearedItems = JSON.parse(localStorage.getItem('monstersCrowns'))
+        else if (this.currentPath.includes('research'))
+          clearedItems = JSON.parse(localStorage.getItem('maxResearch'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 

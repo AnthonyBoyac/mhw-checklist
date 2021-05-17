@@ -67,6 +67,8 @@ export default {
       } else if (this.$route.path.includes('/crowns')) {
         fetchArr = this.gearUrls.crowns
         this.maxProgressMultiplier = 2
+      } else if (this.$route.path.includes('research')) {
+        fetchArr = this.gearUrls.research
       }
       fetchArr.forEach((data, index) =>
         fetch(data.url)
