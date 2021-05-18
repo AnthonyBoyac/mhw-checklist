@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Vigorwasp Spray",
+    "maxLevel": 15,
+    "unlockCondition": "Starting equipement"
+  },
+  {
+    "name": "Flashfly Cage",
+    "maxLevel": 15,
+    "unlockCondition": "Grimalkyne tribes sidequest in Ancient Forest",
+    "unlockConditionLink": ""
+  },
+  {
+    "name": "Shieldspire",
+    "maxLevel": 15,
+    "unlockCondition": "Grimalkyne tribes sidequest in Wildspire Waste",
+    "unlockConditionLink": ""
+  },
+  {
+    "name": "Plunderblade",
+    "maxLevel": 15,
+    "unlockCondition": "Grimalkyne tribes sidequest in Rotten Vale",
+    "unlockConditionLink": ""
+  },
+  {
+    "name": "Coral Orchestra",
+    "maxLevel": 15,
+    "unlockCondition": "Grimalkyne tribes sidequest in Coral Highlands",
+    "unlockConditionLink": ""
+  },
+  {
+    "name": "Meowlotov Cocktail",
+    "maxLevel": 15,
+    "unlockCondition": "Grimalkyne tribes (Gajalaka) sidequest in Elder's Recess",
+    "unlockConditionLink": ""
+  }
+]
