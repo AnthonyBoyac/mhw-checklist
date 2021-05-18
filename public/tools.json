@@ -1,82 +1,82 @@
 [
   {
     "name": "Vitality Mantle",
-    "description": "Negates a fixed amount of damage"
+    "videoStartTime": ""
   },
   {
     "name": "Ghillie Mantle",
-    "description": "Conceals you from enemy view temporarily. The effect expires if you perform an attack or take damage."
+    "videoStartTime": ""
   },
   {
     "name": "Glider Mantle",
-    "description": "Increases jump airtime and grants the power to ride strong winds. Also makes it easier to mount monsters."
+    "videoStartTime": ""
   },
   {
     "name": "Challenger Mantle",
-    "description": "Prompts monsters to target you more often and makes them easier to lure. The effect expires if you are attacked."
+    "videoStartTime": ""
   },
   {
     "name": "Bandit Mantle",
-    "description": "Causes monsters to drop rare trade-in items when you attack them."
+    "videoStartTime": ""
   },
   {
     "name": "Apothecary Mantle",
-    "description": "Increases the probability of triggering status buildup when attacking with weapons that induce abnormal statuses."
+    "videoStartTime": ""
   },
   {
     "name": "Immunity Mantle",
-    "description": "Removes and nullifies all abnormal status effects for the duration of the effect."
+    "videoStartTime": ""
   },
   {
     "name": "Impact Mantle",
-    "description": "Adds a stun effect to most attacks or increases the potency of an existing stun effect."
+    "videoStartTime": ""
   },
   {
     "name": "Evasion Mantle",
-    "description": "Increases the invulnerability window while evading and grants a temporary attack boost for evading a monster attack at the very last moment."
+    "videoStartTime": ""
   },
   {
     "name": "Rocksteady Mantle",
-    "description": "Eliminates damage reactions"
+    "videoStartTime": ""
   },
   {
     "name": "Fireproof Mantle",
-    "description": "Reduces fire damage"
+    "videoStartTime": ""
   },
   {
     "name": "Waterproof Mantle",
-    "description": "Reduces water damage"
+    "videoStartTime": ""
   },
   {
     "name": "Iceproof Mantle",
-    "description": "Reduces ice damage and nullifies iceblight."
+    "videoStartTime": ""
   },
   {
     "name": "Thunderproof Mantle",
-    "description": "Reduces thunder damage and nullifies thunderblight and paralysis."
+    "videoStartTime": ""
   },
   {
     "name": "Dragonproof Mantle",
-    "description": "Reduces dragon damage"
+    "videoStartTime": ""
   },
   {
     "name": "Temporal Mantle",
-    "description": "Nullifies damage from powerful attacks by automatically evading."
+    "videoStartTime": ""
   },
   {
     "name": "Assassins Hood",
-    "description": "Increases movement speed and allows you to hide quicker. Deals big damage to a monster caught unaware"
+    "videoStartTime": ""
   },
   {
     "name": "Health Booster",
-    "description": "Places a smoker that gradually restores your health."
+    "videoStartTime": ""
   },
   {
     "name": "Cleanser Booster",
-    "description": "Places a smoker that removes any abnormal status effects and elemental blights."
+    "videoStartTime": ""
   },
   {
     "name": "Affinity Booster",
-    "description": "Places a smoker that increases affinity."
+    "videoStartTime": ""
   }
 ]
