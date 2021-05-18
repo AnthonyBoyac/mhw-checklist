@@ -1,10 +1,12 @@
 <template>
   <h1>Complete your {{this.title}} collection</h1>
+    <iframe v-if="this.$route.path.includes('tools')" src="" width="600" height="450"/>
   <div class="gear-header">
     <div class="sort-gear">
       <input type="checkbox" id="checkbox-filter" @click=checkFilter()>
       <label for="completed">Hide crafted gear</label>
     </div>
+
     <div class="gear-progress">
       <span>
         Crafted gear: <span v-if="this.progressCounter == null">0</span>
