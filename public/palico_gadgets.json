@@ -2,36 +2,43 @@
   {
     "name": "Vigorwasp Spray",
     "maxLevel": 15,
-    "unlockCondition": "Starting equipement"
+    "unlockCondition": "Starting equipement",
+    "unlockConditionLink": ""
   },
   {
     "name": "Flashfly Cage",
     "maxLevel": 15,
-    "unlockCondition": "Grimalkyne tribes sidequest in Ancient Forest",
-    "unlockConditionLink": ""
+    "unlockCondition": "Complete Bugtrappers questline in Ancient Forest",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-grimalkynes-doodles-protectors-5937"
   },
   {
     "name": "Shieldspire",
     "maxLevel": 15,
-    "unlockCondition": "Grimalkyne tribes sidequest in Wildspire Waste",
-    "unlockConditionLink": ""
-  },
-  {
-    "name": "Plunderblade",
-    "maxLevel": 15,
-    "unlockCondition": "Grimalkyne tribes sidequest in Rotten Vale",
-    "unlockConditionLink": ""
+    "unlockCondition": "Complete Protectors questline in Wildspire Waste",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-grimalkynes-doodles-protectors-5937"
   },
   {
     "name": "Coral Orchestra",
     "maxLevel": 15,
-    "unlockCondition": "Grimalkyne tribes sidequest in Coral Highlands",
-    "unlockConditionLink": ""
+    "unlockCondition": "Complete Troupers questline in Coral Highlands",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-grimalkynes-doodles-protectors-5937"
+  },
+  {
+    "name": "Plunderblade",
+    "maxLevel": 15,
+    "unlockCondition": "Complete Plunderers questline in Rotten Vale",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-plunderblade-raw-meat-5937"
   },
   {
     "name": "Meowlotov Cocktail",
     "maxLevel": 15,
-    "unlockCondition": "Grimalkyne tribes (Gajalaka) sidequest in Elder's Recess",
-    "unlockConditionLink": ""
+    "unlockCondition": "Complete Gajalaka questline in Elder's Recess",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-gajalaka-markings-gajalaka-linguistics-2-5937"
+  },
+  {
+    "name": "Tailrider Signal",
+    "maxLevel": null,
+    "unlockCondition": "Complete Boaboa questline in Hoarfrost Reach",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2019-09-06-monster-hunter-world-boaboa-quest-by-our-powers-combined-6031"
   }
 ]

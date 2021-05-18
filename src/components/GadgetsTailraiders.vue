@@ -23,9 +23,11 @@
             v-model="clearedItems"
             @change="onChange" />
           </td>
-          <td>{{item.maxLevel}}</td>
+          <td v-if="item.maxLevel == null">none</td><td v-else>{{item.maxLevel}}</td>
           <td>{{item.name}}</td>
-          <td>{{item.unlockCondition}}</td>
+          <td>{{item.unlockCondition}} 
+            <a target="_blank" :href="`${item.unlockConditionLink}`" rel="noopener">here</a>
+          </td>
         </tr>
       </tbody>
     </table>

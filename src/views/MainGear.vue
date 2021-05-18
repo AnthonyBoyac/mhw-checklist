@@ -193,7 +193,7 @@ export default {
         ],
         gadget_tailraider: [
           { url: '/palico_gadgets.json', title: 'Palico Gadgets' },
-          { url: '/tailraiders.json', title: 'Tailraiders' }
+          { url: '/grimalkyne.json', title: 'Tailraiders' }
         ],
         crowns: [
           { url: '/monsters.json', title: 'Monsters'},
