@@ -1,9 +1,5 @@
 - Group remaining additions into components
   - WHAT'S REMAINING:
-    - Max Palico Gadgets
-      - Add url link in json file 
-    - Max Level Tailriders
-      - Add url link in json file 
     - Add unlock description (+ link?) for 'tools.json'
     - Nurture/Upgrade Kinsects
     - Complete Quests
