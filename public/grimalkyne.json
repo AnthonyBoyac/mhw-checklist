@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bugtrappers",
+    "maxLevel": 10,
+    "unlockCondition": "Grimalkyne tribes sidequest in Ancient Forest",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-grimalkynes-doodles-protectors-5937"
+  },
+  {
+    "name": "Protectors",
+    "maxLevel": 10,
+    "unlockCondition": "Grimalkyne tribes sidequest in Wildspire Waste",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-grimalkynes-doodles-protectors-5937"
+  },
+  {
+    "name": "Troupers",
+    "maxLevel": 10,
+    "unlockCondition": "Grimalkyne tribes sidequest in Coral Highlands",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-grimalkynes-doodles-protectors-5937"
+  },
+  {
+    "name": "Plunderers",
+    "maxLevel": 10,
+    "unlockCondition": "Grimalkyne tribes sidequest in Rotten Vale",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-plunderblade-raw-meat-5937"
+  },
+  {
+    "name": "Gajalaka",
+    "maxLevel": 10,
+    "unlockCondition": "Grimalkyne tribes (Gajalaka) sidequest in Elder's Recess",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2018-08-09-monster-hunter-world-gajalaka-markings-gajalaka-linguistics-2-5937"
+  },
+  {
+    "name": "Boaboa",
+    "maxLevel": 10,
+    "unlockCondition": "Complete Boaboa questlines",
+    "unlockConditionLink": "https://www.eurogamer.net/articles/2019-09-06-monster-hunter-world-boaboa-quest-by-our-powers-combined-6031"
+  }
+]
