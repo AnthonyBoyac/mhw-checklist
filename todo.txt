@@ -1,6 +1,8 @@
 - Group remaining additions into components
   - WHAT'S REMAINING:
     - Add unlock description (+ link?) for 'tools.json'
+    - Make a video showing how to unlock specialized tools (with subtitles)
+    - Create json file for upgraded specialized tools (eg. Ghillie Mantle+) w/ unlock description
     - Nurture/Upgrade Kinsects
     - Complete Quests
     - A Rank Arena challenges
