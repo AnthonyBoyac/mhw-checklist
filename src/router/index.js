@@ -36,6 +36,10 @@ const routes = [
     component: MainGear
   },
   {
+    path: '/gadgets-tailraiders',
+    component: MainGear
+  },
+  {
     path: '/crowns',
     component: MainGear
   },

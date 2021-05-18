@@ -31,6 +31,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('gadgets-tailraiders')">
+      <li v-for="(url, index) in urls.gadget_tailraider" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
     <ul v-else-if="`${currentPath}`.includes('/crowns')">
       <li v-for="(url, index) in urls.crowns" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
@@ -72,6 +77,17 @@
   <div v-else-if="`${currentPath}`.includes('palico-gear')">
     <div :class="{ 'toggle-components': isHome }">
       <PalicoGear 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
+  <div v-else-if="`${currentPath}`.includes('gadgets-tailraiders')">
+    <div :class="{ 'toggle-components': isHome }">
+      <GadgetsTailraiders 
       :title="currentTitle" 
       :theItems="items" 
       :maxProgressCount="maxProgress" 
@@ -123,6 +139,7 @@ import Tools from '@/components/Tools'
 import PalicoGear from '@/components/PalicoGear'
 import Crowns from '@/components/Crowns'
 import Research from '@/components/Research'
+import GadgetsTailraiders from '@/components/GadgetsTailraiders'
 
 export default {
   components: {
@@ -132,7 +149,8 @@ export default {
     Tools,
     Crowns,
     Research,
-    PalicoGear
+    PalicoGear,
+    GadgetsTailraiders
   },
   data() {
     return {
@@ -172,6 +190,10 @@ export default {
           { url: '/palico_low_ranks.json', title: 'Low Rank'},
           { url: '/palico_high_ranks.json', title: 'High Rank'},
           { url: '/palico_master_ranks.json', title: 'Master Rank'}
+        ],
+        gadget_tailraider: [
+          { url: '/palico_gadgets.json', title: 'Palico Gadgets' },
+          { url: '/tailraiders.json', title: 'Tailraiders' }
         ],
         crowns: [
           { url: '/monsters.json', title: 'Monsters'},
@@ -230,6 +252,10 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('unlockedDecos'))
         else if (this.currentPath.includes('/specialized-tools'))
           clearedItems = JSON.parse(localStorage.getItem('unlockedTools'))
+        else if (this.currentPath.includes('palico-gear'))
+          clearedItems = JSON.parse(localStorage.getItem('craftedPalicoGear'))
+        else if (this.currentPath.includes('gadgets-tailraiders'))
+          clearedItems = JSON.parse(localStorage.getItem('gadgetsTailraiders'))
         else if (this.currentPath.includes('/crown'))
           clearedItems = JSON.parse(localStorage.getItem('monstersCrowns'))
         else if (this.currentPath.includes('research'))
