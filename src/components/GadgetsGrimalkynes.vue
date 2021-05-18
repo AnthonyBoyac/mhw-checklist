@@ -55,13 +55,13 @@ export default {
   mounted() {
     // get local storage items for each data variable to display 
     // what has been checked off from the checkboxes inputs
-    if (localStorage.getItem('gadgetsTailraiders'))
-      this.clearedItems = JSON.parse(localStorage.getItem('gadgetsTailraiders'))
+    if (localStorage.getItem('gadgetsGrimalkyne'))
+      this.clearedItems = JSON.parse(localStorage.getItem('gadgetsGrimalkyne'))
   },
   watch: {
     // add/remove list item in/from local storage depending whether the checkox is checked or not
     clearedItems() {
-      localStorage.setItem('gadgetsTailraiders', JSON.stringify(this.clearedItems))
+      localStorage.setItem('gadgetsGrimalkyne', JSON.stringify(this.clearedItems))
     }
   },
   methods: {

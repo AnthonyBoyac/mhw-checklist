@@ -31,8 +31,8 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
-    <ul v-else-if="`${currentPath}`.includes('gadgets-tailraiders')">
-      <li v-for="(url, index) in urls.gadget_tailraider" :key="index">
+    <ul v-else-if="`${currentPath}`.includes('gadgets-grimalkyne')">
+      <li v-for="(url, index) in urls.gadget_grimalkyne" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
@@ -85,9 +85,9 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
-  <div v-else-if="`${currentPath}`.includes('gadgets-tailraiders')">
+  <div v-else-if="`${currentPath}`.includes('gadgets-grimalkyne')">
     <div :class="{ 'toggle-components': isHome }">
-      <GadgetsTailraiders 
+      <GadgetsGrimalkynes
       :title="currentTitle" 
       :theItems="items" 
       :maxProgressCount="maxProgress" 
@@ -139,7 +139,7 @@ import Tools from '@/components/Tools'
 import PalicoGear from '@/components/PalicoGear'
 import Crowns from '@/components/Crowns'
 import Research from '@/components/Research'
-import GadgetsTailraiders from '@/components/GadgetsTailraiders'
+import GadgetsGrimalkynes from '@/components/GadgetsGrimalkynes'
 
 export default {
   components: {
@@ -150,7 +150,7 @@ export default {
     Crowns,
     Research,
     PalicoGear,
-    GadgetsTailraiders
+    GadgetsGrimalkynes
   },
   data() {
     return {
@@ -191,9 +191,9 @@ export default {
           { url: '/palico_high_ranks.json', title: 'High Rank'},
           { url: '/palico_master_ranks.json', title: 'Master Rank'}
         ],
-        gadget_tailraider: [
+        gadget_grimalkyne: [
           { url: '/palico_gadgets.json', title: 'Palico Gadgets' },
-          { url: '/grimalkyne.json', title: 'Tailraiders' }
+          { url: '/grimalkyne.json', title: 'Grimalkyne' }
         ],
         crowns: [
           { url: '/monsters.json', title: 'Monsters'},
@@ -254,8 +254,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('unlockedTools'))
         else if (this.currentPath.includes('palico-gear'))
           clearedItems = JSON.parse(localStorage.getItem('craftedPalicoGear'))
-        else if (this.currentPath.includes('gadgets-tailraiders'))
-          clearedItems = JSON.parse(localStorage.getItem('gadgetsTailraiders'))
+        else if (this.currentPath.includes('gadgets-grimalkyne'))
+          clearedItems = JSON.parse(localStorage.getItem('gadgetsGrimalkyne'))
         else if (this.currentPath.includes('/crown'))
           clearedItems = JSON.parse(localStorage.getItem('monstersCrowns'))
         else if (this.currentPath.includes('research'))

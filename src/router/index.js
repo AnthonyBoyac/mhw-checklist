@@ -36,7 +36,7 @@ const routes = [
     component: MainGear
   },
   {
-    path: '/gadgets-tailraiders',
+    path: '/gadgets-grimalkyne',
     component: MainGear
   },
   {
