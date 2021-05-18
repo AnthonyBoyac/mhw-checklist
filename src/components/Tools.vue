@@ -12,7 +12,7 @@
           <th>Unlocked</th>
           <th>Decorated</th>
           <th>Name</th>
-          <th>Description</th>
+          <th>How to unlock</th>
         </tr>
       </thead>
       <tbody>
@@ -34,7 +34,7 @@
             disabled/>
           </td>
           <td>{{item.name}}</td>
-          <td>{{item.description}}</td>
+          <td>Start video at <a :href="`${item.videoStartTime}`">here</a></td>
         </tr>
       </tbody>
     </table>
