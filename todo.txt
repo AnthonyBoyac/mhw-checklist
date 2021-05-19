@@ -1,6 +1,8 @@
 - WHAT'S REMAINING:
   - Complete Quests
-  - Complete Deliveries
+    - Assignments
+    - Special Assignments
+    - Deliveries
   - A Rank Arena challenges
   - Get Items
   - Get Pendants
