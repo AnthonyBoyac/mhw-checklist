@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Defender Tree",
+    "weapons": [
+      {
+        "name": "Defender Great Sword I",
+        "value": 3
+      },
+      {
+        "name": "Defender Great Sword II",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "name": "Ore Tree",
+    "weapons": [
+      {
+        "name": "Ore Sword I",
+        "value": 242
+      },
+      {
+        "name": "Ore Sword I",
+        "value": 102
+      }
+    ]
+  }
+]
