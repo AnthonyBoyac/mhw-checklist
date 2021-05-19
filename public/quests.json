@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Low/High Ranks",
+    "quests": [
+      {
+        "rank": 1,
+        "level": "★1",
+        "quest_title": "Jagras of the Ancient Forest",
+        "quest_link": ""
+      },
+      {
+        "rank": 1,
+        "level": "★2",
+        "quest_title": "A Kestodon Kerfuffle",
+        "quest_link": ""
+      },
+      {
+        "rank": 1,
+        "level": "★2",
+        "quest_title": "The Great Jagras Hunt",
+        "quest_link": ""
+      },
+      {
+        "rank": 2,
+        "level": "★2",
+        "quest_title": "Bird-Brained Bandit",
+        "quest_link": ""
+      },
+      {
+        "rank": 2,
+        "level": "★3",
+        "quest_title": "Urgent: Pukei-Pukei Hunt",
+        "quest_link": ""
+      },
+      {
+        "rank": 3,
+        "level": "★3",
+        "quest_title": "The Best Kind of Quest",
+        "quest_link": ""
+      },
+      {
+        "rank": 3,
+        "level": "★3",
+        "quest_title": "Sinister Shadows in the Swamp",
+        "quest_link": ""
+      },
+      {
+        "rank": 4,
+        "level": "★3",
+        "quest_title": "Flying Sparks: Tobi-Kadachi",
+        "quest_link": ""
+      },
+      {
+        "rank": 4,
+        "level": "★4",
+        "quest_title": "The Encroaching Anjanath",
+        "quest_link": ""
+      },
+      {
+        "rank": 5,
+        "level": "★4",
+        "quest_title": "One for the History Books",
+        "quest_link": ""
+      },
+      {
+        "rank": 6,
+        "level": "★4",
+        "quest_title": "Ballooning Problems",
+        "quest_link": ""
+      },
+      {
+        "rank": 7,
+        "level": "★4",
+        "quest_title": "Radobaan Roadblock",
+        "quest_link": ""
+      },
+      {
+        "rank": 8,
+        "level": "★5",
+        "quest_title": "Legiana: Embodiment of Elegance",
+        "quest_link": ""
+      },
+      {
+        "rank": 8,
+        "level": "★5",
+        "quest_title": "Into the Bowels of the Vale",
+        "quest_link": ""
+      },
+      {
+        "rank": 8,
+        "level": "★5",
+        "quest_title": "A Fiery Throne Atop the Forest",
+        "quest_link": ""
+      },
+      {
+        "rank": 8,
+        "level": "★5",
+        "quest_title": "Horned Tyrant Below the Sands",
+        "quest_link": ""
+      },
+      {
+        "rank": 10,
+        "level": "★6",
+        "quest_title": "A Colossal Task",
+        "quest_link": ""
+      },
+      {
+        "rank": 11,
+        "level": "★6",
+        "quest_title": "Invader in the Waste",
+        "quest_link": ""
+      },
+      {
+        "rank": 12,
+        "level": "★6",
+        "quest_title": "Tickled Pink",
+        "quest_link": ""
+      },
+      {
+        "rank": 13,
+        "level": "★7",
+        "quest_title": "Old World Monster in the New World",
+        "quest_link": ""
+      },
+      {
+        "rank": 14,
+        "level": "★8",
+        "quest_title": "A Wound and a Thirst",
+        "quest_link": ""
+      },
+      {
+        "rank": 14,
+        "level": "★8",
+        "quest_title": "Kushala Daora",
+        "quest_link": ""
+      },
+      {
+        "rank": 14,
+        "level": "★8",
+        "quest_title": "Teostra the Infernal",
+        "quest_link": ""
+      },
+      {
+        "rank": 14,
+        "level": "★8",
+        "quest_title": "Hellish Fiend Vaal Hazak",
+        "quest_link": ""
+      },
+      {
+        "rank": 15,
+        "level": "★9",
+        "quest_title": "Land of Convergence",
+        "quest_link": ""
+      },
+      {
+        "rank": 29,
+        "level": "★9",
+        "quest_title": "Beyond the Blasting Scales",
+        "quest_link": ""
+      },
+      {
+        "rank": 49,
+        "level": "★9",
+        "quest_title": "Thunderous Rumble in the Highlands",
+        "quest_link": ""
+      }
+    ]
+  },
+  {
+    "name": "Master Rank",
+    "quests": [
+      {
+        "master_rank": 1,
+        "level": 1,
+        "quest_title": "Baptism by Ice",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 2,
+        "level": 1,
+        "quest_title": "Banbaro Blockade",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 3,
+        "level": 2,
+        "quest_title": "Ready to Strike",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 4,
+        "level": 2,
+        "quest_title": "No Time for Naps",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 4,
+        "level": 2,
+        "quest_title": "Play Both Ends",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 6,
+        "level": 3,
+        "quest_title": "Blizzard Blitz",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 7,
+        "level": 3,
+        "quest_title": "Ever-present Shadow",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 7,
+        "level": 3,
+        "quest_title": "The Scorching Blade",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 9,
+        "level": 3,
+        "quest_title": "Absolute Power",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 9,
+        "level": 3,
+        "quest_title": "A Smashing Cross Counter",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 11,
+        "level": 3,
+        "quest_title": "A Tale of Ice and Fire",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 12,
+        "level": 4,
+        "quest_title": "When the Mist Taketh You",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 13,
+        "level": 4,
+        "quest_title": "The Thunderous Troublemaker!",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 14,
+        "level": 4,
+        "quest_title": "The Disintegrating Blade",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 14,
+        "level": 4,
+        "quest_title": "Bad Friends",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 16,
+        "level": 4,
+        "quest_title": "The Defense of Seliana",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 17,
+        "level": 5,
+        "quest_title": "The Iceborne Wyvern",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 18,
+        "level": 5,
+        "quest_title": "The Second Coming",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 19,
+        "level": 5,
+        "quest_title": "Under the Veil of Death",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 20,
+        "level": 5,
+        "quest_title": "A Light From the Abyss",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 21,
+        "level": 6,
+        "quest_title": "To the Guided",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 22,
+        "level": 6,
+        "quest_title": "Paean of Guidance",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 24,
+        "level": 6,
+        "quest_title": "Return of the Crazy One",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 49,
+        "level": 6,
+        "quest_title": "Sleep Now in the Fire",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 69,
+        "level": 6,
+        "quest_title": "Big Burly Bash",
+        "quest_link": ""
+      },
+      {
+        "master_rank": 99,
+        "level": 6,
+        "quest_title": "To the Very Ends with You",
+        "quest_link": ""
+      }
+    ]
+  }
+]
