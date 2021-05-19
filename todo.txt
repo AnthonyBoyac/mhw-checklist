@@ -1,21 +1,20 @@
-- Group remaining additions into components
-  - WHAT'S REMAINING:
-    - Make a video showing how to unlock specialized tools (with subtitles)
-    - Create json file for upgraded specialized tools (eg. Ghillie Mantle+) w/ unlock description
-    - Nurture/Upgrade Kinsects
-    - Complete Quests
-    - A Rank Arena challenges
-    - Get Items
-    - Get Pendants
-    - Unlock Elder Melder's full collection?
-    - Observation log??
-    - Complete Deliveries
-    - Unlock Room Customization
-    - Augment weapons
-    - Max upgraded equipement
-    - Guild Card titles
-    - Guild Card backgrounds
-    - Add crowns images for table data in 'Crowns' nav
+- WHAT'S REMAINING:
+  - Complete Quests
+  - Complete Deliveries
+  - A Rank Arena challenges
+  - Get Items
+  - Get Pendants
+  - Unlock Elder Melder's full collection?
+  - Observation log??
+  - Unlock Room Customization
+  - Guild Card titles
+  - Guild Card backgrounds
+  - Make a video showing how to unlock specialized tools (with subtitles)
+  - Copy MHW weapons layout (list + tree view)
+  - Augment weapons
+  - Max upgraded equipement
+  - Copy MHW layout for kinsect (look at tree, hover function, etc.)
+  - Add crowns images for table data in 'Crowns' nav
 
 Note: For endemic life crowns, eat micro/macrozoologist buff to increase chances of crowns 
 spawning for these
