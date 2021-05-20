@@ -46,6 +46,10 @@ const routes = [
   {
     path: '/research',
     component: MainGear
+  },
+  {
+    path: '/quests',
+    component: MainGear
   }
 ]
 
