@@ -10,6 +10,7 @@
     <li><router-link to="/gadgets-grimalkyne">Palico Gadgets + Grimalkyne</router-link></li>
     <li><router-link to="/crowns">Crowns</router-link></li>
     <li><router-link to="/research">Research</router-link></li>
+    <li><router-link to="/quests">Quests</router-link></li>
   </ul>
 </template>
 

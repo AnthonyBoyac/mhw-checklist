@@ -53,6 +53,7 @@ export default {
       this.maxProgress = []
       this.progressImg = []
       var fetchArr
+      var nestedObjectProgress = 0;
       this.maxProgressMultiplier = 1
       if (this.$route.path.includes('/weapons')) {
         fetchArr = this.gearUrls.weapons
@@ -73,12 +74,21 @@ export default {
         this.maxProgressMultiplier = 2
       } else if (this.$route.path.includes('research')) {
         fetchArr = this.gearUrls.research
+      } else if (this.$route.path.includes('quest')) {
+        fetchArr = this.gearUrls.quests
       }
       fetchArr.forEach((data, index) =>
         fetch(data.url)
         .then(response => response.json())
         .then(res => {
+          if (this.$route.path.includes('quest')) {
+            for (var i = 0; i < res.length; i++) {
+              nestedObjectProgress += res[i].quests.length
+            }
+          this.maxProgress[index] = nestedObjectProgress * this.maxProgressMultiplier
+          } else {
           this.maxProgress[index] = res.length * this.maxProgressMultiplier
+          }
           this.progressTitle[index] = data.title
           this.progressImg[index] = data.img
           if (localStorage.getItem(data.title + ' count') == null)

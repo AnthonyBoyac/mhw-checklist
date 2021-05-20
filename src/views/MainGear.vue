@@ -46,6 +46,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('quest')">
+      <li v-for="(url, index) in urls.quests" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
   </div>
   <div :class="{ 'toggle-components': !isHome }">
     <ProgressTracker 
@@ -118,6 +123,17 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
+  <div v-else-if="`${currentPath}`.includes('quest')">
+    <div :class="{ 'toggle-components': isHome }">
+      <Quests 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
   <div v-else>
     <div :class="{ 'toggle-components': isHome }">
       <CraftablesBody 
@@ -140,6 +156,7 @@ import PalicoGear from '@/components/PalicoGear'
 import Crowns from '@/components/Crowns'
 import Research from '@/components/Research'
 import GadgetsGrimalkynes from '@/components/GadgetsGrimalkynes'
+import Quests from '@/components/Quests'
 
 export default {
   components: {
@@ -150,7 +167,8 @@ export default {
     Crowns,
     Research,
     PalicoGear,
-    GadgetsGrimalkynes
+    GadgetsGrimalkynes,
+    Quests
   },
   data() {
     return {
@@ -201,6 +219,9 @@ export default {
         ],
         research: [
           { url: '/monsters.json', title: 'Research Level'},
+        ],
+        quests: [
+          { url: '/quests.json', title: 'Assignments'}
         ]
       },
       items: [],
@@ -227,6 +248,7 @@ export default {
     navChange(theUrl, theTitle) {
       this.isHome = false;
       this.updateData = false;
+      var nestedObjectProgress = 0;
       // before fetching the json file, call function:
       // check if "hide crafted gear" is selected
       // if yes, display hidden gear, uncheck input, then move on
@@ -236,8 +258,15 @@ export default {
       fetch(theUrl)
         .then(response => response.json())
         .then(res => {
-          this.items = res,
+          this.items = res
+          if (this.currentPath.includes('quest')) {
+            for (var i = 0; i < res.length; i++) {
+              nestedObjectProgress += res[i].quests.length
+            }
+          this.maxProgress = nestedObjectProgress
+          } else {
           this.maxProgress = res.length
+          }
         })
       this.progress = localStorage.getItem(theTitle + ' count')
       // since 'localStorage' only stores strings, we convert to int
@@ -260,6 +289,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('monstersCrowns'))
         else if (this.currentPath.includes('research'))
           clearedItems = JSON.parse(localStorage.getItem('maxResearch'))
+        else if (this.currentPath.includes('quest'))
+          clearedItems = JSON.parse(localStorage.getItem('completedQuests'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 
