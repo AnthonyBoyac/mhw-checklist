@@ -76,6 +76,8 @@ export default {
         fetchArr = this.gearUrls.research
       } else if (this.$route.path.includes('quest')) {
         fetchArr = this.gearUrls.quests
+      } else if (this.$route.path.includes('deliveries')) {
+        fetchArr = this.gearUrls.deliveries
       }
       fetchArr.forEach((data, index) =>
         fetch(data.url)

@@ -51,6 +51,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('deliveries')">
+      <li v-for="(url, index) in urls.deliveries" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
   </div>
   <div :class="{ 'toggle-components': !isHome }">
     <ProgressTracker 
@@ -134,6 +139,17 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
+  <div v-else-if="`${currentPath}`.includes('deliveries')">
+    <div :class="{ 'toggle-components': isHome }">
+      <Deliveries 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
   <div v-else>
     <div :class="{ 'toggle-components': isHome }">
       <CraftablesBody 
@@ -157,6 +173,7 @@ import Crowns from '@/components/Crowns'
 import Research from '@/components/Research'
 import GadgetsGrimalkynes from '@/components/GadgetsGrimalkynes'
 import Quests from '@/components/Quests'
+import Deliveries from '@/components/Deliveries'
 
 export default {
   components: {
@@ -168,7 +185,8 @@ export default {
     Research,
     PalicoGear,
     GadgetsGrimalkynes,
-    Quests
+    Quests,
+    Deliveries
   },
   data() {
     return {
@@ -222,6 +240,9 @@ export default {
         ],
         quests: [
           { url: '/quests.json', title: 'Assignments'}
+        ],
+        deliveries: [
+          { url: '/deliveries.json', title: 'Deliveries'}
         ]
       },
       items: [],
@@ -291,6 +312,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('maxResearch'))
         else if (this.currentPath.includes('quest'))
           clearedItems = JSON.parse(localStorage.getItem('completedQuests'))
+        else if (this.currentPath.includes('deliveries'))
+          clearedItems = JSON.parse(localStorage.getItem('completedDeliveries'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 
