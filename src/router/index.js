@@ -50,6 +50,10 @@ const routes = [
   {
     path: '/quests',
     component: MainGear
+  },
+  {
+    path: '/deliveries',
+    component: MainGear
   }
 ]
 
