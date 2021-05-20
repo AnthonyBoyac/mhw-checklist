@@ -8,8 +8,8 @@
     <table id="deliveries-table">
       <thead>
         <tr>
-          <th>Reached Max Level</th>
-          <th>Monster Name</th>
+          <th>Completed</th>
+          <th>Deliveries Title</th>
         </tr>
       </thead>
       <tbody>
