@@ -36,6 +36,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('pendant')">
+      <li v-for="(url, index) in urls.pendants" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
     <ul v-else-if="`${currentPath}`.includes('/crowns')">
       <li v-for="(url, index) in urls.crowns" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
@@ -98,6 +103,17 @@
   <div v-else-if="`${currentPath}`.includes('gadgets-grimalkyne')">
     <div :class="{ 'toggle-components': isHome }">
       <GadgetsGrimalkynes
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
+  <div v-else-if="`${currentPath}`.includes('pendant')">
+    <div :class="{ 'toggle-components': isHome }">
+      <Pendants
       :title="currentTitle" 
       :theItems="items" 
       :maxProgressCount="maxProgress" 
@@ -174,6 +190,7 @@ import Research from '@/components/Research'
 import GadgetsGrimalkynes from '@/components/GadgetsGrimalkynes'
 import Quests from '@/components/Quests'
 import Deliveries from '@/components/Deliveries'
+import Pendants from '@/components/Pendants'
 
 export default {
   components: {
@@ -186,7 +203,8 @@ export default {
     PalicoGear,
     GadgetsGrimalkynes,
     Quests,
-    Deliveries
+    Deliveries,
+    Pendants
   },
   data() {
     return {
@@ -243,6 +261,9 @@ export default {
         ],
         deliveries: [
           { url: '/deliveries.json', title: 'Deliveries'}
+        ],
+        pendants: [
+          { url: '/pendants.json', title: 'Pendants'}
         ]
       },
       items: [],
@@ -314,6 +335,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('completedQuests'))
         else if (this.currentPath.includes('deliveries'))
           clearedItems = JSON.parse(localStorage.getItem('completedDeliveries'))
+        else if (this.currentPath.includes('pendants'))
+          clearedItems = JSON.parse(localStorage.getItem('completedPendants'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 

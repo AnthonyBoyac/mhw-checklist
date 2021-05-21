@@ -8,6 +8,7 @@
     <li><router-link to="/specialized-tools">Tools</router-link></li>
     <li><router-link to="/palico-gear">Palico Gear</router-link></li>
     <li><router-link to="/gadgets-grimalkyne">Palico Gadgets + Grimalkyne</router-link></li>
+    <li><router-link to="/pendants">Pendants</router-link></li>
     <li><router-link to="/crowns">Crowns</router-link></li>
     <li><router-link to="/research">Research</router-link></li>
     <li><router-link to="/quests">Quests</router-link></li>

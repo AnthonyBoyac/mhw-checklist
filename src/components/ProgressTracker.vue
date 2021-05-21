@@ -69,6 +69,8 @@ export default {
         fetchArr = this.gearUrls.palico
       } else if (this.$route.path.includes('gadgets-grimalkyne')) {
         fetchArr = this.gearUrls.gadget_grimalkyne
+      } else if (this.$route.path.includes('pendants')) {
+        fetchArr = this.gearUrls.pendants
       } else if (this.$route.path.includes('/crowns')) {
         fetchArr = this.gearUrls.crowns
         this.maxProgressMultiplier = 2
