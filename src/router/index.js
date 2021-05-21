@@ -58,6 +58,10 @@ const routes = [
   {
     path: '/deliveries',
     component: MainGear
+  },
+  {
+    path: '/crafting',
+    component: MainGear
   }
 ]
 

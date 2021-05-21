@@ -13,6 +13,7 @@
     <li><router-link to="/research">Research</router-link></li>
     <li><router-link to="/quests">Quests</router-link></li>
     <li><router-link to="/deliveries">Deliveries</router-link></li>
+    <li><router-link to="/crafting">Crafting</router-link></li>
   </ul>
 </template>
 
