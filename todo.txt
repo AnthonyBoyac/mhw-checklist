@@ -1,7 +1,5 @@
 - WHAT'S REMAINING:
-  - A Rank Arena challenges (next)
-  - Crafting List
-  - Unlock Elder Melder's full collection?
+  - Unlock Elder Melder's full collection? (next)
   - Observation log??
   - Unlock Room Customization
   - Guild Card titles
@@ -10,6 +8,7 @@
   - Copy MHW weapons layout (list + tree view)
   - Augment weapons
   - Max upgraded equipement
+  - A Rank Arena quests - not challenges
   - Copy MHW layout for kinsect (look at tree, hover function, etc.)
   - Add crowns images for table data in 'Crowns' nav
 
