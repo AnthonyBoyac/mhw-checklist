@@ -40,6 +40,10 @@ const routes = [
     component: MainGear
   },
   {
+    path: '/pendants',
+    component: MainGear
+  },
+  {
     path: '/crowns',
     component: MainGear
   },
