@@ -1,5 +1,6 @@
 - WHAT'S REMAINING:
   - Unlock Elder Melder's full collection? (next)
+  - Elder Melder (lures (unlock: encounter monster at least once in guiding lands))
   - Observation log??
   - Unlock Room Customization
   - Guild Card titles
