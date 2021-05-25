@@ -71,6 +71,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('room')">
+      <li v-for="(url, index) in urls.room" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
   </div>
   <div :class="{ 'toggle-components': !isHome }">
     <ProgressTracker 
@@ -198,6 +203,17 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
+  <div v-else-if="`${currentPath}`.includes('room')">
+    <div :class="{ 'toggle-components': isHome }">
+      <Room 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
   <div v-else>
     <div :class="{ 'toggle-components': isHome }">
       <CraftablesBody 
@@ -225,6 +241,7 @@ import Deliveries from '@/components/Deliveries'
 import Pendants from '@/components/Pendants'
 import Crafting from '@/components/Crafting'
 import Elder from '@/components/Elder'
+import Room from '@/components/Room'
 
 export default {
   components: {
@@ -240,7 +257,8 @@ export default {
     Deliveries,
     Pendants,
     Crafting,
-    Elder
+    Elder,
+    Room
   },
   data() {
     return {
@@ -308,6 +326,9 @@ export default {
           { url: '/elder_items.json', title: 'Items'},
           { url: '/elder_decos.json', title: 'Decorations'},
           { url: '/elder_lures.json', title: 'Lures'}
+        ],
+        room: [
+          { url: '/room.json', title: 'Room Decor'}
         ]
       },
       items: [],
@@ -385,6 +406,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('unlockedCrafting'))
         else if (this.currentPath.includes('elder'))
           clearedItems = JSON.parse(localStorage.getItem('unlockedElderItems'))
+        else if (this.currentPath.includes('room'))
+          clearedItems = JSON.parse(localStorage.getItem('unlockedRoomDecor'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 

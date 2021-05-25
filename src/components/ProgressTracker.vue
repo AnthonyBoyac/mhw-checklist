@@ -84,6 +84,8 @@ export default {
         fetchArr = this.gearUrls.crafting
       } else if (this.$route.path.includes('elder')) {
         fetchArr = this.gearUrls.elder
+      } else if(this.$route.path.includes('room')) {
+        fetchArr = this.gearUrls.room
       }
       fetchArr.forEach((data, index) =>
         fetch(data.url)
