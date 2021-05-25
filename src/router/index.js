@@ -66,6 +66,10 @@ const routes = [
   {
     path: '/elder',
     component: MainGear
+  },
+  {
+    path: '/room',
+    component: MainGear
   }
 ]
 
