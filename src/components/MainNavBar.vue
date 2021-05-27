@@ -16,6 +16,7 @@
     <li><router-link to="/crafting">Crafting</router-link></li>
     <li><router-link to="/elder">Elder Melder</router-link></li>
     <li><router-link to="/room">Room Decor</router-link></li>
+    <li><router-link to="/observation">Observation Log</router-link></li>
   </ul>
 </template>
 

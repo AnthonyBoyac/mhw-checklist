@@ -76,6 +76,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('observation')">
+      <li v-for="(url, index) in urls.observation" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
   </div>
   <div :class="{ 'toggle-components': !isHome }">
     <ProgressTracker 
@@ -214,6 +219,17 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
+  <div v-else-if="`${currentPath}`.includes('observation')">
+    <div :class="{ 'toggle-components': isHome }">
+      <Observation 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
   <div v-else>
     <div :class="{ 'toggle-components': isHome }">
       <CraftablesBody 
@@ -242,6 +258,7 @@ import Pendants from '@/components/Pendants'
 import Crafting from '@/components/Crafting'
 import Elder from '@/components/Elder'
 import Room from '@/components/Room'
+import Observation from '@/components/Observation'
 
 export default {
   components: {
@@ -258,7 +275,8 @@ export default {
     Pendants,
     Crafting,
     Elder,
-    Room
+    Room,
+    Observation
   },
   data() {
     return {
@@ -329,6 +347,9 @@ export default {
         ],
         room: [
           { url: '/room.json', title: 'Room Decor'}
+        ],
+        observation: [
+          { url: '/observation_log.json', title: 'Observation Log'}
         ]
       },
       items: [],
@@ -408,6 +429,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('unlockedElderItems'))
         else if (this.currentPath.includes('room'))
           clearedItems = JSON.parse(localStorage.getItem('unlockedRoomDecor'))
+        else if (this.currentPath.includes('observation'))
+          clearedItems = JSON.parse(localStorage.getItem('completedObsLog'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 
