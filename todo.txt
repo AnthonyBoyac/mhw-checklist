@@ -1,6 +1,6 @@
 - WHAT'S REMAINING:
-  - Observation log??
-  - Unlock Room Customization (next)
+  - Add description prop to each component explaining what each table consist of (look below)
+  - Unlock Room Customization
     - to unlock all of them, complete all main story quests, optional quests from housekeeper, photography
     research requests, deliveries, treasure tips, endemic life, and fishing bounties
   - Guild Card titles
