@@ -70,6 +70,10 @@ const routes = [
   {
     path: '/room',
     component: MainGear
+  },
+  {
+    path: '/observation',
+    component: MainGear
   }
 ]
 
