@@ -1,6 +1,7 @@
 <template>
   <h1>Complete your {{this.title}} collection</h1>
-    <iframe v-if="this.$route.path.includes('tools')" src="" width="600" height="450"/>
+  <div class="description">{{this.tableDescription}}</div>
+  <iframe v-if="this.$route.path.includes('tools')" src="" width="600" height="450"/>
   <div class="gear-header">
     <div class="sort-gear">
       <input type="checkbox" id="checkbox-filter" @click=checkFilter()>
@@ -9,7 +10,9 @@
 
     <div class="gear-progress">
       <span>
-        Crafted gear: <span v-if="this.progressCounter == null">0</span>
+        <span v-if="!this.$route.path.includes('charms')">{{this.progressName}}</span>
+        <span v-else>{{this.charmProgressName}}</span>
+        : <span v-if="this.progressCounter == null">0</span>
         {{this.progressCounter}} / {{this.maxProgressCount}}
       </span>
     </div>
@@ -23,7 +26,10 @@ export default {
     setDecos: Array,
     progressCounter: Number,
     maxProgressCount: Number,
-    title: String
+    title: String,
+    tableDescription: String,
+    progressName: String,
+    charmProgressName: String
   },
   methods: {
     checkFilter() {
