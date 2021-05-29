@@ -1,9 +1,5 @@
 - WHAT'S REMAINING:
-  - Add description prop to each component explaining what each table consist of (look below)
-  - Unlock Room Customization
-    - to unlock all of them, complete all main story quests, optional quests from housekeeper, photography
-    research requests, deliveries, treasure tips, endemic life, and fishing bounties
-  - Guild Card titles
+  - Guild Card titles (next)
   - Guild Card backgrounds
   - Make a video showing how to unlock specialized tools (with subtitles)
   - Copy MHW weapons layout (list + tree view)
@@ -12,6 +8,10 @@
   - A Rank Arena quests - not challenges
   - Copy MHW layout for kinsect (look at tree, hover function, etc.)
   - Add crowns images for table data in 'Crowns' nav
+  - Add description prop to each component explaining what each table consist of
+    - eg: to unlock all room decor, complete all main story quests, optional quests from housekeeper, photography,
+    research requests, deliveries, treasure tips, endemic life, and fishing bounties
+
 
 Note: For endemic life crowns, eat micro/macrozoologist buff to increase chances of crowns 
 spawning for these
