@@ -1,0 +1,4002 @@
+[
+  {
+    "name": "Antidote Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Antipara Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Pep Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Steadfast Jewel 1",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Antiblast Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Suture Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Def Lock Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Earplug Jewel 3",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Wind Resist Jewel 2",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Footing Jewel 2",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Attack Jewel 1",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Defense Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Vitality Jewel 1",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Recovery Jewel 1",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Fire Res Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Water Res Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Ice Res Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Thunder Res Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Dragon Res Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Resistor Jewel 1",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Blaze Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Stream Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Frost Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Bolt Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Dragon Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Venom Jewel 1",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Paralyzer Jewel 1",
+    "mysterious": null,
+    "glowing": 0.05,
+    "worn": 0.30,
+    "warped": 0.90,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Sleep Jewel 1",
+    "mysterious": null,
+    "glowing": 0.08,
+    "worn": 0.50,
+    "warped": 1.50,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Blast Jewel 1",
+    "mysterious": null,
+    "glowing": 0.05,
+    "worn": 0.30,
+    "warped": 0.90,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Poisoncoat Jewel 3",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Paracoat Jewel 3",
+    "mysterious": null,
+    "glowing": 0.05,
+    "worn": 0.30,
+    "warped": 0.90,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Sleepcoat Jewel 3",
+    "mysterious": null,
+    "glowing": 0.08,
+    "worn": 0.50,
+    "warped": 1.50,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Blastcoat Jewel 3",
+    "mysterious": null,
+    "glowing": 0.08,
+    "worn": 0.50,
+    "warped": 1.50,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Release Jewel 3",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Expert Jewel 1",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Critical Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.45,
+    "warped": 1.14,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Tenderizer Jewel 2",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Charger Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Handicraft Jewel 3",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Draw Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Destroyer Jewel 2",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "KO Jewel 2",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Drain Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Flight Jewel 2",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Throttle Jewel 2",
+    "mysterious": null,
+    "glowing": 0.08,
+    "worn": 0.50,
+    "warped": 1.50,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Challenger Jewel 2",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Flawless Jewel 2",
+    "mysterious": null,
+    "glowing": 0.08,
+    "worn": 0.50,
+    "warped": 1.50,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Potential Jewel 2",
+    "mysterious": null,
+    "glowing": 0.08,
+    "worn": 0.50,
+    "warped": 1.50,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Fortitude Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Furor Jewel 2",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Sonorous Jewel 1",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Magazine Jewel 2",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Trueshot Jewel 1",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Artillery Jewel 1",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.27,
+    "warped": 0.68,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Heavy Artillery Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Sprinter Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Physique Jewel 2",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Refresh Jewel 2",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Hungerless Jewel 1",
+    "mysterious": 0.91,
+    "glowing": 0.70,
+    "worn": 0.11,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Evasion Jewel 2",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Jumping Jewel 2",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Ironwall Jewel 1",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 1.05,
+    "sealed": 0.60
+  },
+  {
+    "name": "Sheath Jewel 1",
+    "mysterious": 0.14,
+    "glowing": 0.32,
+    "worn": 0.78,
+    "warped": 0.73,
+    "ancient": 0.50,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Friendship Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Enduring Jewel 1",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Satiated Jewel 1",
+    "mysterious": 0.91,
+    "glowing": 0.70,
+    "worn": 0.11,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Gobbler Jewel 1",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Grinder Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Bomber Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Fungiform Jewel 1",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Protection Jewel 1",
+    "mysterious": 0.91,
+    "glowing": 0.70,
+    "worn": 0.11,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Meowster Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Botany Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Geology Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Mighty Jewel 2",
+    "mysterious": null,
+    "glowing": 0.05,
+    "worn": 0.30,
+    "warped": 0.90,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Stonethrower Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Tip Toe Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Brace Jewel 3",
+    "mysterious": 0.71,
+    "glowing": 1.62,
+    "worn": 3.90,
+    "warped": 3.67,
+    "ancient": 2.52,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Smoke Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Mirewalker Jewel 1",
+    "mysterious": 0.91,
+    "glowing": 0.70,
+    "worn": 0.11,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Specimen Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Scent Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Intimidator Jewel 1",
+    "mysterious": 0.91,
+    "glowing": 0.70,
+    "worn": 0.11,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Slider Jewel 2",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Medicine Jewel 1",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Forceshot Jewel 3",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Pierce Jewel 3",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Spread Jewel 3",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.27,
+    "warped": 0.68,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Enhancer Jewel 2",
+    "mysterious": null,
+    "glowing": 0.05,
+    "worn": 0.30,
+    "warped": 0.90,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Crisis Jewel 1",
+    "mysterious": 4.57,
+    "glowing": 3.49,
+    "worn": 0.54,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Dragonseal Jewel 3",
+    "mysterious": null,
+    "glowing": 0.05,
+    "worn": 0.30,
+    "warped": 0.90,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Maintenance Jewel 1",
+    "mysterious": 0.91,
+    "glowing": 0.70,
+    "worn": 0.11,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Mighty Bow Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.27,
+    "warped": 0.68,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Minds Eye Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": 0.09,
+    "warped": 0.23,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Shield Jewel 2",
+    "mysterious": null,
+    "glowing": 0.02,
+    "worn": 0.10,
+    "warped": 0.30,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Sharp Jewel 2",
+    "mysterious": null,
+    "glowing": 0.05,
+    "worn": 0.30,
+    "warped": 0.90,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Elementless Jewel 2",
+    "mysterious": 0.43,
+    "glowing": 0.97,
+    "worn": 2.34,
+    "warped": 2.20,
+    "ancient": 1.51,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Miasma Jewel 1",
+    "mysterious": 2.74,
+    "glowing": 2.10,
+    "worn": 0.32,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Phoenix Jewel 3",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Guardian Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 1.05,
+    "sealed": 0.60
+  },
+  {
+    "name": "Cooling Jewel 2",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.53,
+    "sealed": 0.30
+  },
+  {
+    "name": "Fire Res Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Water Res Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Ice Res Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Thunder Res Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Dragon Res Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Blaze Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.28,
+    "carved": 0.75,
+    "sealed": 1.11
+  },
+  {
+    "name": "Stream Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.28,
+    "carved": 0.75,
+    "sealed": 1.11
+  },
+  {
+    "name": "Frost Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.28,
+    "carved": 0.75,
+    "sealed": 1.11
+  },
+  {
+    "name": "Bolt Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.28,
+    "carved": 0.75,
+    "sealed": 1.11
+  },
+  {
+    "name": "Dragon Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.28,
+    "carved": 0.75,
+    "sealed": 1.11
+  },
+  {
+    "name": "Venom Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.19,
+    "carved": 0.50,
+    "sealed": 0.74
+  },
+  {
+    "name": "Paralyzer Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.19,
+    "carved": 0.50,
+    "sealed": 0.74
+  },
+  {
+    "name": "Sleep Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.19,
+    "carved": 0.50,
+    "sealed": 0.74
+  },
+  {
+    "name": "Blast Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.19,
+    "carved": 0.50,
+    "sealed": 0.74
+  },
+  {
+    "name": "Hard Fire Res Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Water Res Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Ice Res Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Thunder Res Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Dragon Res Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Antidote Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Antipara Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Pep Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Steadfast Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Antiblast Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Suture Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Def Lock Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Miasma Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Hungerless Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Recovery Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Tip Toe Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Intimidator Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Meowster Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Hard Tip Toe Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Hard Intimidator Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Hard Meowster Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Trueshot Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.27
+  },
+  {
+    "name": "Heavy Artillery Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Botany Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Geology Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Survival Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Mirewalker Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": null
+  },
+  {
+    "name": "Specimen Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Sonorous Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Hard Botany Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Geology Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Survival Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Specimen Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Enduring Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Defense Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Hard Enduring Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Hard Defense Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Artillery Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Earplug Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.27
+  },
+  {
+    "name": "Wind Resist Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.27
+  },
+  {
+    "name": "Attack Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.27
+  },
+  {
+    "name": "Expert Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.27
+  },
+  {
+    "name": "Handicraft Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.27
+  },
+  {
+    "name": "Throttle Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Challenger Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Potential Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Furor Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Physique Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Evasion Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Ironwall Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Friendship Jewel+ 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Drain/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fortitude/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Crisis/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Ironwall/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Friendship/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Satiated/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Stonethrower/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Resistor/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flight/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sprinter/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Refresh/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Jumping/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sheath/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Gobbler/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Grinder/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Bomber/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fungiform/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Slider/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Guardian/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Drain/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fortitude/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Crisis/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Ironwall/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Friendship/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Satiated/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Stonethrower/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Resistor/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flight/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sprinter/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Refresh/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Jumping/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sheath/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Gobbler/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Grinder/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Bomber/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fungiform/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Slider/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Guardian/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Drain/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fortitude/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Crisis/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Ironwall/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Friendship/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Satiated/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Stonethrower/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Resistor/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flight/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sprinter/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Refresh/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Jumping/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sheath/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Gobbler/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Grinder/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Bomber/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fungiform/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Slider/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Guardian/Attack Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Drain/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fortitude/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Crisis/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Ironwall/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Friendship/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Satiated/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Stonethrower/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Resistor/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flight/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sprinter/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Refresh/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Jumping/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Sheath/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Gobbler/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Grinder/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Bomber/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Fungiform/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Slider/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Guardian/Expert Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.65,
+    "carved": 0.41,
+    "sealed": null
+  },
+  {
+    "name": "Drain/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Fortitude/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Crisis/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Ironwall/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Friendship/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Satiated/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Stonethrower/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Resistor/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Flight/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Sprinter/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Refresh/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Jumping/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Sheath/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Gobbler/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Grinder/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Bomber/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Fungiform/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Slider/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Guardian/Release Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Drain/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Fortitude/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Crisis/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Ironwall/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Friendship/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Satiated/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Stonethrower/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Resistor/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Flight/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Sprinter/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Refresh/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Jumping/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Sheath/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Gobbler/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Grinder/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Bomber/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Fungiform/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Slider/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Guardian/Handicraft Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Footing/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Charger/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Enhancer/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Destroyer/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "KO/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Potential/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Wind Resist/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Draw/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Throttle/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Challenger/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flawless/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Furor/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Mighty/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Brace/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Phoenix/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Earplug/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Critical/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Tenderizer/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Handicraft/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Release/Protection Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Footing/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Charger/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Enhancer/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Destroyer/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "KO/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Potential/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Wind Resist/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Draw/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Throttle/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Challenger/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flawless/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Furor/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Mighty/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Brace/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Phoenix/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Earplug/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Critical/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Tenderizer/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Handicraft/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Release/Medicine Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Footing/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Charger/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Enhancer/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Destroyer/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "KO/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Potential/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Wind Resist/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Draw/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Throttle/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Challenger/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flawless/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Furor/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Mighty/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Brace/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Phoenix/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Earplug/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Critical/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Tenderizer/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Handicraft/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Release/Vitality Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Footing/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Charger/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Enhancer/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Destroyer/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "KO/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Potential/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Wind Resist/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Draw/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Throttle/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Challenger/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Flawless/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Furor/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Mighty/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Brace/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": 0.09,
+    "carved": 0.25,
+    "sealed": 0.37
+  },
+  {
+    "name": "Phoenix/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Earplug/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Critical/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Tenderizer/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Handicraft/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Release/Maintenance Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Footing/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Charger/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Enhancer/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Destroyer/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "KO/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Potential/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Wind Resist/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Draw/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Throttle/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Challenger/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Flawless/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Furor/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Mighty/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Brace/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Phoenix/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Earplug/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Critical/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Tenderizer/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Handicraft/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Release/Physique Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Footing/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Charger/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Enhancer/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Destroyer/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "KO/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Potential/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Wind Resist/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Draw/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Throttle/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Challenger/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Flawless/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Furor/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Mighty/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Brace/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": 0.13,
+    "sealed": 0.22
+  },
+  {
+    "name": "Phoenix/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Earplug/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Critical/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Tenderizer/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Handicraft/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  },
+  {
+    "name": "Release/Evasion Jewel 4",
+    "mysterious": null,
+    "glowing": null,
+    "worn": null,
+    "warped": null,
+    "ancient": null,
+    "carved": null,
+    "sealed": 0.53
+  }
+]

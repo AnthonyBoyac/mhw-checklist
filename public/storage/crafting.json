@@ -1,0 +1,505 @@
+[
+  {
+    "name": "Potion",
+    "item1_name": "Herb",
+    "item2_name": ""
+  },
+  {
+    "name": "Mega Potion",
+    "item1_name": "Potion",
+    "item2_name": "Honey"
+  },
+  {
+    "name": "First-aid Med+",
+    "item1_name": "First-aid Med",
+    "item2_name": "Honey"
+  },
+  {
+    "name": "Antidote",
+    "item1_name": "Antidote Herb",
+    "item2_name": ""
+  },
+  {
+    "name": "Herbal Medicine",
+    "item1_name": "Antidote",
+    "item2_name": "Blue Mushroom"
+  },
+  {
+    "name": "Nutrients",
+    "item1_name": "Bitterbug",
+    "item2_name": "Blue Mushroom"
+  },
+  {
+    "name": "Mega Nutrients",
+    "item1_name": "Nutrients",
+    "item2_name": "Honey"
+  },
+  {
+    "name": "Max Potion",
+    "item1_name": "Mega Nutrients",
+    "item2_name": "Mandragora"
+  },
+  {
+    "name": "Catalyst",
+    "item1_name": "Bitterbug",
+    "item2_name": "Honey"
+  },
+  {
+    "name": "Immunizer",
+    "item1_name": "Catalyst",
+    "item2_name": "Mandragora"
+  },
+  {
+    "name": "Ancient Potion",
+    "item1_name": "Immunizer",
+    "item2_name": "Kelbi Horn"
+  },
+  {
+    "name": "Ancient Potion",
+    "item1_name": "Nourishing Extract",
+    "item2_name": "Kelbi Horn"
+  },
+  {
+    "name": "Lifepowder",
+    "item1_name": "Godbug",
+    "item2_name": "Blue Mushroom"
+  },
+  {
+    "name": "Dust of Life",
+    "item1_name": "Godbug",
+    "item2_name": "Gloamgrass Bud"
+  },
+  {
+    "name": "Herbal Powder",
+    "item1_name": "Godbug",
+    "item2_name": "Herbal Medicine"
+  },
+  {
+    "name": "Energy Drink",
+    "item1_name": "Nitroshroom",
+    "item2_name": "Honey"
+  },
+  {
+    "name": "Cool Drink",
+    "item1_name": "Chillshroom",
+    "item2_name": ""
+  },
+  {
+    "name": "Hot Drink",
+    "item1_name": "Hot Pepper",
+    "item2_name": ""
+  },
+  {
+    "name": "Dash Juice",
+    "item1_name": "Catalyst",
+    "item2_name": "Dash Extract"
+  },
+  {
+    "name": "Demondrug",
+    "item1_name": "Catalyst",
+    "item2_name": "Might Seed"
+  },
+  {
+    "name": "Mega Demondrug",
+    "item1_name": "Nourishing Extract",
+    "item2_name": "Demondrug"
+  },
+  {
+    "name": "Demon Powder",
+    "item1_name": "Godbug",
+    "item2_name": "Might Seed"
+  },
+  {
+    "name": "Might Pill",
+    "item1_name": "Immunizer",
+    "item2_name": "Might Seed"
+  },
+  {
+    "name": "Armorskin",
+    "item1_name": "Catalyst",
+    "item2_name": "Adamant Seed"
+  },
+  {
+    "name": "Mega Armorskin",
+    "item1_name": "Nourishing Extract",
+    "item2_name": "Armorskin"
+  },
+  {
+    "name": "Hardshell Powder",
+    "item1_name": "Godbug",
+    "item2_name": "Adamant Seed"
+  },
+  {
+    "name": "Adamant Pill",
+    "item1_name": "Immunizer",
+    "item2_name": "Adamant Seed"
+  },
+  {
+    "name": "Farcaster",
+    "item1_name": "Smokenut",
+    "item2_name": "Exciteshroom"
+  },
+  {
+    "name": "Gunpowder",
+    "item1_name": "Fire Herb",
+    "item2_name": "Nitroshroom"
+  },
+  {
+    "name": "Barrel Bomb",
+    "item1_name": "Fire Herb",
+    "item2_name": "Small Barrel"
+  },
+  {
+    "name": "Bounce Bomb",
+    "item1_name": "Nitroshroom",
+    "item2_name": "Small Barrel"
+  },
+  {
+    "name": "Mega Bounce Bomb",
+    "item1_name": "Nitroshroom",
+    "item2_name": "Bounce Bomb"
+  },
+  {
+    "name": "Large Barrel Bomb",
+    "item1_name": "Gunpowder",
+    "item2_name": "Large Barrel"
+  },
+  {
+    "name": "Mega Barrel Bomb",
+    "item1_name": "Devils Blight",
+    "item2_name": "Large Barrel Bomb"
+  },
+  {
+    "name": "Mega Barrel Bomb",
+    "item1_name": "Gunpowderfish Scale",
+    "item2_name": "Large Barrel Bomb"
+  },
+  {
+    "name": "Mega Barrel Bomb",
+    "item1_name": "Great Gunpowderfish Scale",
+    "item2_name": "Large Barrel"
+  },
+  {
+    "name": "Smoke Bomb",
+    "item1_name": "Smokenut",
+    "item2_name": "Ivy"
+  },
+  {
+    "name": "Poison Smoke Bomb",
+    "item1_name": "Smokenut",
+    "item2_name": "Toadstool"
+  },
+  {
+    "name": "Flash Pod",
+    "item1_name": "Flashbug",
+    "item2_name": ""
+  },
+  {
+    "name": "Screamer Pod x3",
+    "item1_name": "Screamer Sac"
+  },
+  {
+    "name": "Dung Pod",
+    "item1_name": "Dung",
+    "item2_name": ""
+  },
+  {
+    "name": "Dung Pod",
+    "item1_name": "Rolled-up Dung",
+    "item2_name": ""
+  },
+  {
+    "name": "Poisoned Meat",
+    "item1_name": "Raw Meat",
+    "item2_name": "Toadstool"
+  },
+  {
+    "name": "Tinged Meat",
+    "item1_name": "Raw Meat",
+    "item2_name": "Parashroom"
+  },
+  {
+    "name": "Drugged Meat",
+    "item1_name": "Raw Meat",
+    "item2_name": "Sleep Herb"
+  },
+  {
+    "name": "Net",
+    "item1_name": "Ivy",
+    "item2_name": "Spider Web"
+  },
+  {
+    "name": "Pitfall Trap",
+    "item1_name": "Trap Tool",
+    "item2_name": "Net"
+  },
+  {
+    "name": "Shock Trap",
+    "item1_name": "Trap Tool",
+    "item2_name": "Thunderbug"
+  },
+  {
+    "name": "Tranq Bomb",
+    "item1_name": "Sleep Herb",
+    "item2_name": "Parashroom"
+  },
+  {
+    "name": "Tranq Ammo",
+    "item1_name": "Tranq Bomb",
+    "item2_name": "Normal Ammo 1"
+  },
+  {
+    "name": "Tranq Knife",
+    "item1_name": "Tranq Bomb",
+    "item2_name": "Throwing Knife"
+  },
+  {
+    "name": "Poison Knife",
+    "item1_name": "Throwing Knife",
+    "item2_name": "Toadstool"
+  },
+  {
+    "name": "Sleep Knife",
+    "item1_name": "Throwing Knife",
+    "item2_name": "Sleep Herb"
+  },
+  {
+    "name": "Paralysis Knife",
+    "item1_name": "Throwing Knife",
+    "item2_name": "Parashroom"
+  },
+  {
+    "name": "Power Coating",
+    "item1_name": "Empty Phial",
+    "item2_name": "Nitroshroom"
+  },
+  {
+    "name": "Poison Coating",
+    "item1_name": "Empty Phial",
+    "item2_name": "Toadstool"
+  },
+  {
+    "name": "Paralysis Coating",
+    "item1_name": "Empty Phial",
+    "item2_name": "Parashroom"
+  },
+  {
+    "name": "Sleep Coating",
+    "item1_name": "Empty Phial",
+    "item2_name": "Sleep Herb"
+  },
+  {
+    "name": "Blast Coating",
+    "item1_name": "Empty Phial",
+    "item2_name": "Fire Herb"
+  },
+  {
+    "name": "Normal Ammo 2 x4",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Gunpowder Level 2"
+  },
+  {
+    "name": "Normal Ammo 3 x4",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Gunpowder Level 3"
+  },
+  {
+    "name": "Pierce Ammo 1",
+    "item1_name": "Latchberry"
+  },
+  {
+    "name": "Pierce Ammo 2 x4",
+    "item1_name": "Pierce Ammo 1",
+    "item2_name": "Gunpowder Level 2"
+  },
+  {
+    "name": "Pierce Ammo 3 x4",
+    "item1_name": "Pierce Ammo 1",
+    "item2_name": "Gunpowder Level 3"
+  },
+  {
+    "name": "Spread Ammo 1",
+    "item1_name": "Needleberry",
+    "item2_name": ""
+  },
+  {
+    "name": "Spread Ammo 2 x4",
+    "item1_name": "Spread Ammo 1",
+    "item2_name": "Gunpowder Level 2"
+  },
+  {
+    "name": "Spread Ammo 3 x4",
+    "item1_name": "Spread Ammo 1",
+    "item2_name": "Gunpowder Level 3"
+  },
+  {
+    "name": "Sticky Ammo 1",
+    "item1_name": "Blastnut",
+    "item2_name": ""
+  },
+  {
+    "name": "Sticky Ammo 2 x2",
+    "item1_name": "Sticky Ammo 1",
+    "item2_name": "Gunpowder Level 2"
+  },
+  {
+    "name": "Sticky Ammo 3 x2",
+    "item1_name": "Sticky Ammo 1",
+    "item2_name": "Gunpowder Level 3"
+  },
+  {
+    "name": "Cluster Bomb 1",
+    "item1_name": "Bomberry",
+    "item2_name": ""
+  },
+  {
+    "name": "Cluster Bomb 2",
+    "item1_name": "Cluster Bomb 1",
+    "item2_name": "Gunpowder Level 2"
+  },
+  {
+    "name": "Cluster Bomb 3",
+    "item1_name": "Cluster Bomb 1",
+    "item2_name": "Gunpowder Level 3"
+  },
+  {
+    "name": "Slicing Ammo",
+    "item1_name": "Slashberry",
+    "item2_name": ""
+  },
+  {
+    "name": "Flaming Ammo x6",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Fire Herb"
+  },
+  {
+    "name": "Water Ammo x6",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Flowfern"
+  },
+  {
+    "name": "Thunder Ammo x12",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Thunderbug"
+  },
+  {
+    "name": "Freeze Ammo x6",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Snow Herb"
+  },
+  {
+    "name": "Dragon Ammo",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Dragonfell Berry"
+  },
+  {
+    "name": "Poison Ammo 1 x2",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Toadstool"
+  },
+  {
+    "name": "Poison Ammo 2",
+    "item1_name": "Poison Ammo 1",
+    "item2_name": "Catalyst"
+  },
+  {
+    "name": "Paralysis Ammo 1 x2",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Parashroom"
+  },
+  {
+    "name": "Paralysis Ammo 2",
+    "item1_name": "Paralysis Ammo 1",
+    "item2_name": "Catalyst"
+  },
+  {
+    "name": "Sleep Ammo 1",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Sleep Herb"
+  },
+  {
+    "name": "Sleep Ammo 2",
+    "item1_name": "Sleep Ammo 1",
+    "item2_name": "Catalyst"
+  },
+  {
+    "name": "Exhaust Ammo 1 x2",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Exciteshroom"
+  },
+  {
+    "name": "Exhaust Ammo 2",
+    "item1_name": "Exhaust Ammo 1",
+    "item2_name": "Catalyst"
+  },
+  {
+    "name": "Recover Ammo 1 x2",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Potion"
+  },
+  {
+    "name": "Recover Ammo 2 x2",
+    "item1_name": "Recover Ammo 1",
+    "item2_name": "Catalyst"
+  },
+  {
+    "name": "Demon Ammo x3",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Demondrug"
+  },
+  {
+    "name": "Armor Ammo x3",
+    "item1_name": "Normal Ammo 1",
+    "item2_name": "Armorskin"
+  },
+  {
+    "name": "Wyvern Ammo",
+    "item1_name": "Dragonstrike Nut",
+    "item2_name": ""
+  },
+  {
+    "name": "Gunpowder Level 2",
+    "item1_name": "Flamenut",
+    "item2_name": ""
+  },
+  {
+    "name": "Gunpowder Level 2 x20",
+    "item1_name": "Burst Arowana Scale",
+    "item2_name": "Fire Herb"
+  },
+  {
+    "name": "Gunpowder Level 2 x40",
+    "item1_name": "Great Burst Arowana Scale",
+    "item2_name": "Fire Herb"
+  },
+  {
+    "name": "Gunpowder Level 3",
+    "item1_name": "Blazenut",
+    "item2_name": ""
+  },
+  {
+    "name": "Gunpowder Level 3 x20",
+    "item1_name": "Bomb Arowana Scale",
+    "item2_name": "Fire Herb"
+  },
+  {
+    "name": "Gunpowder Level 3 x40",
+    "item1_name": "Great Bomb Arowana Scale",
+    "item2_name": "Fire Herb"
+  },
+  {
+    "name": "Powertalon",
+    "item1_name": "Powercharm",
+    "item2_name": "Bazelgeuse Talon"
+  },
+  {
+    "name": "Armortalon",
+    "item1_name": "Armorcharm",
+    "item2_name": "Bazelgeuse Talon"
+  },
+  {
+    "name": "Mixed Herb",
+    "item1_name": "Green Herb",
+    "item2_name": "Red Herb"
+  }
+]
