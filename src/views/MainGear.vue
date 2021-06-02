@@ -1,27 +1,27 @@
 <template>
   <div class="container sub-nav" id="weapons-container">
     <div class="sub-nav-home" @click="homeView()">Home</div>
-    <ul v-if="`${currentPath}`.includes('/weapons')">
+    <ul v-if="`${currentPath}`.includes('weapons')">
       <li v-for="(url, index) in urls.weapons" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
-    <ul v-else-if="`${currentPath}`.includes('/armor')">
+    <ul v-else-if="`${currentPath}`.includes('armor')">
       <li v-for="(url, index) in urls.armor" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
-    <ul v-else-if="`${currentPath}`.includes('/decorations')">
+    <ul v-else-if="`${currentPath}`.includes('decorations')">
       <li v-for="(url, index) in urls.decorations" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
-    <ul v-else-if="`${currentPath}`.includes('/charms')">
+    <ul v-else-if="`${currentPath}`.includes('charms')">
       <li v-for="(url, index) in urls.charms" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
-    <ul v-else-if="`${currentPath}`.includes('/specialized-tools')">
+    <ul v-else-if="`${currentPath}`.includes('specialized-tools')">
       <li v-for="(url, index) in urls.tools" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
@@ -41,7 +41,7 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
-    <ul v-else-if="`${currentPath}`.includes('/crowns')">
+    <ul v-else-if="`${currentPath}`.includes('crowns')">
       <li v-for="(url, index) in urls.crowns" :key="index">
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
@@ -87,7 +87,7 @@
     :gearUrls="urls" 
     :updateData="updateData" />
   </div>
-  <div v-if="`${currentPath}`.includes('/decorations')">
+  <div v-if="`${currentPath}`.includes('decorations')">
     <div :class="{ 'toggle-components': isHome }">
       <Decorations 
       :title="currentTitle" 
@@ -98,7 +98,7 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
-  <div v-else-if="`${currentPath}`.includes('/specialized-tools')">
+  <div v-else-if="`${currentPath}`.includes('specialized-tools')">
     <div :class="{ 'toggle-components': isHome }">
       <Tools 
       :title="currentTitle" 
@@ -142,7 +142,7 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
-  <div v-else-if="`${currentPath}`.includes('/crowns')">
+  <div v-else-if="`${currentPath}`.includes('crowns')">
     <div :class="{ 'toggle-components': isHome }">
       <Crowns 
       :title="currentTitle" 
@@ -282,74 +282,74 @@ export default {
     return {
       urls: {
         weapons: [
-          { url: '/weapons/bows.json', title: 'Bow', img: require('../assets/icons/Bow.png') },
-          { url: '/weapons/charge_blades.json', title: 'Charge Blade', img: require('../assets/icons/Charge_Blade.png') },
-          { url: '/weapons/dual_blades.json', title: 'Dual Blades', img: require('../assets/icons/Dual_Blades.png') },
-          { url: '/weapons/great_swords.json', title: 'Great Sword', img: require('../assets/icons/Great_Sword.png') },
-          { url: '/weapons/gunlances.json', title: 'Gunlance', img: require('../assets/icons/Gunlance.png') },
-          { url: '/weapons/hammers.json', title: 'Hammer', img: require('../assets/icons/Hammer.png') },
-          { url: '/weapons/heavy_bowguns.json', title: 'Heavy Bowgun', img: require('../assets/icons/Heavy_Bowgun.png') },
-          { url: '/weapons/hunting_horns.json', title: 'Hunting Horn', img: require('../assets/icons/Hunting_Horn.png') },
-          { url: '/weapons/insect_glaives.json', title: 'Insect Glaive', img: require('../assets/icons/Insect_Glaive.png') },
-          { url: '/weapons/lances.json', title: 'Lance', img: require('../assets/icons/Lance.png') },
-          { url: '/weapons/light_bowguns.json', title: 'Light Bowgun', img: require('../assets/icons/Light_Bowgun.png') },
-          { url: '/weapons/long_swords.json', title: 'Long Sword', img: require('../assets/icons/Long_Sword.png') },
-          { url: '/weapons/switch_axes.json', title: 'Switch Axe', img: require('../assets/icons/Switch_Axe.png') },
-          { url: '/weapons/sword_shields.json', title: 'Sword & Shield', img: require('../assets/icons/Sword_and_Shield.png') }
+          { url: '/storage/weapons/bows.json', title: 'Bow', img: require('../assets/icons/Bow.png') },
+          { url: '/storage/weapons/charge_blades.json', title: 'Charge Blade', img: require('../assets/icons/Charge_Blade.png') },
+          { url: '/storage/weapons/dual_blades.json', title: 'Dual Blades', img: require('../assets/icons/Dual_Blades.png') },
+          { url: '/storage/weapons/great_swords.json', title: 'Great Sword', img: require('../assets/icons/Great_Sword.png') },
+          { url: '/storage/weapons/gunlances.json', title: 'Gunlance', img: require('../assets/icons/Gunlance.png') },
+          { url: '/storage/weapons/hammers.json', title: 'Hammer', img: require('../assets/icons/Hammer.png') },
+          { url: '/storage/weapons/heavy_bowguns.json', title: 'Heavy Bowgun', img: require('../assets/icons/Heavy_Bowgun.png') },
+          { url: '/storage/weapons/hunting_horns.json', title: 'Hunting Horn', img: require('../assets/icons/Hunting_Horn.png') },
+          { url: '/storage/weapons/insect_glaives.json', title: 'Insect Glaive', img: require('../assets/icons/Insect_Glaive.png') },
+          { url: '/storage/weapons/lances.json', title: 'Lance', img: require('../assets/icons/Lance.png') },
+          { url: '/storage/weapons/light_bowguns.json', title: 'Light Bowgun', img: require('../assets/icons/Light_Bowgun.png') },
+          { url: '/storage/weapons/long_swords.json', title: 'Long Sword', img: require('../assets/icons/Long_Sword.png') },
+          { url: '/storage/weapons/switch_axes.json', title: 'Switch Axe', img: require('../assets/icons/Switch_Axe.png') },
+          { url: '/storage/weapons/sword_shields.json', title: 'Sword & Shield', img: require('../assets/icons/Sword_and_Shield.png') }
         ],
         armor: [
-          { url: '/armor/low_ranks.json', title: 'Low Rank', img: require('../assets/icons/Low_Rank.png') },
-          { url: '/armor/high_ranks.json', title: 'High Rank', img: require('../assets/icons/High_Rank.png') },
-          { url: '/armor/master_ranks.json', title: 'Master Rank', img: require('../assets/icons/Master_Rank.png') },
-          { url: '/armor/layered_armor.json', title: 'Layered', img: require('../assets/icons/Layered.png') }
+          { url: '/storage/armor/low_ranks.json', title: 'Low Rank', img: require('../assets/icons/Low_Rank.png') },
+          { url: '/storage/armor/high_ranks.json', title: 'High Rank', img: require('../assets/icons/High_Rank.png') },
+          { url: '/storage/armor/master_ranks.json', title: 'Master Rank', img: require('../assets/icons/Master_Rank.png') },
+          { url: '/storage/armor/layered_armor.json', title: 'Layered', img: require('../assets/icons/Layered.png') }
         ],
         charms: [
-          { url: '/charms.json', title: 'Charms', img: require('../assets/icons/Layered.png') }
+          { url: '/storage/charms.json', title: 'Charms' }
         ],
         decorations: [
-          { url: '/decorations.json', title: 'Decorations' }
+          { url: '/storage/decorations.json', title: 'Decorations' }
         ],
         tools: [
-          { url: '/tools.json', title: 'Specialized Tools'}
+          { url: '/storage/tools.json', title: 'Specialized Tools'}
         ],
         palico: [
-          { url: '/palico_low_ranks.json', title: 'Low Rank'},
-          { url: '/palico_high_ranks.json', title: 'High Rank'},
-          { url: '/palico_master_ranks.json', title: 'Master Rank'}
+          { url: '/storage/palico_low_ranks.json', title: 'Low Rank'},
+          { url: '/storage/palico_high_ranks.json', title: 'High Rank'},
+          { url: '/storage/palico_master_ranks.json', title: 'Master Rank'}
         ],
         gadget_grimalkyne: [
-          { url: '/palico_gadgets.json', title: 'Palico Gadgets' },
-          { url: '/grimalkyne.json', title: 'Grimalkyne' }
+          { url: '/storage/palico_gadgets.json', title: 'Palico Gadgets' },
+          { url: '/storage/grimalkyne.json', title: 'Grimalkyne' }
         ],
         crowns: [
-          { url: '/monsters.json', title: 'Monsters'},
-          { url: '/endemic_life_crowns.json', title: 'Endemic Life'}
+          { url: '/storage/monsters.json', title: 'Monsters'},
+          { url: '/storage/endemic_life_crowns.json', title: 'Endemic Life'}
         ],
         research: [
-          { url: '/monsters.json', title: 'Research Level'},
+          { url: '/storage/monsters.json', title: 'Research Level'},
         ],
         quests: [
-          { url: '/quests.json', title: 'Assignments'}
+          { url: '/storage/quests.json', title: 'Assignments'}
         ],
         deliveries: [
-          { url: '/deliveries.json', title: 'Deliveries'}
+          { url: '/storage/deliveries.json', title: 'Deliveries'}
         ],
         pendants: [
-          { url: '/pendants.json', title: 'Pendants'}
+          { url: '/storage/pendants.json', title: 'Pendants'}
         ],
         crafting: [
-          { url: '/crafting.json', title: 'Crafting'}
+          { url: '/storage/crafting.json', title: 'Crafting'}
         ],
         elder: [
-          { url: '/elder_items.json', title: 'Items'},
-          { url: '/elder_decos.json', title: 'Decorations'},
-          { url: '/elder_lures.json', title: 'Lures'}
+          { url: '/storage/elder_items.json', title: 'Items'},
+          { url: '/storage/elder_decos.json', title: 'Decorations'},
+          { url: '/storage/elder_lures.json', title: 'Lures'}
         ],
         room: [
-          { url: '/room.json', title: 'Room Decor'}
+          { url: '/storage/room.json', title: 'Room Decor'}
         ],
         observation: [
-          { url: '/observation_log.json', title: 'Observation Log'}
+          { url: '/storage/observation_log.json', title: 'Observation Log'}
         ]
       },
       items: [],
@@ -405,15 +405,15 @@ export default {
       var compGearChecked = document.getElementById("checkbox-filter");
       var clearedItems;
       if (compGearChecked.checked) {
-        if (this.currentPath.includes('/decorations'))
+        if (this.currentPath.includes('decorations'))
           clearedItems = JSON.parse(localStorage.getItem('unlockedDecos'))
-        else if (this.currentPath.includes('/specialized-tools'))
+        else if (this.currentPath.includes('specialized-tools'))
           clearedItems = JSON.parse(localStorage.getItem('unlockedTools'))
         else if (this.currentPath.includes('palico-gear'))
           clearedItems = JSON.parse(localStorage.getItem('craftedPalicoGear'))
         else if (this.currentPath.includes('gadgets-grimalkyne'))
           clearedItems = JSON.parse(localStorage.getItem('gadgetsGrimalkyne'))
-        else if (this.currentPath.includes('/crown'))
+        else if (this.currentPath.includes('crown'))
           clearedItems = JSON.parse(localStorage.getItem('monstersCrowns'))
         else if (this.currentPath.includes('research'))
           clearedItems = JSON.parse(localStorage.getItem('maxResearch'))
