@@ -1,16 +1,17 @@
 - WHAT'S REMAINING:
   - Guild Card titles (next)
   - Guild Card backgrounds
-  - Make a video showing how to unlock specialized tools (with subtitles)
   - Copy MHW weapons layout (list + tree view)
   - Augment weapons
   - Max upgraded equipement
   - A Rank Arena quests - not challenges
   - Copy MHW layout for kinsect (look at tree, hover function, etc.)
+  - Make a video showing how to unlock specialized tools (with subtitles)
   - Add crowns images for table data in 'Crowns' nav
   - Add description prop to each component explaining what each table consist of
     - eg: to unlock all room decor, complete all main story quests, optional quests from housekeeper, photography,
     research requests, deliveries, treasure tips, endemic life, and fishing bounties
+    - eg: armor - fully upgraded means it's also been augmented (upgrade limit removal) 
 
 
 Note: For endemic life crowns, eat micro/macrozoologist buff to increase chances of crowns 
