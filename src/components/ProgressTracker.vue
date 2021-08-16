@@ -84,10 +84,12 @@ export default {
         fetchArr = this.gearUrls.crafting
       } else if (this.$route.path.includes('elder')) {
         fetchArr = this.gearUrls.elder
-      } else if(this.$route.path.includes('room')) {
+      } else if (this.$route.path.includes('room')) {
         fetchArr = this.gearUrls.room
-      } else if(this.$route.path.includes('observation')) {
+      } else if (this.$route.path.includes('observation')) {
         fetchArr = this.gearUrls.observation
+      } else if (this.$route.path.includes('guild')) {
+        fetchArr = this.gearUrls.guild_cards
       }
       fetchArr.forEach((data, index) =>
         fetch(data.url)

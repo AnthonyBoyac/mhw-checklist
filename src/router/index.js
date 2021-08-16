@@ -74,6 +74,10 @@ const routes = [
   {
     path: '/observation',
     component: MainGear
+  },
+  {
+    path: '/guild-card-titles',
+    component: MainGear
   }
 ]
 

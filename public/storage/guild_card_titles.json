@@ -1,0 +1,6962 @@
+[
+  {
+    "test": "",
+    "title_name": "TITLE (FIRST) AND TITLE (LAST)"
+  },
+  {
+    "test": "",
+    "title_name": "AVAILABLE FROM THE BEGINNING"
+  },
+  {
+    "test": "",
+    "title_name": "These are available by default"
+  },
+  {
+    "test": "",
+    "title_name": "(None)"
+  },
+  {
+    "test": "",
+    "title_name": "Newbie"
+  },
+  {
+    "test": "",
+    "title_name": "First Year"
+  },
+  {
+    "test": "",
+    "title_name": "Beginner"
+  },
+  {
+    "test": "",
+    "title_name": "Fledgling"
+  },
+  {
+    "test": "",
+    "title_name": "Rookie"
+  },
+  {
+    "test": "",
+    "title_name": "Hunter"
+  },
+  {
+    "test": "",
+    "title_name": "Fisher"
+  },
+  {
+    "test": "",
+    "title_name": "Fighter"
+  },
+  {
+    "test": "",
+    "title_name": "Sniper"
+  },
+  {
+    "test": "",
+    "title_name": "Sword"
+  },
+  {
+    "test": "",
+    "title_name": "Rapier"
+  },
+  {
+    "test": "",
+    "title_name": "Blade"
+  },
+  {
+    "test": "",
+    "title_name": "Great Sword"
+  },
+  {
+    "test": "",
+    "title_name": "Lance"
+  },
+  {
+    "test": "",
+    "title_name": "Spear"
+  },
+  {
+    "test": "",
+    "title_name": "Hammer"
+  },
+  {
+    "test": "",
+    "title_name": "Mallet"
+  },
+  {
+    "test": "",
+    "title_name": "Dual Blades"
+  },
+  {
+    "test": "",
+    "title_name": "Twin Swords"
+  },
+  {
+    "test": "",
+    "title_name": "Light Bowgun"
+  },
+  {
+    "test": "",
+    "title_name": "Crossbow"
+  },
+  {
+    "test": "",
+    "title_name": "Heavy Bowgun"
+  },
+  {
+    "test": "",
+    "title_name": "Ballista"
+  },
+  {
+    "test": "",
+    "title_name": "Katana"
+  },
+  {
+    "test": "",
+    "title_name": "Long Sword"
+  },
+  {
+    "test": "",
+    "title_name": "Arrow"
+  },
+  {
+    "test": "",
+    "title_name": "Bow"
+  },
+  {
+    "test": "",
+    "title_name": "Gunlance"
+  },
+  {
+    "test": "",
+    "title_name": "Blast Pike"
+  },
+  {
+    "test": "",
+    "title_name": "Horn"
+  },
+  {
+    "test": "",
+    "title_name": "Flute"
+  },
+  {
+    "test": "",
+    "title_name": "Hatchet"
+  },
+  {
+    "test": "",
+    "title_name": "Switch Axe"
+  },
+  {
+    "test": "",
+    "title_name": "Glaive"
+  },
+  {
+    "test": "",
+    "title_name": "Staff"
+  },
+  {
+    "test": "",
+    "title_name": "Halberd"
+  },
+  {
+    "test": "",
+    "title_name": "Charge Blade"
+  },
+  {
+    "test": "",
+    "title_name": "Groups"
+  },
+  {
+    "test": "",
+    "title_name": "Now Recruiting"
+  },
+  {
+    "test": "",
+    "title_name": "Newcomer"
+  },
+  {
+    "test": "",
+    "title_name": "Courageous"
+  },
+  {
+    "test": "",
+    "title_name": "Helper"
+  },
+  {
+    "test": "",
+    "title_name": "Meowster"
+  },
+  {
+    "test": "",
+    "title_name": "Ms."
+  },
+  {
+    "test": "",
+    "title_name": "Knightly Order"
+  },
+  {
+    "test": "",
+    "title_name": "Hunting Crew"
+  },
+  {
+    "test": "",
+    "title_name": "Man"
+  },
+  {
+    "test": "",
+    "title_name": "Girl"
+  },
+  {
+    "test": "",
+    "title_name": "He"
+  },
+  {
+    "test": "",
+    "title_name": "Me"
+  },
+  {
+    "test": "",
+    "title_name": "Lone Wolf"
+  },
+  {
+    "test": "",
+    "title_name": "Love"
+  },
+  {
+    "test": "",
+    "title_name": "Stranger"
+  },
+  {
+    "test": "",
+    "title_name": "Thrilling"
+  },
+  {
+    "test": "",
+    "title_name": "Exciting"
+  },
+  {
+    "test": "",
+    "title_name": "Solo"
+  },
+  {
+    "test": "",
+    "title_name": "Duo"
+  },
+  {
+    "test": "",
+    "title_name": "Trio"
+  },
+  {
+    "test": "",
+    "title_name": "Party"
+  },
+  {
+    "test": "",
+    "title_name": "Potion"
+  },
+  {
+    "test": "",
+    "title_name": "Honey"
+  },
+  {
+    "test": "",
+    "title_name": "Red"
+  },
+  {
+    "test": "",
+    "title_name": "Blue"
+  },
+  {
+    "test": "",
+    "title_name": "Green"
+  },
+  {
+    "test": "",
+    "title_name": "Promising"
+  },
+  {
+    "test": "",
+    "title_name": "Klutzy"
+  },
+  {
+    "test": "",
+    "title_name": "Third-rate"
+  },
+  {
+    "test": "",
+    "title_name": "Offense"
+  },
+  {
+    "test": "",
+    "title_name": "Defense"
+  },
+  {
+    "test": "",
+    "title_name": "On Sale Now!"
+  },
+  {
+    "test": "",
+    "title_name": "First Fleet"
+  },
+  {
+    "test": "",
+    "title_name": "Second Fleet"
+  },
+  {
+    "test": "",
+    "title_name": "Third Fleet"
+  },
+  {
+    "test": "",
+    "title_name": "Fourth Fleet"
+  },
+  {
+    "test": "",
+    "title_name": "Fifth Fleet"
+  },
+  {
+    "test": "",
+    "title_name": "New World"
+  },
+  {
+    "test": "",
+    "title_name": "Commission"
+  },
+  {
+    "test": "",
+    "title_name": "Good"
+  },
+  {
+    "test": "",
+    "title_name": "Bad"
+  },
+  {
+    "test": "",
+    "title_name": "Expedition"
+  },
+  {
+    "test": "",
+    "title_name": "A-Lister"
+  },
+  {
+    "test": "",
+    "title_name": "Scoutfly"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 6"
+  },
+  {
+    "test": "",
+    "title_name": "These unlock after reaching HR 6."
+  },
+  {
+    "test": "",
+    "title_name": "Romance"
+  },
+  {
+    "test": "",
+    "title_name": "Lemon"
+  },
+  {
+    "test": "",
+    "title_name": "Head"
+  },
+  {
+    "test": "",
+    "title_name": "Mask"
+  },
+  {
+    "test": "",
+    "title_name": "Body"
+  },
+  {
+    "test": "",
+    "title_name": "Mail"
+  },
+  {
+    "test": "",
+    "title_name": "Vambraces"
+  },
+  {
+    "test": "",
+    "title_name": "Guard"
+  },
+  {
+    "test": "",
+    "title_name": "Waist"
+  },
+  {
+    "test": "",
+    "title_name": "Coat"
+  },
+  {
+    "test": "",
+    "title_name": "Leggings"
+  },
+  {
+    "test": "",
+    "title_name": "Boots"
+  },
+  {
+    "test": "",
+    "title_name": "Armor"
+  },
+  {
+    "test": "",
+    "title_name": "Assassin"
+  },
+  {
+    "test": "",
+    "title_name": "Grand"
+  },
+  {
+    "test": "",
+    "title_name": "Buster"
+  },
+  {
+    "test": "",
+    "title_name": "Strider"
+  },
+  {
+    "test": "",
+    "title_name": "Saber"
+  },
+  {
+    "test": "",
+    "title_name": "Slayer"
+  },
+  {
+    "test": "",
+    "title_name": "Brave"
+  },
+  {
+    "test": "",
+    "title_name": "First-class"
+  },
+  {
+    "test": "",
+    "title_name": "24/7"
+  },
+  {
+    "test": "",
+    "title_name": "Self"
+  },
+  {
+    "test": "",
+    "title_name": "Anima"
+  },
+  {
+    "test": "",
+    "title_name": "Pure"
+  },
+  {
+    "test": "",
+    "title_name": "(Self-)Trained"
+  },
+  {
+    "test": "",
+    "title_name": "Instructor"
+  },
+  {
+    "test": "",
+    "title_name": "Extraordinaire"
+  },
+  {
+    "test": "",
+    "title_name": "Trooper"
+  },
+  {
+    "test": "",
+    "title_name": "Adventurer"
+  },
+  {
+    "test": "",
+    "title_name": "Frontier"
+  },
+  {
+    "test": "",
+    "title_name": "Miss"
+  },
+  {
+    "test": "",
+    "title_name": "Cheery"
+  },
+  {
+    "test": "",
+    "title_name": "Oasis"
+  },
+  {
+    "test": "",
+    "title_name": "Protector"
+  },
+  {
+    "test": "",
+    "title_name": "Arcadia"
+  },
+  {
+    "test": "",
+    "title_name": "Buddy"
+  },
+  {
+    "test": "",
+    "title_name": "White"
+  },
+  {
+    "test": "",
+    "title_name": "Black"
+  },
+  {
+    "test": "",
+    "title_name": "Shadow"
+  },
+  {
+    "test": "",
+    "title_name": "Gloom"
+  },
+  {
+    "test": "",
+    "title_name": "Dark"
+  },
+  {
+    "test": "",
+    "title_name": "Jade"
+  },
+  {
+    "test": "",
+    "title_name": "Pink"
+  },
+  {
+    "test": "",
+    "title_name": "Crimson"
+  },
+  {
+    "test": "",
+    "title_name": "Vermillion"
+  },
+  {
+    "test": "",
+    "title_name": "Yellow"
+  },
+  {
+    "test": "",
+    "title_name": "Rainbow"
+  },
+  {
+    "test": "",
+    "title_name": "Shiny"
+  },
+  {
+    "test": "",
+    "title_name": "Ravine"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 11"
+  },
+  {
+    "test": "",
+    "title_name": "These unlock after you reach HR 11."
+  },
+  {
+    "test": "",
+    "title_name": "Raw"
+  },
+  {
+    "test": "",
+    "title_name": "Rough"
+  },
+  {
+    "test": "",
+    "title_name": "Family"
+  },
+  {
+    "test": "",
+    "title_name": "Stubborn"
+  },
+  {
+    "test": "",
+    "title_name": "Amphibious"
+  },
+  {
+    "test": "",
+    "title_name": "Fang"
+  },
+  {
+    "test": "",
+    "title_name": "Youngster"
+  },
+  {
+    "test": "",
+    "title_name": "Shot"
+  },
+  {
+    "test": "",
+    "title_name": "Debonair"
+  },
+  {
+    "test": "",
+    "title_name": "Proven"
+  },
+  {
+    "test": "",
+    "title_name": "Flesh"
+  },
+  {
+    "test": "",
+    "title_name": "Ultraviolet"
+  },
+  {
+    "test": "",
+    "title_name": "Unforgiven"
+  },
+  {
+    "test": "",
+    "title_name": "Capable"
+  },
+  {
+    "test": "",
+    "title_name": "Phoenix"
+  },
+  {
+    "test": "",
+    "title_name": "Prodigy"
+  },
+  {
+    "test": "",
+    "title_name": "Genius"
+  },
+  {
+    "test": "",
+    "title_name": "Dashing"
+  },
+  {
+    "test": "",
+    "title_name": "Vanguard"
+  },
+  {
+    "test": "",
+    "title_name": "Amnesiac"
+  },
+  {
+    "test": "",
+    "title_name": "Mushroom"
+  },
+  {
+    "test": "",
+    "title_name": "Nectar"
+  },
+  {
+    "test": "",
+    "title_name": "Vale Tudo"
+  },
+  {
+    "test": "",
+    "title_name": "Diversion Team"
+  },
+  {
+    "test": "",
+    "title_name": "Pied Piper"
+  },
+  {
+    "test": "",
+    "title_name": "Gunslinger"
+  },
+  {
+    "test": "",
+    "title_name": "Angler"
+  },
+  {
+    "test": "",
+    "title_name": "Berserker"
+  },
+  {
+    "test": "",
+    "title_name": "Mercenary"
+  },
+  {
+    "test": "",
+    "title_name": "Assault"
+  },
+  {
+    "test": "",
+    "title_name": "Bride"
+  },
+  {
+    "test": "",
+    "title_name": "Rambling"
+  },
+  {
+    "test": "",
+    "title_name": "Eagle Eye"
+  },
+  {
+    "test": "",
+    "title_name": "Soldier"
+  },
+  {
+    "test": "",
+    "title_name": "Entomologist"
+  },
+  {
+    "test": "",
+    "title_name": "Bomber"
+  },
+  {
+    "test": "",
+    "title_name": "War"
+  },
+  {
+    "test": "",
+    "title_name": "Killer Bee"
+  },
+  {
+    "test": "",
+    "title_name": "Bearer"
+  },
+  {
+    "test": "",
+    "title_name": "Tragedy"
+  },
+  {
+    "test": "",
+    "title_name": "Sweet"
+  },
+  {
+    "test": "",
+    "title_name": "Tomorrow"
+  },
+  {
+    "test": "",
+    "title_name": "Papa"
+  },
+  {
+    "test": "",
+    "title_name": "Battalion"
+  },
+  {
+    "test": "",
+    "title_name": "Peach"
+  },
+  {
+    "test": "",
+    "title_name": "Diet"
+  },
+  {
+    "test": "",
+    "title_name": "Army"
+  },
+  {
+    "test": "",
+    "title_name": "Foreman"
+  },
+  {
+    "test": "",
+    "title_name": "Original"
+  },
+  {
+    "test": "",
+    "title_name": "Amateur"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 16"
+  },
+  {
+    "test": "",
+    "title_name": "These are unlocked upon reaching HR 16."
+  },
+  {
+    "test": "",
+    "title_name": "Leader"
+  },
+  {
+    "test": "",
+    "title_name": "Ace"
+  },
+  {
+    "test": "",
+    "title_name": "Limitless"
+  },
+  {
+    "test": "",
+    "title_name": "Veteran"
+  },
+  {
+    "test": "",
+    "title_name": "Raid"
+  },
+  {
+    "test": "",
+    "title_name": "Cleave"
+  },
+  {
+    "test": "",
+    "title_name": "Melody"
+  },
+  {
+    "test": "",
+    "title_name": "Cannon"
+  },
+  {
+    "test": "",
+    "title_name": "Mutant"
+  },
+  {
+    "test": "",
+    "title_name": "Spinning"
+  },
+  {
+    "test": "",
+    "title_name": "Dancing"
+  },
+  {
+    "test": "",
+    "title_name": "Stalwart"
+  },
+  {
+    "test": "",
+    "title_name": "Romantic"
+  },
+  {
+    "test": "",
+    "title_name": "Shooting Star"
+  },
+  {
+    "test": "",
+    "title_name": "Quick Draw"
+  },
+  {
+    "test": "",
+    "title_name": "Beautiful"
+  },
+  {
+    "test": "",
+    "title_name": "Nostalgic"
+  },
+  {
+    "test": "",
+    "title_name": "Powerful"
+  },
+  {
+    "test": "",
+    "title_name": "Unrivaled"
+  },
+  {
+    "test": "",
+    "title_name": "Kid"
+  },
+  {
+    "test": "",
+    "title_name": "Dude"
+  },
+  {
+    "test": "",
+    "title_name": "Best"
+  },
+  {
+    "test": "",
+    "title_name": "Lucky"
+  },
+  {
+    "test": "",
+    "title_name": "Challenge"
+  },
+  {
+    "test": "",
+    "title_name": "Fleet"
+  },
+  {
+    "test": "",
+    "title_name": "Lady"
+  },
+  {
+    "test": "",
+    "title_name": "Mr."
+  },
+  {
+    "test": "",
+    "title_name": "New Land"
+  },
+  {
+    "test": "",
+    "title_name": "Relaxing"
+  },
+  {
+    "test": "",
+    "title_name": "Monthly"
+  },
+  {
+    "test": "",
+    "title_name": "Artisan"
+  },
+  {
+    "test": "",
+    "title_name": "First"
+  },
+  {
+    "test": "",
+    "title_name": "Armed"
+  },
+  {
+    "test": "",
+    "title_name": "Cunning"
+  },
+  {
+    "test": "",
+    "title_name": "Punk"
+  },
+  {
+    "test": "",
+    "title_name": "Technician"
+  },
+  {
+    "test": "",
+    "title_name": "If Only"
+  },
+  {
+    "test": "",
+    "title_name": "Painful"
+  },
+  {
+    "test": "",
+    "title_name": "Slowpoke"
+  },
+  {
+    "test": "",
+    "title_name": "Advanced"
+  },
+  {
+    "test": "",
+    "title_name": "Pro"
+  },
+  {
+    "test": "",
+    "title_name": "Beloved"
+  },
+  {
+    "test": "",
+    "title_name": "Devoured"
+  },
+  {
+    "test": "",
+    "title_name": "Hard-boiled"
+  },
+  {
+    "test": "",
+    "title_name": "Masterful"
+  },
+  {
+    "test": "",
+    "title_name": "Giga"
+  },
+  {
+    "test": "",
+    "title_name": "Strawberry"
+  },
+  {
+    "test": "",
+    "title_name": "Cute"
+  },
+  {
+    "test": "",
+    "title_name": "Nearly"
+  },
+  {
+    "test": "",
+    "title_name": "Pretty"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 30"
+  },
+  {
+    "test": "",
+    "title_name": "These unlock once you reach HR 30."
+  },
+  {
+    "test": "",
+    "title_name": "Lord"
+  },
+  {
+    "test": "",
+    "title_name": "Shinobi"
+  },
+  {
+    "test": "",
+    "title_name": "Freedom"
+  },
+  {
+    "test": "",
+    "title_name": "Dream"
+  },
+  {
+    "test": "",
+    "title_name": "Altair"
+  },
+  {
+    "test": "",
+    "title_name": "Kunoichi"
+  },
+  {
+    "test": "",
+    "title_name": "Vega"
+  },
+  {
+    "test": "",
+    "title_name": "Vagrant"
+  },
+  {
+    "test": "",
+    "title_name": "Iron"
+  },
+  {
+    "test": "",
+    "title_name": "Breaker"
+  },
+  {
+    "test": "",
+    "title_name": "Samurai"
+  },
+  {
+    "test": "",
+    "title_name": "Model"
+  },
+  {
+    "test": "",
+    "title_name": "Traveller"
+  },
+  {
+    "test": "",
+    "title_name": "Slash"
+  },
+  {
+    "test": "",
+    "title_name": "Wing"
+  },
+  {
+    "test": "",
+    "title_name": "Break"
+  },
+  {
+    "test": "",
+    "title_name": "All"
+  },
+  {
+    "test": "",
+    "title_name": "Weapon"
+  },
+  {
+    "test": "",
+    "title_name": "Anonymous"
+  },
+  {
+    "test": "",
+    "title_name": "Fan"
+  },
+  {
+    "test": "",
+    "title_name": "Crisis"
+  },
+  {
+    "test": "",
+    "title_name": "Heroine"
+  },
+  {
+    "test": "",
+    "title_name": "Finest"
+  },
+  {
+    "test": "",
+    "title_name": "Natural"
+  },
+  {
+    "test": "",
+    "title_name": "Heartthrob"
+  },
+  {
+    "test": "",
+    "title_name": "Boy"
+  },
+  {
+    "test": "",
+    "title_name": "So-called"
+  },
+  {
+    "test": "",
+    "title_name": "Tiny"
+  },
+  {
+    "test": "",
+    "title_name": "Former"
+  },
+  {
+    "test": "",
+    "title_name": "Casual"
+  },
+  {
+    "test": "",
+    "title_name": "Madam"
+  },
+  {
+    "test": "",
+    "title_name": "Professor"
+  },
+  {
+    "test": "",
+    "title_name": "Winner"
+  },
+  {
+    "test": "",
+    "title_name": "Loser"
+  },
+  {
+    "test": "",
+    "title_name": "Fever"
+  },
+  {
+    "test": "",
+    "title_name": "Coward"
+  },
+  {
+    "test": "",
+    "title_name": "Skilled"
+  },
+  {
+    "test": "",
+    "title_name": "Singed"
+  },
+  {
+    "test": "",
+    "title_name": "Beast"
+  },
+  {
+    "test": "",
+    "title_name": "Free"
+  },
+  {
+    "test": "",
+    "title_name": "Chicken"
+  },
+  {
+    "test": "",
+    "title_name": "Bug"
+  },
+  {
+    "test": "",
+    "title_name": "Silent"
+  },
+  {
+    "test": "",
+    "title_name": "Kinda"
+  },
+  {
+    "test": "",
+    "title_name": "Treasure"
+  },
+  {
+    "test": "",
+    "title_name": "Full-auto"
+  },
+  {
+    "test": "",
+    "title_name": "Compound"
+  },
+  {
+    "test": "",
+    "title_name": "First-time"
+  },
+  {
+    "test": "",
+    "title_name": "Soft"
+  },
+  {
+    "test": "",
+    "title_name": "Fate"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 50"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked upon reaching HR 50."
+  },
+  {
+    "test": "",
+    "title_name": "Tail"
+  },
+  {
+    "test": "",
+    "title_name": "Shaker"
+  },
+  {
+    "test": "",
+    "title_name": "Sheathed"
+  },
+  {
+    "test": "",
+    "title_name": "Headshot"
+  },
+  {
+    "test": "",
+    "title_name": "Coordinated"
+  },
+  {
+    "test": "",
+    "title_name": "Hardcore"
+  },
+  {
+    "test": "",
+    "title_name": "Exacting"
+  },
+  {
+    "test": "",
+    "title_name": "Divine"
+  },
+  {
+    "test": "",
+    "title_name": "Very Stubborn"
+  },
+  {
+    "test": "",
+    "title_name": "Salvo"
+  },
+  {
+    "test": "",
+    "title_name": "Surefire"
+  },
+  {
+    "test": "",
+    "title_name": "Strategist"
+  },
+  {
+    "test": "",
+    "title_name": "Eco"
+  },
+  {
+    "test": "",
+    "title_name": "Ebon"
+  },
+  {
+    "test": "",
+    "title_name": "Unlucky"
+  },
+  {
+    "test": "",
+    "title_name": "Slim"
+  },
+  {
+    "test": "",
+    "title_name": "Unbelievable"
+  },
+  {
+    "test": "",
+    "title_name": "Story"
+  },
+  {
+    "test": "",
+    "title_name": "Cataclysm"
+  },
+  {
+    "test": "",
+    "title_name": "Ore"
+  },
+  {
+    "test": "",
+    "title_name": "Messy"
+  },
+  {
+    "test": "",
+    "title_name": "Value"
+  },
+  {
+    "test": "",
+    "title_name": "Derring-do"
+  },
+  {
+    "test": "",
+    "title_name": "Country"
+  },
+  {
+    "test": "",
+    "title_name": "Petit"
+  },
+  {
+    "test": "",
+    "title_name": "End of an Era"
+  },
+  {
+    "test": "",
+    "title_name": "Sealed"
+  },
+  {
+    "test": "",
+    "title_name": "Graduate"
+  },
+  {
+    "test": "",
+    "title_name": "Speciality"
+  },
+  {
+    "test": "",
+    "title_name": "Apprentice"
+  },
+  {
+    "test": "",
+    "title_name": "Neo"
+  },
+  {
+    "test": "",
+    "title_name": "Sister"
+  },
+  {
+    "test": "",
+    "title_name": "Acrobatic"
+  },
+  {
+    "test": "",
+    "title_name": "Maiden Name"
+  },
+  {
+    "test": "",
+    "title_name": "Myself"
+  },
+  {
+    "test": "",
+    "title_name": "Walker"
+  },
+  {
+    "test": "",
+    "title_name": "Alchemist"
+  },
+  {
+    "test": "",
+    "title_name": "Thief"
+  },
+  {
+    "test": "",
+    "title_name": "Captive"
+  },
+  {
+    "test": "",
+    "title_name": "Mining Master"
+  },
+  {
+    "test": "",
+    "title_name": "Transporter"
+  },
+  {
+    "test": "",
+    "title_name": "Guardian"
+  },
+  {
+    "test": "",
+    "title_name": "Grizzled"
+  },
+  {
+    "test": "",
+    "title_name": "Safari"
+  },
+  {
+    "test": "",
+    "title_name": "Trolley"
+  },
+  {
+    "test": "",
+    "title_name": "Minion"
+  },
+  {
+    "test": "",
+    "title_name": "Experienced"
+  },
+  {
+    "test": "",
+    "title_name": "Mecha"
+  },
+  {
+    "test": "",
+    "title_name": "Brand-new"
+  },
+  {
+    "test": "",
+    "title_name": "Researcher"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 100"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked by reaching HR 100."
+  },
+  {
+    "test": "",
+    "title_name": "Complete"
+  },
+  {
+    "test": "",
+    "title_name": "Sage"
+  },
+  {
+    "test": "",
+    "title_name": "Perfect"
+  },
+  {
+    "test": "",
+    "title_name": "Ruler"
+  },
+  {
+    "test": "",
+    "title_name": "Big Bang"
+  },
+  {
+    "test": "",
+    "title_name": "Blademaster"
+  },
+  {
+    "test": "",
+    "title_name": "Beastmaster"
+  },
+  {
+    "test": "",
+    "title_name": "All-or-nothing"
+  },
+  {
+    "test": "",
+    "title_name": "Indiscriminating"
+  },
+  {
+    "test": "",
+    "title_name": "Machine Crew"
+  },
+  {
+    "test": "",
+    "title_name": "One-shot"
+  },
+  {
+    "test": "",
+    "title_name": "Gamble"
+  },
+  {
+    "test": "",
+    "title_name": "Prism"
+  },
+  {
+    "test": "",
+    "title_name": "Faint"
+  },
+  {
+    "test": "",
+    "title_name": "Cocky"
+  },
+  {
+    "test": "",
+    "title_name": "Exclusive"
+  },
+  {
+    "test": "",
+    "title_name": "Team"
+  },
+  {
+    "test": "",
+    "title_name": "Mostly"
+  },
+  {
+    "test": "",
+    "title_name": "Reborn"
+  },
+  {
+    "test": "",
+    "title_name": "Wonderful"
+  },
+  {
+    "test": "",
+    "title_name": "Viva"
+  },
+  {
+    "test": "",
+    "title_name": "Pseudo"
+  },
+  {
+    "test": "",
+    "title_name": "Disciple"
+  },
+  {
+    "test": "",
+    "title_name": "Not For Sale"
+  },
+  {
+    "test": "",
+    "title_name": "Radiant"
+  },
+  {
+    "test": "",
+    "title_name": "Beauty"
+  },
+  {
+    "test": "",
+    "title_name": "Temporary"
+  },
+  {
+    "test": "",
+    "title_name": "Ripe"
+  },
+  {
+    "test": "",
+    "title_name": "Favourite"
+  },
+  {
+    "test": "",
+    "title_name": "Squishy"
+  },
+  {
+    "test": "",
+    "title_name": "Darling"
+  },
+  {
+    "test": "",
+    "title_name": "Charmer"
+  },
+  {
+    "test": "",
+    "title_name": "Big"
+  },
+  {
+    "test": "",
+    "title_name": "Intermittent"
+  },
+  {
+    "test": "",
+    "title_name": "Max"
+  },
+  {
+    "test": "",
+    "title_name": "Fishmaster"
+  },
+  {
+    "test": "",
+    "title_name": "Rodeo"
+  },
+  {
+    "test": "",
+    "title_name": "Excellent"
+  },
+  {
+    "test": "",
+    "title_name": "Regular"
+  },
+  {
+    "test": "",
+    "title_name": "Stroll"
+  },
+  {
+    "test": "",
+    "title_name": "Love-Struck"
+  },
+  {
+    "test": "",
+    "title_name": "At First Sight"
+  },
+  {
+    "test": "",
+    "title_name": "Luv"
+  },
+  {
+    "test": "",
+    "title_name": "Roaming"
+  },
+  {
+    "test": "",
+    "title_name": "Rare"
+  },
+  {
+    "test": "",
+    "title_name": "Second-rate"
+  },
+  {
+    "test": "",
+    "title_name": "Mascot"
+  },
+  {
+    "test": "",
+    "title_name": "Partner"
+  },
+  {
+    "test": "",
+    "title_name": "Like"
+  },
+  {
+    "test": "",
+    "title_name": "Popular"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 250"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked by reaching HR 250."
+  },
+  {
+    "test": "",
+    "title_name": "As Always!"
+  },
+  {
+    "test": "",
+    "title_name": "Sufferer"
+  },
+  {
+    "test": "",
+    "title_name": "Agent"
+  },
+  {
+    "test": "",
+    "title_name": "Riled-up"
+  },
+  {
+    "test": "",
+    "title_name": "Shuddering"
+  },
+  {
+    "test": "",
+    "title_name": "Terra"
+  },
+  {
+    "test": "",
+    "title_name": "Archdemon"
+  },
+  {
+    "test": "",
+    "title_name": "Requiem"
+  },
+  {
+    "test": "",
+    "title_name": "Ballad"
+  },
+  {
+    "test": "",
+    "title_name": "Marvellous"
+  },
+  {
+    "test": "",
+    "title_name": "Dauntless"
+  },
+  {
+    "test": "",
+    "title_name": "Bushido"
+  },
+  {
+    "test": "",
+    "title_name": "Avenger"
+  },
+  {
+    "test": "",
+    "title_name": "Double"
+  },
+  {
+    "test": "",
+    "title_name": "Hilarious"
+  },
+  {
+    "test": "",
+    "title_name": "Role Model"
+  },
+  {
+    "test": "",
+    "title_name": "Class Leader"
+  },
+  {
+    "test": "",
+    "title_name": "President"
+  },
+  {
+    "test": "",
+    "title_name": "Exhausted"
+  },
+  {
+    "test": "",
+    "title_name": "Indestructable"
+  },
+  {
+    "test": "",
+    "title_name": "Royal"
+  },
+  {
+    "test": "",
+    "title_name": "Blushing"
+  },
+  {
+    "test": "",
+    "title_name": "Chaos"
+  },
+  {
+    "test": "",
+    "title_name": "Retired"
+  },
+  {
+    "test": "",
+    "title_name": "Number"
+  },
+  {
+    "test": "",
+    "title_name": "Of All Time"
+  },
+  {
+    "test": "",
+    "title_name": "Sexy"
+  },
+  {
+    "test": "",
+    "title_name": "Awesome"
+  },
+  {
+    "test": "",
+    "title_name": "Flex"
+  },
+  {
+    "test": "",
+    "title_name": "Unbeaten"
+  },
+  {
+    "test": "",
+    "title_name": "All-out"
+  },
+  {
+    "test": "",
+    "title_name": "Joy"
+  },
+  {
+    "test": "",
+    "title_name": "Group"
+  },
+  {
+    "test": "",
+    "title_name": "No. 1"
+  },
+  {
+    "test": "",
+    "title_name": "Mrs."
+  },
+  {
+    "test": "",
+    "title_name": "Born"
+  },
+  {
+    "test": "",
+    "title_name": "Nameless"
+  },
+  {
+    "test": "",
+    "title_name": "Giant"
+  },
+  {
+    "test": "",
+    "title_name": "Sorta"
+  },
+  {
+    "test": "",
+    "title_name": "Mini"
+  },
+  {
+    "test": "",
+    "title_name": "Lad"
+  },
+  {
+    "test": "",
+    "title_name": "Syndrome"
+  },
+  {
+    "test": "",
+    "title_name": "Anti"
+  },
+  {
+    "test": "",
+    "title_name": "Crew"
+  },
+  {
+    "test": "",
+    "title_name": "Captain"
+  },
+  {
+    "test": "",
+    "title_name": "Passion"
+  },
+  {
+    "test": "",
+    "title_name": "Special"
+  },
+  {
+    "test": "",
+    "title_name": "Half"
+  },
+  {
+    "test": "",
+    "title_name": "Respect"
+  },
+  {
+    "test": "",
+    "title_name": "Bargain"
+  },
+  {
+    "test": "",
+    "title_name": "Mega"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 500"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked for use at HR 500."
+  },
+  {
+    "test": "",
+    "title_name": "Legend"
+  },
+  {
+    "test": "",
+    "title_name": "Champion"
+  },
+  {
+    "test": "",
+    "title_name": "Hero"
+  },
+  {
+    "test": "",
+    "title_name": "Clear"
+  },
+  {
+    "test": "",
+    "title_name": "Reincarnated"
+  },
+  {
+    "test": "",
+    "title_name": "Strongest"
+  },
+  {
+    "test": "",
+    "title_name": "Top-class"
+  },
+  {
+    "test": "",
+    "title_name": "Unparalleled"
+  },
+  {
+    "test": "",
+    "title_name": "Jet-black"
+  },
+  {
+    "test": "",
+    "title_name": "Robot"
+  },
+  {
+    "test": "",
+    "title_name": "Emperor"
+  },
+  {
+    "test": "",
+    "title_name": "Baby"
+  },
+  {
+    "test": "",
+    "title_name": "Gorgeous"
+  },
+  {
+    "test": "",
+    "title_name": "Short"
+  },
+  {
+    "test": "",
+    "title_name": "Foremost"
+  },
+  {
+    "test": "",
+    "title_name": "Anger"
+  },
+  {
+    "test": "",
+    "title_name": "Life"
+  },
+  {
+    "test": "",
+    "title_name": "Witch"
+  },
+  {
+    "test": "",
+    "title_name": "Person"
+  },
+  {
+    "test": "",
+    "title_name": "Forbidden"
+  },
+  {
+    "test": "",
+    "title_name": "Snowflake"
+  },
+  {
+    "test": "",
+    "title_name": "Famed"
+  },
+  {
+    "test": "",
+    "title_name": "Long"
+  },
+  {
+    "test": "",
+    "title_name": "Audacious"
+  },
+  {
+    "test": "",
+    "title_name": "Extreme"
+  },
+  {
+    "test": "",
+    "title_name": "Constant"
+  },
+  {
+    "test": "",
+    "title_name": "Gourmet"
+  },
+  {
+    "test": "",
+    "title_name": "Maid"
+  },
+  {
+    "test": "",
+    "title_name": "Magistrate"
+  },
+  {
+    "test": "",
+    "title_name": "Weakling"
+  },
+  {
+    "test": "",
+    "title_name": "Unthinkable"
+  },
+  {
+    "test": "",
+    "title_name": "Huh"
+  },
+  {
+    "test": "",
+    "title_name": "Macho"
+  },
+  {
+    "test": "",
+    "title_name": "Research Team"
+  },
+  {
+    "test": "",
+    "title_name": "Campaigner"
+  },
+  {
+    "test": "",
+    "title_name": "Scholar"
+  },
+  {
+    "test": "",
+    "title_name": "Bounty"
+  },
+  {
+    "test": "",
+    "title_name": "Illusion"
+  },
+  {
+    "test": "",
+    "title_name": "Sapphire Star"
+  },
+  {
+    "test": "",
+    "title_name": "Blinding"
+  },
+  {
+    "test": "",
+    "title_name": "Ultra"
+  },
+  {
+    "test": "",
+    "title_name": "Disappointing"
+  },
+  {
+    "test": "",
+    "title_name": "Human"
+  },
+  {
+    "test": "",
+    "title_name": "Smart"
+  },
+  {
+    "test": "",
+    "title_name": "Hunt"
+  },
+  {
+    "test": "",
+    "title_name": "Flower"
+  },
+  {
+    "test": "",
+    "title_name": "Right-hand"
+  },
+  {
+    "test": "",
+    "title_name": "Men"
+  },
+  {
+    "test": "",
+    "title_name": "Women"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 750"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked upon reaching HR 750."
+  },
+  {
+    "test": "",
+    "title_name": "Super"
+  },
+  {
+    "test": "",
+    "title_name": "Complimentary"
+  },
+  {
+    "test": "",
+    "title_name": "Alias"
+  },
+  {
+    "test": "",
+    "title_name": "Hope"
+  },
+  {
+    "test": "",
+    "title_name": "Pioneer"
+  },
+  {
+    "test": "",
+    "title_name": "Freed"
+  },
+  {
+    "test": "",
+    "title_name": "Knight"
+  },
+  {
+    "test": "",
+    "title_name": "General"
+  },
+  {
+    "test": "",
+    "title_name": "Imperial"
+  },
+  {
+    "test": "",
+    "title_name": "Supreme"
+  },
+  {
+    "test": "",
+    "title_name": "Crack"
+  },
+  {
+    "test": "",
+    "title_name": "Opportunistic"
+  },
+  {
+    "test": "",
+    "title_name": "God"
+  },
+  {
+    "test": "",
+    "title_name": "Terror"
+  },
+  {
+    "test": "",
+    "title_name": "Squire"
+  },
+  {
+    "test": "",
+    "title_name": "Metal"
+  },
+  {
+    "test": "",
+    "title_name": "Karma"
+  },
+  {
+    "test": "",
+    "title_name": "Star"
+  },
+  {
+    "test": "",
+    "title_name": "Dragon"
+  },
+  {
+    "test": "",
+    "title_name": "Czar"
+  },
+  {
+    "test": "",
+    "title_name": "Fearless"
+  },
+  {
+    "test": "",
+    "title_name": "Brand"
+  },
+  {
+    "test": "",
+    "title_name": "Drink"
+  },
+  {
+    "test": "",
+    "title_name": "Egg"
+  },
+  {
+    "test": "",
+    "title_name": "Dumpling"
+  },
+  {
+    "test": "",
+    "title_name": "Friendly"
+  },
+  {
+    "test": "",
+    "title_name": "Hunt-crazy"
+  },
+  {
+    "test": "",
+    "title_name": "Monster Hunter"
+  },
+  {
+    "test": "",
+    "title_name": "Nailed It"
+  },
+  {
+    "test": "",
+    "title_name": "Tempered"
+  },
+  {
+    "test": "",
+    "title_name": "Trailblazer"
+  },
+  {
+    "test": "",
+    "title_name": "Challenger"
+  },
+  {
+    "test": "",
+    "title_name": "BFF"
+  },
+  {
+    "test": "",
+    "title_name": "Vibe"
+  },
+  {
+    "test": "",
+    "title_name": "Tracker"
+  },
+  {
+    "test": "",
+    "title_name": "Titan"
+  },
+  {
+    "test": "",
+    "title_name": "Observer"
+  },
+  {
+    "test": "",
+    "title_name": "Mission"
+  },
+  {
+    "test": "",
+    "title_name": "Go"
+  },
+  {
+    "test": "",
+    "title_name": "Handler"
+  },
+  {
+    "test": "",
+    "title_name": "Quirk"
+  },
+  {
+    "test": "",
+    "title_name": "Fly"
+  },
+  {
+    "test": "",
+    "title_name": "Miracle"
+  },
+  {
+    "test": "",
+    "title_name": "Fantasy"
+  },
+  {
+    "test": "",
+    "title_name": "Chockablock"
+  },
+  {
+    "test": "",
+    "title_name": "Big Sis"
+  },
+  {
+    "test": "",
+    "title_name": "Specimen"
+  },
+  {
+    "test": "",
+    "title_name": "Smitten"
+  },
+  {
+    "test": "",
+    "title_name": "Aerial Battle"
+  },
+  {
+    "test": "",
+    "title_name": "Charming"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED HUNTER RANK 999"
+  },
+  {
+    "test": "",
+    "title_name": "Obtained at HR 999. Congratulations!"
+  },
+  {
+    "test": "",
+    "title_name": "Monster"
+  },
+  {
+    "test": "",
+    "title_name": "World"
+  },
+  {
+    "test": "",
+    "title_name": "Top"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 1"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked at MR 1"
+  },
+  {
+    "test": "",
+    "title_name": "New"
+  },
+  {
+    "test": "",
+    "title_name": "Tale"
+  },
+  {
+    "test": "",
+    "title_name": "Commendation"
+  },
+  {
+    "test": "",
+    "title_name": "Blessing"
+  },
+  {
+    "test": "",
+    "title_name": "Aspiration"
+  },
+  {
+    "test": "",
+    "title_name": "Premonition"
+  },
+  {
+    "test": "",
+    "title_name": "Bud"
+  },
+  {
+    "test": "",
+    "title_name": "Revere"
+  },
+  {
+    "test": "",
+    "title_name": "Envy"
+  },
+  {
+    "test": "",
+    "title_name": "Creed"
+  },
+  {
+    "test": "",
+    "title_name": "Cool-headed"
+  },
+  {
+    "test": "",
+    "title_name": "Passionate"
+  },
+  {
+    "test": "",
+    "title_name": "Ancient"
+  },
+  {
+    "test": "",
+    "title_name": "Pristine"
+  },
+  {
+    "test": "",
+    "title_name": "Steel"
+  },
+  {
+    "test": "",
+    "title_name": "Virtue"
+  },
+  {
+    "test": "",
+    "title_name": "Unsullied"
+  },
+  {
+    "test": "",
+    "title_name": "Whirlwind"
+  },
+  {
+    "test": "",
+    "title_name": "Wreckless"
+  },
+  {
+    "test": "",
+    "title_name": "Grin"
+  },
+  {
+    "test": "",
+    "title_name": "Target"
+  },
+  {
+    "test": "",
+    "title_name": "Prey"
+  },
+  {
+    "test": "",
+    "title_name": "Headliner"
+  },
+  {
+    "test": "",
+    "title_name": "Peerless"
+  },
+  {
+    "test": "",
+    "title_name": "Extremity"
+  },
+  {
+    "test": "",
+    "title_name": "Wielder"
+  },
+  {
+    "test": "",
+    "title_name": "Unheard Of"
+  },
+  {
+    "test": "",
+    "title_name": "Native"
+  },
+  {
+    "test": "",
+    "title_name": "Maelstrom"
+  },
+  {
+    "test": "",
+    "title_name": "Extradimensional"
+  },
+  {
+    "test": "",
+    "title_name": "Dawn"
+  },
+  {
+    "test": "",
+    "title_name": "All-nighter"
+  },
+  {
+    "test": "",
+    "title_name": "Morning"
+  },
+  {
+    "test": "",
+    "title_name": "Afternoon"
+  },
+  {
+    "test": "",
+    "title_name": "Night"
+  },
+  {
+    "test": "",
+    "title_name": "Sun"
+  },
+  {
+    "test": "",
+    "title_name": "Moonlight"
+  },
+  {
+    "test": "",
+    "title_name": "Empyrean"
+  },
+  {
+    "test": "",
+    "title_name": "Starry Sky"
+  },
+  {
+    "test": "",
+    "title_name": "Stardust"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 12"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked once you reach MR 12."
+  },
+  {
+    "test": "",
+    "title_name": "Astera"
+  },
+  {
+    "test": "",
+    "title_name": "Seliana"
+  },
+  {
+    "test": "",
+    "title_name": "Headquarters"
+  },
+  {
+    "test": "",
+    "title_name": "Frontline"
+  },
+  {
+    "test": "",
+    "title_name": "Sauna"
+  },
+  {
+    "test": "",
+    "title_name": "Steam Bath"
+  },
+  {
+    "test": "",
+    "title_name": "Alchemy"
+  },
+  {
+    "test": "",
+    "title_name": "Steam"
+  },
+  {
+    "test": "",
+    "title_name": "House"
+  },
+  {
+    "test": "",
+    "title_name": "Layered Armor"
+  },
+  {
+    "test": "",
+    "title_name": "Bumper Crop"
+  },
+  {
+    "test": "",
+    "title_name": "Close Shave"
+  },
+  {
+    "test": "",
+    "title_name": "Uncrowned"
+  },
+  {
+    "test": "",
+    "title_name": "Boundless"
+  },
+  {
+    "test": "",
+    "title_name": "Red Lotus"
+  },
+  {
+    "test": "",
+    "title_name": "Counterstrike"
+  },
+  {
+    "test": "",
+    "title_name": "Revolution"
+  },
+  {
+    "test": "",
+    "title_name": "Natural Born"
+  },
+  {
+    "test": "",
+    "title_name": "Talented"
+  },
+  {
+    "test": "",
+    "title_name": "Adoration"
+  },
+  {
+    "test": "",
+    "title_name": "Scheme"
+  },
+  {
+    "test": "",
+    "title_name": "Justice"
+  },
+  {
+    "test": "",
+    "title_name": "Resolve"
+  },
+  {
+    "test": "",
+    "title_name": "Stark"
+  },
+  {
+    "test": "",
+    "title_name": "Butler"
+  },
+  {
+    "test": "",
+    "title_name": "Sharp Tongued"
+  },
+  {
+    "test": "",
+    "title_name": "Nickname"
+  },
+  {
+    "test": "",
+    "title_name": "Nom de Guerre"
+  },
+  {
+    "test": "",
+    "title_name": "One-Hit Kill"
+  },
+  {
+    "test": "",
+    "title_name": "Sureshot"
+  },
+  {
+    "test": "",
+    "title_name": "Last Holdout"
+  },
+  {
+    "test": "",
+    "title_name": "Forte"
+  },
+  {
+    "test": "",
+    "title_name": "Weakness"
+  },
+  {
+    "test": "",
+    "title_name": "Slice"
+  },
+  {
+    "test": "",
+    "title_name": "Blow"
+  },
+  {
+    "test": "",
+    "title_name": "Marksman"
+  },
+  {
+    "test": "",
+    "title_name": "Avante-garde"
+  },
+  {
+    "test": "",
+    "title_name": "Rear Guard"
+  },
+  {
+    "test": "",
+    "title_name": "Phenomenom"
+  },
+  {
+    "test": "",
+    "title_name": "Secret Technique"
+  },
+  {
+    "test": "",
+    "title_name": "Defender"
+  },
+  {
+    "test": "",
+    "title_name": "Weakest"
+  },
+  {
+    "test": "",
+    "title_name": "Wimp"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 23"
+  },
+  {
+    "test": "",
+    "title_name": "Available once you reach MR 23."
+  },
+  {
+    "test": "",
+    "title_name": "Nature"
+  },
+  {
+    "test": "",
+    "title_name": "Bewilder"
+  },
+  {
+    "test": "",
+    "title_name": "Reality"
+  },
+  {
+    "test": "",
+    "title_name": "Truth"
+  },
+  {
+    "test": "",
+    "title_name": "True Identity"
+  },
+  {
+    "test": "",
+    "title_name": "Impact"
+  },
+  {
+    "test": "",
+    "title_name": "Eternity"
+  },
+  {
+    "test": "",
+    "title_name": "Beyond"
+  },
+  {
+    "test": "",
+    "title_name": "Unstoppable"
+  },
+  {
+    "test": "",
+    "title_name": "Victory"
+  },
+  {
+    "test": "",
+    "title_name": "Resonance"
+  },
+  {
+    "test": "",
+    "title_name": "Limit"
+  },
+  {
+    "test": "",
+    "title_name": "Breakthrough"
+  },
+  {
+    "test": "",
+    "title_name": "Change"
+  },
+  {
+    "test": "",
+    "title_name": "Referee"
+  },
+  {
+    "test": "",
+    "title_name": "Tradition"
+  },
+  {
+    "test": "",
+    "title_name": "Lifestyle"
+  },
+  {
+    "test": "",
+    "title_name": "Savings"
+  },
+  {
+    "test": "",
+    "title_name": "Gratuity"
+  },
+  {
+    "test": "",
+    "title_name": "Jewel"
+  },
+  {
+    "test": "",
+    "title_name": "Allure"
+  },
+  {
+    "test": "",
+    "title_name": "Effort"
+  },
+  {
+    "test": "",
+    "title_name": "Priority"
+  },
+  {
+    "test": "",
+    "title_name": "The Only"
+  },
+  {
+    "test": "",
+    "title_name": "Proxy"
+  },
+  {
+    "test": "",
+    "title_name": "Substitute"
+  },
+  {
+    "test": "",
+    "title_name": "Chairman"
+  },
+  {
+    "test": "",
+    "title_name": "Friendship"
+  },
+  {
+    "test": "",
+    "title_name": "Nemesis"
+  },
+  {
+    "test": "",
+    "title_name": "Benefactor"
+  },
+  {
+    "test": "",
+    "title_name": "Household"
+  },
+  {
+    "test": "",
+    "title_name": "Big Bro"
+  },
+  {
+    "test": "",
+    "title_name": "Older Sister"
+  },
+  {
+    "test": "",
+    "title_name": "Parent and Child"
+  },
+  {
+    "test": "",
+    "title_name": "Master and Pupil"
+  },
+  {
+    "test": "",
+    "title_name": "Best Bud"
+  },
+  {
+    "test": "",
+    "title_name": "Foster Parent"
+  },
+  {
+    "test": "",
+    "title_name": "Descendants"
+  },
+  {
+    "test": "",
+    "title_name": "Generation"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 50"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked once you reach MR 50."
+  },
+  {
+    "test": "",
+    "title_name": "Savior"
+  },
+  {
+    "test": "",
+    "title_name": "Top Dog"
+  },
+  {
+    "test": "",
+    "title_name": "Dynamo"
+  },
+  {
+    "test": "",
+    "title_name": "Man of Steel"
+  },
+  {
+    "test": "",
+    "title_name": "Commandant"
+  },
+  {
+    "test": "",
+    "title_name": "Playmaker"
+  },
+  {
+    "test": "",
+    "title_name": "Influencer"
+  },
+  {
+    "test": "",
+    "title_name": "Advisor"
+  },
+  {
+    "test": "",
+    "title_name": "Representative"
+  },
+  {
+    "test": "",
+    "title_name": "Gatekeeper"
+  },
+  {
+    "test": "",
+    "title_name": "Confidant"
+  },
+  {
+    "test": "",
+    "title_name": "Crest"
+  },
+  {
+    "test": "",
+    "title_name": "Heartbeat"
+  },
+  {
+    "test": "",
+    "title_name": "Surge"
+  },
+  {
+    "test": "",
+    "title_name": "Impulse"
+  },
+  {
+    "test": "",
+    "title_name": "Goal"
+  },
+  {
+    "test": "",
+    "title_name": "Myth"
+  },
+  {
+    "test": "",
+    "title_name": "Time"
+  },
+  {
+    "test": "",
+    "title_name": "Genuine"
+  },
+  {
+    "test": "",
+    "title_name": "Trails"
+  },
+  {
+    "test": "",
+    "title_name": "Silver"
+  },
+  {
+    "test": "",
+    "title_name": "Pewter"
+  },
+  {
+    "test": "",
+    "title_name": "Undefeated"
+  },
+  {
+    "test": "",
+    "title_name": "Unscathed"
+  },
+  {
+    "test": "",
+    "title_name": "Accomplished"
+  },
+  {
+    "test": "",
+    "title_name": "Glorious"
+  },
+  {
+    "test": "",
+    "title_name": "Impressive"
+  },
+  {
+    "test": "",
+    "title_name": "Awe-inspiring"
+  },
+  {
+    "test": "",
+    "title_name": "Triple"
+  },
+  {
+    "test": "",
+    "title_name": "Bronze"
+  },
+  {
+    "test": "",
+    "title_name": "Hit"
+  },
+  {
+    "test": "",
+    "title_name": "Hyper"
+  },
+  {
+    "test": "",
+    "title_name": "Acceptable"
+  },
+  {
+    "test": "",
+    "title_name": "Lousy"
+  },
+  {
+    "test": "",
+    "title_name": "Up"
+  },
+  {
+    "test": "",
+    "title_name": "Down"
+  },
+  {
+    "test": "",
+    "title_name": "Simple"
+  },
+  {
+    "test": "",
+    "title_name": "Dual"
+  },
+  {
+    "test": "",
+    "title_name": "Complex"
+  },
+  {
+    "test": "",
+    "title_name": "Mystic"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 70"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked once you reach MR 70."
+  },
+  {
+    "test": "",
+    "title_name": "Sparkling"
+  },
+  {
+    "test": "",
+    "title_name": "Seething"
+  },
+  {
+    "test": "",
+    "title_name": "Imprisoned"
+  },
+  {
+    "test": "",
+    "title_name": "Surging"
+  },
+  {
+    "test": "",
+    "title_name": "Growling"
+  },
+  {
+    "test": "",
+    "title_name": "Howling"
+  },
+  {
+    "test": "",
+    "title_name": "Playful"
+  },
+  {
+    "test": "",
+    "title_name": "Akin To"
+  },
+  {
+    "test": "",
+    "title_name": "Vow"
+  },
+  {
+    "test": "",
+    "title_name": "Beauteous"
+  },
+  {
+    "test": "",
+    "title_name": "Receiver"
+  },
+  {
+    "test": "",
+    "title_name": "Wandering"
+  },
+  {
+    "test": "",
+    "title_name": "Smile"
+  },
+  {
+    "test": "",
+    "title_name": "Reared"
+  },
+  {
+    "test": "",
+    "title_name": "Oath"
+  },
+  {
+    "test": "",
+    "title_name": "Slumber"
+  },
+  {
+    "test": "",
+    "title_name": "Unsleeping"
+  },
+  {
+    "test": "",
+    "title_name": "Care"
+  },
+  {
+    "test": "",
+    "title_name": "Echo"
+  },
+  {
+    "test": "",
+    "title_name": "Glint"
+  },
+  {
+    "test": "",
+    "title_name": "Camaraderie"
+  },
+  {
+    "test": "",
+    "title_name": "Spendthrift"
+  },
+  {
+    "test": "",
+    "title_name": "Gift"
+  },
+  {
+    "test": "",
+    "title_name": "Girly"
+  },
+  {
+    "test": "",
+    "title_name": "Storyteller"
+  },
+  {
+    "test": "",
+    "title_name": "Gourmand"
+  },
+  {
+    "test": "",
+    "title_name": "Tomboy"
+  },
+  {
+    "test": "",
+    "title_name": "Messenger"
+  },
+  {
+    "test": "",
+    "title_name": "Wealthy"
+  },
+  {
+    "test": "",
+    "title_name": "Fashion"
+  },
+  {
+    "test": "",
+    "title_name": "Command"
+  },
+  {
+    "test": "",
+    "title_name": "Guiding"
+  },
+  {
+    "test": "",
+    "title_name": "Order"
+  },
+  {
+    "test": "",
+    "title_name": "Custom"
+  },
+  {
+    "test": "",
+    "title_name": "Sense"
+  },
+  {
+    "test": "",
+    "title_name": "Force"
+  },
+  {
+    "test": "",
+    "title_name": "Legacy"
+  },
+  {
+    "test": "",
+    "title_name": "Silhouette"
+  },
+  {
+    "test": "",
+    "title_name": "Memory"
+  },
+  {
+    "test": "",
+    "title_name": "Combo"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 100"
+  },
+  {
+    "test": "",
+    "title_name": "Available at MR 100."
+  },
+  {
+    "test": "",
+    "title_name": "Daybreak"
+  },
+  {
+    "test": "",
+    "title_name": "Morningtide"
+  },
+  {
+    "test": "",
+    "title_name": "Light"
+  },
+  {
+    "test": "",
+    "title_name": "True"
+  },
+  {
+    "test": "",
+    "title_name": "Fake"
+  },
+  {
+    "test": "",
+    "title_name": "Honest"
+  },
+  {
+    "test": "",
+    "title_name": "Rumor"
+  },
+  {
+    "test": "",
+    "title_name": "Vessel"
+  },
+  {
+    "test": "",
+    "title_name": "Heaven"
+  },
+  {
+    "test": "",
+    "title_name": "Chieftain"
+  },
+  {
+    "test": "",
+    "title_name": "Cerulean"
+  },
+  {
+    "test": "",
+    "title_name": "Beryl"
+  },
+  {
+    "test": "",
+    "title_name": "Storm"
+  },
+  {
+    "test": "",
+    "title_name": "Enigma"
+  },
+  {
+    "test": "",
+    "title_name": "Edge"
+  },
+  {
+    "test": "",
+    "title_name": "Face"
+  },
+  {
+    "test": "",
+    "title_name": "Tears"
+  },
+  {
+    "test": "",
+    "title_name": "Mediator"
+  },
+  {
+    "test": "",
+    "title_name": "Interested"
+  },
+  {
+    "test": "",
+    "title_name": "Transient"
+  },
+  {
+    "test": "",
+    "title_name": "Glaring"
+  },
+  {
+    "test": "",
+    "title_name": "Shutout"
+  },
+  {
+    "test": "",
+    "title_name": "Cheerful"
+  },
+  {
+    "test": "",
+    "title_name": "Expected"
+  },
+  {
+    "test": "",
+    "title_name": "Just About"
+  },
+  {
+    "test": "",
+    "title_name": "One-on-one"
+  },
+  {
+    "test": "",
+    "title_name": "Dicey"
+  },
+  {
+    "test": "",
+    "title_name": "Clever"
+  },
+  {
+    "test": "",
+    "title_name": "Mystery"
+  },
+  {
+    "test": "",
+    "title_name": "Secret"
+  },
+  {
+    "test": "",
+    "title_name": "Climax"
+  },
+  {
+    "test": "",
+    "title_name": "Start"
+  },
+  {
+    "test": "",
+    "title_name": "End"
+  },
+  {
+    "test": "",
+    "title_name": "Another"
+  },
+  {
+    "test": "",
+    "title_name": "Point"
+  },
+  {
+    "test": "",
+    "title_name": "Unique"
+  },
+  {
+    "test": "",
+    "title_name": "One"
+  },
+  {
+    "test": "",
+    "title_name": "Second"
+  },
+  {
+    "test": "",
+    "title_name": "Home"
+  },
+  {
+    "test": "",
+    "title_name": "Third"
+  },
+  {
+    "test": "",
+    "title_name": "Daily"
+  },
+  {
+    "test": "",
+    "title_name": "Support"
+  },
+  {
+    "test": "",
+    "title_name": "Heartful"
+  },
+  {
+    "test": "",
+    "title_name": "Astonishing"
+  },
+  {
+    "test": "",
+    "title_name": "Fondness"
+  },
+  {
+    "test": "",
+    "title_name": "Reverence"
+  },
+  {
+    "test": "",
+    "title_name": "Positive"
+  },
+  {
+    "test": "",
+    "title_name": "Negative"
+  },
+  {
+    "test": "",
+    "title_name": "Forever"
+  },
+  {
+    "test": "",
+    "title_name": "Appreciate"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 250"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked for use once you reach MR 250."
+  },
+  {
+    "test": "",
+    "title_name": "Father"
+  },
+  {
+    "test": "",
+    "title_name": "Mother"
+  },
+  {
+    "test": "",
+    "title_name": "Compadre"
+  },
+  {
+    "test": "",
+    "title_name": "Ancestor"
+  },
+  {
+    "test": "",
+    "title_name": "Joyous"
+  },
+  {
+    "test": "",
+    "title_name": "Key Figure"
+  },
+  {
+    "test": "",
+    "title_name": "Celebrated"
+  },
+  {
+    "test": "",
+    "title_name": "Breadwinner"
+  },
+  {
+    "test": "",
+    "title_name": "Baron"
+  },
+  {
+    "test": "",
+    "title_name": "Spearheader"
+  },
+  {
+    "test": "",
+    "title_name": "Old Guard"
+  },
+  {
+    "test": "",
+    "title_name": "Caprice"
+  },
+  {
+    "test": "",
+    "title_name": "Blaze"
+  },
+  {
+    "test": "",
+    "title_name": "Sturdy"
+  },
+  {
+    "test": "",
+    "title_name": "Tempestuous"
+  },
+  {
+    "test": "",
+    "title_name": "Valorous"
+  },
+  {
+    "test": "",
+    "title_name": "Jest"
+  },
+  {
+    "test": "",
+    "title_name": "Delightful"
+  },
+  {
+    "test": "",
+    "title_name": "Dangerous"
+  },
+  {
+    "test": "",
+    "title_name": "Tidy"
+  },
+  {
+    "test": "",
+    "title_name": "Clear-cut"
+  },
+  {
+    "test": "",
+    "title_name": "Years"
+  },
+  {
+    "test": "",
+    "title_name": "In Training"
+  },
+  {
+    "test": "",
+    "title_name": "Diligent"
+  },
+  {
+    "test": "",
+    "title_name": "Rebellious"
+  },
+  {
+    "test": "",
+    "title_name": "Bottomless"
+  },
+  {
+    "test": "",
+    "title_name": "Self-improvement"
+  },
+  {
+    "test": "",
+    "title_name": "Integrity"
+  },
+  {
+    "test": "",
+    "title_name": "Innovator"
+  },
+  {
+    "test": "",
+    "title_name": "Hotblooded"
+  },
+  {
+    "test": "",
+    "title_name": "Senior"
+  },
+  {
+    "test": "",
+    "title_name": "Junior"
+  },
+  {
+    "test": "",
+    "title_name": "Meister"
+  },
+  {
+    "test": "",
+    "title_name": "Player"
+  },
+  {
+    "test": "",
+    "title_name": "Associate"
+  },
+  {
+    "test": "",
+    "title_name": "Aide"
+  },
+  {
+    "test": "",
+    "title_name": "Commando"
+  },
+  {
+    "test": "",
+    "title_name": "Gambler"
+  },
+  {
+    "test": "",
+    "title_name": "Keeper"
+  },
+  {
+    "test": "",
+    "title_name": "Doctor"
+  },
+  {
+    "test": "",
+    "title_name": "Striker"
+  },
+  {
+    "test": "",
+    "title_name": "Success"
+  },
+  {
+    "test": "",
+    "title_name": "Aggressive"
+  },
+  {
+    "test": "",
+    "title_name": "Motivation"
+  },
+  {
+    "test": "",
+    "title_name": "Excitement"
+  },
+  {
+    "test": "",
+    "title_name": "Local"
+  },
+  {
+    "test": "",
+    "title_name": "Major"
+  },
+  {
+    "test": "",
+    "title_name": "Minor"
+  },
+  {
+    "test": "",
+    "title_name": "Grand Prix"
+  },
+  {
+    "test": "",
+    "title_name": "Guilty"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 500"
+  },
+  {
+    "test": "",
+    "title_name": "Unlocked once you reach MR 500."
+  },
+  {
+    "test": "",
+    "title_name": "Fortune"
+  },
+  {
+    "test": "",
+    "title_name": "Providence"
+  },
+  {
+    "test": "",
+    "title_name": "Flowing"
+  },
+  {
+    "test": "",
+    "title_name": "Uninhibited"
+  },
+  {
+    "test": "",
+    "title_name": "Turmoil"
+  },
+  {
+    "test": "",
+    "title_name": "Unified"
+  },
+  {
+    "test": "",
+    "title_name": "The World"
+  },
+  {
+    "test": "",
+    "title_name": "Alliance"
+  },
+  {
+    "test": "",
+    "title_name": "Ritual"
+  },
+  {
+    "test": "",
+    "title_name": "Martial Arts"
+  },
+  {
+    "test": "",
+    "title_name": "Equal"
+  },
+  {
+    "test": "",
+    "title_name": "Result"
+  },
+  {
+    "test": "",
+    "title_name": "Talisman"
+  },
+  {
+    "test": "",
+    "title_name": "Advent"
+  },
+  {
+    "test": "",
+    "title_name": "Unity"
+  },
+  {
+    "test": "",
+    "title_name": "Federation"
+  },
+  {
+    "test": "",
+    "title_name": "Independence"
+  },
+  {
+    "test": "",
+    "title_name": "Deceit"
+  },
+  {
+    "test": "",
+    "title_name": "Greedy"
+  },
+  {
+    "test": "",
+    "title_name": "Offering"
+  },
+  {
+    "test": "",
+    "title_name": "Brilliance"
+  },
+  {
+    "test": "",
+    "title_name": "Misunderstanding"
+  },
+  {
+    "test": "",
+    "title_name": "Laudable"
+  },
+  {
+    "test": "",
+    "title_name": "Commemoration"
+  },
+  {
+    "test": "",
+    "title_name": "Barefoot"
+  },
+  {
+    "test": "",
+    "title_name": "Confident"
+  },
+  {
+    "test": "",
+    "title_name": "Gradual"
+  },
+  {
+    "test": "",
+    "title_name": "Doctrine"
+  },
+  {
+    "test": "",
+    "title_name": "Whim"
+  },
+  {
+    "test": "",
+    "title_name": "Rowdy"
+  },
+  {
+    "test": "",
+    "title_name": "Task"
+  },
+  {
+    "test": "",
+    "title_name": "Rank"
+  },
+  {
+    "test": "",
+    "title_name": "Level"
+  },
+  {
+    "test": "",
+    "title_name": "Attain"
+  },
+  {
+    "test": "",
+    "title_name": "Optional"
+  },
+  {
+    "test": "",
+    "title_name": "Nice"
+  },
+  {
+    "test": "",
+    "title_name": "Hard"
+  },
+  {
+    "test": "",
+    "title_name": "Technique"
+  },
+  {
+    "test": "",
+    "title_name": "Total"
+  },
+  {
+    "test": "",
+    "title_name": "Prominent"
+  },
+  {
+    "test": "",
+    "title_name": "Bonus"
+  },
+  {
+    "test": "",
+    "title_name": "Assist"
+  },
+  {
+    "test": "",
+    "title_name": "Skip"
+  },
+  {
+    "test": "",
+    "title_name": "Union"
+  },
+  {
+    "test": "",
+    "title_name": "Block"
+  },
+  {
+    "test": "",
+    "title_name": "Shield"
+  },
+  {
+    "test": "",
+    "title_name": "Tactics"
+  },
+  {
+    "test": "",
+    "title_name": "Mysterious"
+  },
+  {
+    "test": "",
+    "title_name": "Da"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 750"
+  },
+  {
+    "test": "",
+    "title_name": "Available for use once you reach MR 750."
+  },
+  {
+    "test": "",
+    "title_name": "Honor"
+  },
+  {
+    "test": "",
+    "title_name": "Wizard"
+  },
+  {
+    "test": "",
+    "title_name": "One-of-a-kind"
+  },
+  {
+    "test": "",
+    "title_name": "Wunderkind"
+  },
+  {
+    "test": "",
+    "title_name": "Brilliant"
+  },
+  {
+    "test": "",
+    "title_name": "Extraordinary"
+  },
+  {
+    "test": "",
+    "title_name": "Transcendence"
+  },
+  {
+    "test": "",
+    "title_name": "Studios"
+  },
+  {
+    "test": "",
+    "title_name": "Daring"
+  },
+  {
+    "test": "",
+    "title_name": "Sagacious"
+  },
+  {
+    "test": "",
+    "title_name": "Tenacious"
+  },
+  {
+    "test": "",
+    "title_name": "Refined"
+  },
+  {
+    "test": "",
+    "title_name": "Dexterity"
+  },
+  {
+    "test": "",
+    "title_name": "Hubris"
+  },
+  {
+    "test": "",
+    "title_name": "Humility"
+  },
+  {
+    "test": "",
+    "title_name": "All-In"
+  },
+  {
+    "test": "",
+    "title_name": "Solitary"
+  },
+  {
+    "test": "",
+    "title_name": "Unbroken"
+  },
+  {
+    "test": "",
+    "title_name": "Patience"
+  },
+  {
+    "test": "",
+    "title_name": "Principled"
+  },
+  {
+    "test": "",
+    "title_name": "Deva"
+  },
+  {
+    "test": "",
+    "title_name": "Topflight"
+  },
+  {
+    "test": "",
+    "title_name": "Without Equal"
+  },
+  {
+    "test": "",
+    "title_name": "Gruesome"
+  },
+  {
+    "test": "",
+    "title_name": "Mastery"
+  },
+  {
+    "test": "",
+    "title_name": "Spirit"
+  },
+  {
+    "test": "",
+    "title_name": "Personage"
+  },
+  {
+    "test": "",
+    "title_name": "Zenith"
+  },
+  {
+    "test": "",
+    "title_name": "Luck"
+  },
+  {
+    "test": "",
+    "title_name": "Journey"
+  },
+  {
+    "test": "",
+    "title_name": "Search"
+  },
+  {
+    "test": "",
+    "title_name": "Fluid"
+  },
+  {
+    "test": "",
+    "title_name": "Firm"
+  },
+  {
+    "test": "",
+    "title_name": "Pal"
+  },
+  {
+    "test": "",
+    "title_name": "Connection"
+  },
+  {
+    "test": "",
+    "title_name": "Clout"
+  },
+  {
+    "test": "",
+    "title_name": "Execution"
+  },
+  {
+    "test": "",
+    "title_name": "Speed"
+  },
+  {
+    "test": "",
+    "title_name": "Attack"
+  },
+  {
+    "test": "",
+    "title_name": "Defend"
+  },
+  {
+    "test": "",
+    "title_name": "Fire"
+  },
+  {
+    "test": "",
+    "title_name": "Aqua"
+  },
+  {
+    "test": "",
+    "title_name": "Dragons"
+  },
+  {
+    "test": "",
+    "title_name": "Wyvern"
+  },
+  {
+    "test": "",
+    "title_name": "Wave"
+  },
+  {
+    "test": "",
+    "title_name": "Vital"
+  },
+  {
+    "test": "",
+    "title_name": "Proof"
+  },
+  {
+    "test": "",
+    "title_name": "Dignified"
+  },
+  {
+    "test": "",
+    "title_name": "Vertex"
+  },
+  {
+    "test": "",
+    "title_name": "Grace"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "REACHED MASTER RANK 999"
+  },
+  {
+    "test": "",
+    "title_name": "Available for you to use once you reach MR 999"
+  },
+  {
+    "test": "",
+    "title_name": "Summit"
+  },
+  {
+    "test": "",
+    "title_name": "Honored"
+  },
+  {
+    "test": "",
+    "title_name": "Thanks"
+  },
+  {
+    "test": "",
+    "title_name": "Iceborne"
+  },
+  {
+    "test": "",
+    "title_name": "TOTAL MONSTER HUNTS"
+  },
+  {
+    "test": "",
+    "title_name": "Monster Hunt counts come in two types"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Regular Monsters"
+  },
+  {
+    "test": "",
+    "title_name": "Great Jagras:"
+  },
+  {
+    "test": "",
+    "title_name": "Great Jagras"
+  },
+  {
+    "test": "",
+    "title_name": "Gluttonous"
+  },
+  {
+    "test": "",
+    "title_name": "Gobbling"
+  },
+  {
+    "test": "",
+    "title_name": "Shaggy"
+  },
+  {
+    "test": "",
+    "title_name": "Great Girros:"
+  },
+  {
+    "test": "",
+    "title_name": "Great Girros"
+  },
+  {
+    "test": "",
+    "title_name": "Ravenous"
+  },
+  {
+    "test": "",
+    "title_name": "Fear"
+  },
+  {
+    "test": "",
+    "title_name": "Paralyzing"
+  },
+  {
+    "test": "",
+    "title_name": "Dodogama:"
+  },
+  {
+    "test": "",
+    "title_name": "Dodogama"
+  },
+  {
+    "test": "",
+    "title_name": "Drill"
+  },
+  {
+    "test": "",
+    "title_name": "Dignity"
+  },
+  {
+    "test": "",
+    "title_name": "Bold"
+  },
+  {
+    "test": "",
+    "title_name": "Pukei-Pukei:"
+  },
+  {
+    "test": "",
+    "title_name": "Pukei-Pukei"
+  },
+  {
+    "test": "",
+    "title_name": "Venomous"
+  },
+  {
+    "test": "",
+    "title_name": "Pop"
+  },
+  {
+    "test": "",
+    "title_name": "Teacher"
+  },
+  {
+    "test": "",
+    "title_name": "Coral Pukei-Pukei:"
+  },
+  {
+    "test": "",
+    "title_name": "Water Pistol"
+  },
+  {
+    "test": "",
+    "title_name": "Eeriness"
+  },
+  {
+    "test": "",
+    "title_name": "Splish Splash"
+  },
+  {
+    "test": "",
+    "title_name": "Soaking Wet"
+  },
+  {
+    "test": "",
+    "title_name": "Kulu-Ya-Ku:"
+  },
+  {
+    "test": "",
+    "title_name": "Kulu-Ya-Ku"
+  },
+  {
+    "test": "",
+    "title_name": "Burglar"
+  },
+  {
+    "test": "",
+    "title_name": "Dextrous"
+  },
+  {
+    "test": "",
+    "title_name": "Raptor"
+  },
+  {
+    "test": "",
+    "title_name": "Tzitzi-Ya-Ku:"
+  },
+  {
+    "test": "",
+    "title_name": "Tzitzi-Ya-Ku"
+  },
+  {
+    "test": "",
+    "title_name": "Flashy"
+  },
+  {
+    "test": "",
+    "title_name": "Spotlight"
+  },
+  {
+    "test": "",
+    "title_name": "Mirror"
+  },
+  {
+    "test": "",
+    "title_name": "Jyuratodus:"
+  },
+  {
+    "test": "",
+    "title_name": "Jyuratodus"
+  },
+  {
+    "test": "",
+    "title_name": "Mud"
+  },
+  {
+    "test": "",
+    "title_name": "Water"
+  },
+  {
+    "test": "",
+    "title_name": "Owner"
+  },
+  {
+    "test": "",
+    "title_name": "Lavasioth:"
+  },
+  {
+    "test": "",
+    "title_name": "Lavasioth"
+  },
+  {
+    "test": "",
+    "title_name": "Amber"
+  },
+  {
+    "test": "",
+    "title_name": "Magma"
+  },
+  {
+    "test": "",
+    "title_name": "Red-hot"
+  },
+  {
+    "test": "",
+    "title_name": "Beotodus:"
+  },
+  {
+    "test": "",
+    "title_name": "Beotodus"
+  },
+  {
+    "test": "",
+    "title_name": "Snowman"
+  },
+  {
+    "test": "",
+    "title_name": "Swimmer"
+  },
+  {
+    "test": "",
+    "title_name": "Snowdrift"
+  },
+  {
+    "test": "",
+    "title_name": "Tobi-Kadachi:"
+  },
+  {
+    "test": "",
+    "title_name": "Tobi-Kadachi"
+  },
+  {
+    "test": "",
+    "title_name": "Fulgur"
+  },
+  {
+    "test": "",
+    "title_name": "Flying Squirrel"
+  },
+  {
+    "test": "",
+    "title_name": "Agile"
+  },
+  {
+    "test": "",
+    "title_name": "Viper Tobi-Kadachi:"
+  },
+  {
+    "test": "",
+    "title_name": "Kadachi"
+  },
+  {
+    "test": "",
+    "title_name": "Postern"
+  },
+  {
+    "test": "",
+    "title_name": "Power Surge"
+  },
+  {
+    "test": "",
+    "title_name": "Contingency Plan"
+  },
+  {
+    "test": "",
+    "title_name": "Barroth:"
+  },
+  {
+    "test": "",
+    "title_name": "Barroth"
+  },
+  {
+    "test": "",
+    "title_name": "Charge"
+  },
+  {
+    "test": "",
+    "title_name": "Tyrant"
+  },
+  {
+    "test": "",
+    "title_name": "Strong"
+  },
+  {
+    "test": "",
+    "title_name": "Banbaro:"
+  },
+  {
+    "test": "",
+    "title_name": "Banbaro"
+  },
+  {
+    "test": "",
+    "title_name": "Colossus"
+  },
+  {
+    "test": "",
+    "title_name": "Intimidating"
+  },
+  {
+    "test": "",
+    "title_name": "Stone"
+  },
+  {
+    "test": "",
+    "title_name": "Radobaan:"
+  },
+  {
+    "test": "",
+    "title_name": "Radobaan"
+  },
+  {
+    "test": "",
+    "title_name": "Bone"
+  },
+  {
+    "test": "",
+    "title_name": "Spiral"
+  },
+  {
+    "test": "",
+    "title_name": "Thorns"
+  },
+  {
+    "test": "",
+    "title_name": "Uragaan:"
+  },
+  {
+    "test": "",
+    "title_name": "Uragaan"
+  },
+  {
+    "test": "",
+    "title_name": "Destruction"
+  },
+  {
+    "test": "",
+    "title_name": "Rolling"
+  },
+  {
+    "test": "",
+    "title_name": "Sledgehammer"
+  },
+  {
+    "test": "",
+    "title_name": "Brachydios:"
+  },
+  {
+    "test": "",
+    "title_name": "Brachydios"
+  },
+  {
+    "test": "",
+    "title_name": "Bacteria"
+  },
+  {
+    "test": "",
+    "title_name": "Obsidian"
+  },
+  {
+    "test": "",
+    "title_name": "Pompadour"
+  },
+  {
+    "test": "",
+    "title_name": "Raging Brachydios:"
+  },
+  {
+    "test": "",
+    "title_name": "Big Blast"
+  },
+  {
+    "test": "",
+    "title_name": "Activation"
+  },
+  {
+    "test": "",
+    "title_name": "Fuse"
+  },
+  {
+    "test": "",
+    "title_name": "Hazardous"
+  },
+  {
+    "test": "",
+    "title_name": "Anjanath:"
+  },
+  {
+    "test": "",
+    "title_name": "Anjanath"
+  },
+  {
+    "test": "",
+    "title_name": "Bully"
+  },
+  {
+    "test": "",
+    "title_name": "Wild"
+  },
+  {
+    "test": "",
+    "title_name": "Brute Wyvern"
+  },
+  {
+    "test": "",
+    "title_name": "Fulgur Anjanath:"
+  },
+  {
+    "test": "",
+    "title_name": "Anja"
+  },
+  {
+    "test": "",
+    "title_name": "Electric Charge"
+  },
+  {
+    "test": "",
+    "title_name": "Physical"
+  },
+  {
+    "test": "",
+    "title_name": "Thunderstroke"
+  },
+  {
+    "test": "",
+    "title_name": "Glavenus:"
+  },
+  {
+    "test": "",
+    "title_name": "Glavenus"
+  },
+  {
+    "test": "",
+    "title_name": "Red-Hot"
+  },
+  {
+    "test": "",
+    "title_name": "Dueller"
+  },
+  {
+    "test": "",
+    "title_name": "Firebrand"
+  },
+  {
+    "test": "",
+    "title_name": "Acidic Glavenus:"
+  },
+  {
+    "test": "",
+    "title_name": "Corrosion"
+  },
+  {
+    "test": "",
+    "title_name": "Crystalized"
+  },
+  {
+    "test": "",
+    "title_name": "Polished"
+  },
+  {
+    "test": "",
+    "title_name": "Chop"
+  },
+  {
+    "test": "",
+    "title_name": "Savage Deviljho:"
+  },
+  {
+    "test": "",
+    "title_name": "Rage"
+  },
+  {
+    "test": "",
+    "title_name": "Devouring"
+  },
+  {
+    "test": "",
+    "title_name": "Starving"
+  },
+  {
+    "test": "",
+    "title_name": "Despot"
+  },
+  {
+    "test": "",
+    "title_name": "Paolumu:"
+  },
+  {
+    "test": "",
+    "title_name": "Paolumu"
+  },
+  {
+    "test": "",
+    "title_name": "Balloon"
+  },
+  {
+    "test": "",
+    "title_name": "Floaty"
+  },
+  {
+    "test": "",
+    "title_name": "Pearly"
+  },
+  {
+    "test": "",
+    "title_name": "Nightshade Paolumu:"
+  },
+  {
+    "test": "",
+    "title_name": "Lumu"
+  },
+  {
+    "test": "",
+    "title_name": "Sleep"
+  },
+  {
+    "test": "",
+    "title_name": "Floating"
+  },
+  {
+    "test": "",
+    "title_name": "Sleeping"
+  },
+  {
+    "test": "",
+    "title_name": "Legiana:"
+  },
+  {
+    "test": "",
+    "title_name": "Legiana"
+  },
+  {
+    "test": "",
+    "title_name": "Elegant"
+  },
+  {
+    "test": "",
+    "title_name": "Speedster"
+  },
+  {
+    "test": "",
+    "title_name": "Twister"
+  },
+  {
+    "test": "",
+    "title_name": "Shrieking Legiana:"
+  },
+  {
+    "test": "",
+    "title_name": "Ice Wind"
+  },
+  {
+    "test": "",
+    "title_name": "Frost"
+  },
+  {
+    "test": "",
+    "title_name": "Chill"
+  },
+  {
+    "test": "",
+    "title_name": "Frostbite"
+  },
+  {
+    "test": "",
+    "title_name": "Barioth:"
+  },
+  {
+    "test": "",
+    "title_name": "Barioth"
+  },
+  {
+    "test": "",
+    "title_name": "Frost-bound"
+  },
+  {
+    "test": "",
+    "title_name": "Velocity"
+  },
+  {
+    "test": "",
+    "title_name": "Freezing"
+  },
+  {
+    "test": "",
+    "title_name": "Frostfang Barioth:"
+  },
+  {
+    "test": "",
+    "title_name": "Frostfang"
+  },
+  {
+    "test": "",
+    "title_name": "Sabre"
+  },
+  {
+    "test": "",
+    "title_name": "High-Speed"
+  },
+  {
+    "test": "",
+    "title_name": "Threatening"
+  },
+  {
+    "test": "",
+    "title_name": "Nargacuga:"
+  },
+  {
+    "test": "",
+    "title_name": "Nargacuga"
+  },
+  {
+    "test": "",
+    "title_name": "Nightstalker"
+  },
+  {
+    "test": "",
+    "title_name": "Sonic"
+  },
+  {
+    "test": "",
+    "title_name": "Shadowstalker"
+  },
+  {
+    "test": "",
+    "title_name": "Tigrex:"
+  },
+  {
+    "test": "",
+    "title_name": "Tigrex"
+  },
+  {
+    "test": "",
+    "title_name": "Absolutely"
+  },
+  {
+    "test": "",
+    "title_name": "Sprint"
+  },
+  {
+    "test": "",
+    "title_name": "Roaring Tiger"
+  },
+  {
+    "test": "",
+    "title_name": "Brute Tigrex:"
+  },
+  {
+    "test": "",
+    "title_name": "Rex"
+  },
+  {
+    "test": "",
+    "title_name": "Roar"
+  },
+  {
+    "test": "",
+    "title_name": "Brute"
+  },
+  {
+    "test": "",
+    "title_name": "Black Tiger"
+  },
+  {
+    "test": "",
+    "title_name": "Rathian:"
+  },
+  {
+    "test": "",
+    "title_name": "Rathian"
+  },
+  {
+    "test": "",
+    "title_name": "Land"
+  },
+  {
+    "test": "",
+    "title_name": "Duchess"
+  },
+  {
+    "test": "",
+    "title_name": "Wyvern Princess"
+  },
+  {
+    "test": "",
+    "title_name": "Pink Rathian:"
+  },
+  {
+    "test": "",
+    "title_name": "Cherry Blossom"
+  },
+  {
+    "test": "",
+    "title_name": "Valkyrie"
+  },
+  {
+    "test": "",
+    "title_name": "Queen"
+  },
+  {
+    "test": "",
+    "title_name": "Graceful"
+  },
+  {
+    "test": "",
+    "title_name": "Gold Rathian:"
+  },
+  {
+    "test": "",
+    "title_name": "Queen Rath"
+  },
+  {
+    "test": "",
+    "title_name": "Gold"
+  },
+  {
+    "test": "",
+    "title_name": "Luna"
+  },
+  {
+    "test": "",
+    "title_name": "Damsel"
+  },
+  {
+    "test": "",
+    "title_name": "Rathalos:"
+  },
+  {
+    "test": "",
+    "title_name": "Rathalos"
+  },
+  {
+    "test": "",
+    "title_name": "Skies"
+  },
+  {
+    "test": "",
+    "title_name": "Prince"
+  },
+  {
+    "test": "",
+    "title_name": "King"
+  },
+  {
+    "test": "",
+    "title_name": "Azure Rathalos:"
+  },
+  {
+    "test": "",
+    "title_name": "Azure"
+  },
+  {
+    "test": "",
+    "title_name": "Sapphire"
+  },
+  {
+    "test": "",
+    "title_name": "Soul"
+  },
+  {
+    "test": "",
+    "title_name": "Regent"
+  },
+  {
+    "test": "",
+    "title_name": "Silver Rathalos:"
+  },
+  {
+    "test": "",
+    "title_name": "King Rath"
+  },
+  {
+    "test": "",
+    "title_name": "Silvery"
+  },
+  {
+    "test": "",
+    "title_name": "Sol"
+  },
+  {
+    "test": "",
+    "title_name": "Flying Wyvern"
+  },
+  {
+    "test": "",
+    "title_name": "Bazelgeuse:"
+  },
+  {
+    "test": "",
+    "title_name": "Bazelgeuse"
+  },
+  {
+    "test": "",
+    "title_name": "Trickster"
+  },
+  {
+    "test": "",
+    "title_name": "Trouble"
+  },
+  {
+    "test": "",
+    "title_name": "Raider"
+  },
+  {
+    "test": "",
+    "title_name": "Seething Bazelgeuse:"
+  },
+  {
+    "test": "",
+    "title_name": "Swoop"
+  },
+  {
+    "test": "",
+    "title_name": "Onslaught"
+  },
+  {
+    "test": "",
+    "title_name": "Explosion"
+  },
+  {
+    "test": "",
+    "title_name": "Scorched"
+  },
+  {
+    "test": "",
+    "title_name": "Yian Garuga:"
+  },
+  {
+    "test": "",
+    "title_name": "Garuga"
+  },
+  {
+    "test": "",
+    "title_name": "Black Wolf"
+  },
+  {
+    "test": "",
+    "title_name": "Wolf"
+  },
+  {
+    "test": "",
+    "title_name": "Aloof"
+  },
+  {
+    "test": "",
+    "title_name": "Scarred Yian Garuga:"
+  },
+  {
+    "test": "",
+    "title_name": "Deadeye"
+  },
+  {
+    "test": "",
+    "title_name": "Troublemaker"
+  },
+  {
+    "test": "",
+    "title_name": "Frenzy"
+  },
+  {
+    "test": "",
+    "title_name": "Aggressor"
+  },
+  {
+    "test": "",
+    "title_name": "Diablos:"
+  },
+  {
+    "test": "",
+    "title_name": "Diablos"
+  },
+  {
+    "test": "",
+    "title_name": "Berserk"
+  },
+  {
+    "test": "",
+    "title_name": "Desert"
+  },
+  {
+    "test": "",
+    "title_name": "Horned"
+  },
+  {
+    "test": "",
+    "title_name": "Black Diablos:"
+  },
+  {
+    "test": "",
+    "title_name": "Violent"
+  },
+  {
+    "test": "",
+    "title_name": "Piercing"
+  },
+  {
+    "test": "",
+    "title_name": "Devil"
+  },
+  {
+    "test": "",
+    "title_name": "Demon"
+  },
+  {
+    "test": "",
+    "title_name": "Odogaron:"
+  },
+  {
+    "test": "",
+    "title_name": "Odogaron"
+  },
+  {
+    "test": "",
+    "title_name": "Watchdog"
+  },
+  {
+    "test": "",
+    "title_name": "Predator"
+  },
+  {
+    "test": "",
+    "title_name": "Fierce"
+  },
+  {
+    "test": "",
+    "title_name": "Ebony Odogaron:"
+  },
+  {
+    "test": "",
+    "title_name": "Garon"
+  },
+  {
+    "test": "",
+    "title_name": "Frenzied"
+  },
+  {
+    "test": "",
+    "title_name": "Prowling"
+  },
+  {
+    "test": "",
+    "title_name": "Rampaging"
+  },
+  {
+    "test": "",
+    "title_name": "Zinogre:"
+  },
+  {
+    "test": "",
+    "title_name": "Zinogre"
+  },
+  {
+    "test": "",
+    "title_name": "Transformation"
+  },
+  {
+    "test": "",
+    "title_name": "Burst"
+  },
+  {
+    "test": "",
+    "title_name": "Alacrity"
+  },
+  {
+    "test": "",
+    "title_name": "Stygian Zinogre:"
+  },
+  {
+    "test": "",
+    "title_name": "Stygian"
+  },
+  {
+    "test": "",
+    "title_name": "Dracophage"
+  },
+  {
+    "test": "",
+    "title_name": "Unleashed"
+  },
+  {
+    "test": "",
+    "title_name": "Dracolite"
+  },
+  {
+    "test": "",
+    "title_name": "Rajang:"
+  },
+  {
+    "test": "",
+    "title_name": "Rajang"
+  },
+  {
+    "test": "",
+    "title_name": "Bossman"
+  },
+  {
+    "test": "",
+    "title_name": "Golden"
+  },
+  {
+    "test": "",
+    "title_name": "Oni"
+  },
+  {
+    "test": "",
+    "title_name": "Furious Rajang:"
+  },
+  {
+    "test": "",
+    "title_name": "Furious"
+  },
+  {
+    "test": "",
+    "title_name": "Fighting Spirit"
+  },
+  {
+    "test": "",
+    "title_name": "Heaven Sent"
+  },
+  {
+    "test": "",
+    "title_name": "Fury"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Elder Dragons"
+  },
+  {
+    "test": "",
+    "title_name": "Kirin:"
+  },
+  {
+    "test": "",
+    "title_name": "Kirin"
+  },
+  {
+    "test": "",
+    "title_name": "Stormy"
+  },
+  {
+    "test": "",
+    "title_name": "Thunder"
+  },
+  {
+    "test": "",
+    "title_name": "Flash"
+  },
+  {
+    "test": "",
+    "title_name": "Kushala Daora:"
+  },
+  {
+    "test": "",
+    "title_name": "Kushala"
+  },
+  {
+    "test": "",
+    "title_name": "Gale"
+  },
+  {
+    "test": "",
+    "title_name": "Cyclone"
+  },
+  {
+    "test": "",
+    "title_name": "Soaring"
+  },
+  {
+    "test": "",
+    "title_name": "Namielle:"
+  },
+  {
+    "test": "",
+    "title_name": "Namielle"
+  },
+  {
+    "test": "",
+    "title_name": "Current"
+  },
+  {
+    "test": "",
+    "title_name": "Luminous"
+  },
+  {
+    "test": "",
+    "title_name": "Spray"
+  },
+  {
+    "test": "",
+    "title_name": "Teostra:"
+  },
+  {
+    "test": "",
+    "title_name": "Teo"
+  },
+  {
+    "test": "",
+    "title_name": "Shimmering"
+  },
+  {
+    "test": "",
+    "title_name": "Kaiser"
+  },
+  {
+    "test": "",
+    "title_name": "Flame Emperor"
+  },
+  {
+    "test": "",
+    "title_name": "Vaal Hazak:"
+  },
+  {
+    "test": "",
+    "title_name": "Vaal Hazak"
+  },
+  {
+    "test": "",
+    "title_name": "Zombie"
+  },
+  {
+    "test": "",
+    "title_name": "Corpse"
+  },
+  {
+    "test": "",
+    "title_name": "Destination"
+  },
+  {
+    "test": "",
+    "title_name": "Blackveil Vaal Hazak:"
+  },
+  {
+    "test": "",
+    "title_name": "Sinking"
+  },
+  {
+    "test": "",
+    "title_name": "Spore"
+  },
+  {
+    "test": "",
+    "title_name": "Stagnant"
+  },
+  {
+    "test": "",
+    "title_name": "Shrouded"
+  },
+  {
+    "test": "",
+    "title_name": "Nergigante:"
+  },
+  {
+    "test": "",
+    "title_name": "Nergigante"
+  },
+  {
+    "test": "",
+    "title_name": "Power"
+  },
+  {
+    "test": "",
+    "title_name": "Rebirth"
+  },
+  {
+    "test": "",
+    "title_name": "Consume"
+  },
+  {
+    "test": "",
+    "title_name": "Ruiner Nergigante:"
+  },
+  {
+    "test": "",
+    "title_name": "Shattered"
+  },
+  {
+    "test": "",
+    "title_name": "Awe"
+  },
+  {
+    "test": "",
+    "title_name": "Overpowering"
+  },
+  {
+    "test": "",
+    "title_name": "Absolute"
+  },
+  {
+    "test": "",
+    "title_name": "Velkhana:"
+  },
+  {
+    "test": "",
+    "title_name": "Velkhana"
+  },
+  {
+    "test": "",
+    "title_name": "Frozen"
+  },
+  {
+    "test": "",
+    "title_name": "Fog"
+  },
+  {
+    "test": "",
+    "title_name": "Frost Crack"
+  },
+  {
+    "test": "",
+    "title_name": "Shara Ishvalda:"
+  },
+  {
+    "test": "",
+    "title_name": "Rumble"
+  },
+  {
+    "test": "",
+    "title_name": "Song"
+  },
+  {
+    "test": "",
+    "title_name": "Logic"
+  },
+  {
+    "test": "",
+    "title_name": "Decorum"
+  },
+  {
+    "test": "",
+    "title_name": "Xeno'Jiiva:"
+  },
+  {
+    "test": "",
+    "title_name": "Xeno'Jiiva"
+  },
+  {
+    "test": "",
+    "title_name": "Winged"
+  },
+  {
+    "test": "",
+    "title_name": "Energy"
+  },
+  {
+    "test": "",
+    "title_name": "Honcho"
+  },
+  {
+    "test": "",
+    "title_name": "Alatreon"
+  },
+  {
+    "test": "",
+    "title_name": "Alatreon"
+  },
+  {
+    "test": "",
+    "title_name": "Element"
+  },
+  {
+    "test": "",
+    "title_name": "Hard Luck"
+  },
+  {
+    "test": "",
+    "title_name": "Finality"
+  },
+  {
+    "test": "",
+    "title_name": "Fatalis:"
+  },
+  {
+    "test": "",
+    "title_name": "Fatal"
+  },
+  {
+    "test": "",
+    "title_name": "Dragon Killer"
+  },
+  {
+    "test": "",
+    "title_name": "Dragon's Bane"
+  },
+  {
+    "test": "",
+    "title_name": "Ruined Dragon"
+  },
+  {
+    "test": "",
+    "title_name": "Collab / Update Monster Related"
+  },
+  {
+    "test": "",
+    "title_name": "These don't require kill counts"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Zorah Magdaros:"
+  },
+  {
+    "test": "",
+    "title_name": "Zorah"
+  },
+  {
+    "test": "",
+    "title_name": "Volcano"
+  },
+  {
+    "test": "",
+    "title_name": "Advance"
+  },
+  {
+    "test": "",
+    "title_name": "Colossal"
+  },
+  {
+    "test": "",
+    "title_name": "Deviljho:"
+  },
+  {
+    "test": "",
+    "title_name": "Deviljho"
+  },
+  {
+    "test": "",
+    "title_name": "Demonic"
+  },
+  {
+    "test": "",
+    "title_name": "Destroy"
+  },
+  {
+    "test": "",
+    "title_name": "Invader"
+  },
+  {
+    "test": "",
+    "title_name": "Lunastra:"
+  },
+  {
+    "test": "",
+    "title_name": "Lunastra"
+  },
+  {
+    "test": "",
+    "title_name": "Flame"
+  },
+  {
+    "test": "",
+    "title_name": "Regal"
+  },
+  {
+    "test": "",
+    "title_name": "Incandescent"
+  },
+  {
+    "test": "",
+    "title_name": "Behemoth:"
+  },
+  {
+    "test": "",
+    "title_name": "Fantasy"
+  },
+  {
+    "test": "",
+    "title_name": "Crystal"
+  },
+  {
+    "test": "",
+    "title_name": "Dragoon"
+  },
+  {
+    "test": "",
+    "title_name": "Behemoth"
+  },
+  {
+    "test": "",
+    "title_name": "XIV"
+  },
+  {
+    "test": "",
+    "title_name": "Extreme Behemoth:"
+  },
+  {
+    "test": "",
+    "title_name": "Warrior of Light"
+  },
+  {
+    "test": "",
+    "title_name": "Leshen / Ancient Leshen:"
+  },
+  {
+    "test": "",
+    "title_name": "Witcher"
+  },
+  {
+    "test": "",
+    "title_name": "Geralt"
+  },
+  {
+    "test": "",
+    "title_name": "Ciri"
+  },
+  {
+    "test": "",
+    "title_name": "Leshen"
+  },
+  {
+    "test": "",
+    "title_name": "White Wolf"
+  },
+  {
+    "test": "",
+    "title_name": "Igni"
+  },
+  {
+    "test": "",
+    "title_name": "Safi'Jiiva"
+  },
+  {
+    "test": "",
+    "title_name": "Otherworldy"
+  },
+  {
+    "test": "",
+    "title_name": "Invasion"
+  },
+  {
+    "test": "",
+    "title_name": "Perfection"
+  },
+  {
+    "test": "",
+    "title_name": "Laser"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "TOTAL MONSTER HUNTS"
+  },
+  {
+    "test": "",
+    "title_name": "General Hunting"
+  },
+  {
+    "test": "",
+    "title_name": "Titles for achieving a set amount of unspecified hunts in total go here."
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Hunt 50 Tempered Monsters:"
+  },
+  {
+    "test": "",
+    "title_name": "Adept"
+  },
+  {
+    "test": "",
+    "title_name": "Commander"
+  },
+  {
+    "test": "",
+    "title_name": "Charisma"
+  },
+  {
+    "test": "",
+    "title_name": "Slayed 50 Elder Dragons:"
+  },
+  {
+    "test": "",
+    "title_name": "Valiant"
+  },
+  {
+    "test": "",
+    "title_name": "Mythic"
+  },
+  {
+    "test": "",
+    "title_name": "Legendary"
+  },
+  {
+    "test": "",
+    "title_name": "Slayed 50 Master Rank Elder Dragons:"
+  },
+  {
+    "test": "",
+    "title_name": "Elder Dragon"
+  },
+  {
+    "test": "",
+    "title_name": "Style"
+  },
+  {
+    "test": "",
+    "title_name": "Majesty"
+  },
+  {
+    "test": "",
+    "title_name": "Capture 50 Monsters:"
+  },
+  {
+    "test": "",
+    "title_name": "Already"
+  },
+  {
+    "test": "",
+    "title_name": "Feral"
+  },
+  {
+    "test": "",
+    "title_name": "Comet"
+  },
+  {
+    "test": "",
+    "title_name": "Capture 50 Master Rank Monsters:"
+  },
+  {
+    "test": "",
+    "title_name": "Fortitude"
+  },
+  {
+    "test": "",
+    "title_name": "Capability"
+  },
+  {
+    "test": "",
+    "title_name": "Tenacity"
+  },
+  {
+    "test": "",
+    "title_name": "Hunt A Variant Monster:"
+  },
+  {
+    "test": "",
+    "title_name": "Variant"
+  },
+  {
+    "test": "",
+    "title_name": "Aberrant"
+  },
+  {
+    "test": "",
+    "title_name": "Wall"
+  },
+  {
+    "test": "",
+    "title_name": "Hunt 30 Variant Monsters:"
+  },
+  {
+    "test": "",
+    "title_name": "Attained"
+  },
+  {
+    "test": "",
+    "title_name": "Proficient"
+  },
+  {
+    "test": "",
+    "title_name": "Elite"
+  },
+  {
+    "test": "",
+    "title_name": "Hunt 100 Large Monsters:"
+  },
+  {
+    "test": "",
+    "title_name": "Maniac"
+  },
+  {
+    "test": "",
+    "title_name": "Tough"
+  },
+  {
+    "test": "",
+    "title_name": "Enraged"
+  },
+  {
+    "test": "",
+    "title_name": "Hunt 500 Large Monsters:"
+  },
+  {
+    "test": "",
+    "title_name": "Master"
+  },
+  {
+    "test": "",
+    "title_name": "Fairy-tale"
+  },
+  {
+    "test": "",
+    "title_name": "Unprecedented"
+  },
+  {
+    "test": "",
+    "title_name": "Complete 50 Optional Quests:"
+  },
+  {
+    "test": "",
+    "title_name": "Liberty"
+  },
+  {
+    "test": "",
+    "title_name": "Guide"
+  },
+  {
+    "test": "",
+    "title_name": "Guidance"
+  },
+  {
+    "test": "",
+    "title_name": "Complete 50 Investigations:"
+  },
+  {
+    "test": "",
+    "title_name": "Seeker"
+  },
+  {
+    "test": "",
+    "title_name": "Knowledable"
+  },
+  {
+    "test": "",
+    "title_name": "Fair Wind"
+  },
+  {
+    "test": "",
+    "title_name": "Complete 10 Arena Quests:"
+  },
+  {
+    "test": "",
+    "title_name": "Black Belt"
+  },
+  {
+    "test": "",
+    "title_name": "Arena"
+  },
+  {
+    "test": "",
+    "title_name": "Chosen"
+  },
+  {
+    "test": "",
+    "title_name": "Complete 30 Arena Quests:"
+  },
+  {
+    "test": "",
+    "title_name": "Expert"
+  },
+  {
+    "test": "",
+    "title_name": "Hardened"
+  },
+  {
+    "test": "",
+    "title_name": "Decidedly"
+  },
+  {
+    "test": "",
+    "title_name": "Complete 50 Arena Quests:"
+  },
+  {
+    "test": "",
+    "title_name": "Gladiator"
+  },
+  {
+    "test": "",
+    "title_name": "Glory"
+  },
+  {
+    "test": "",
+    "title_name": "Admired"
+  },
+  {
+    "test": "",
+    "title_name": "Responded To 10 SOS Flares:"
+  },
+  {
+    "test": "",
+    "title_name": "Backup"
+  },
+  {
+    "test": "",
+    "title_name": "Great"
+  },
+  {
+    "test": "",
+    "title_name": "Interceptor"
+  },
+  {
+    "test": "",
+    "title_name": "Completed 100 Multiplayer Quests:"
+  },
+  {
+    "test": "",
+    "title_name": "Comrade"
+  },
+  {
+    "test": "",
+    "title_name": "Friend"
+  },
+  {
+    "test": "",
+    "title_name": "Lonely"
+  },
+  {
+    "test": "",
+    "title_name": "Complete 10 Helpful Hunter Quests:"
+  },
+  {
+    "test": "",
+    "title_name": "Backer"
+  },
+  {
+    "test": "",
+    "title_name": "Mentor"
+  },
+  {
+    "test": "",
+    "title_name": "Aid"
+  },
+  {
+    "test": "",
+    "title_name": "Maximise Research For Almost All Monsters:"
+  },
+  {
+    "test": "",
+    "title_name": "Know-it-all"
+  },
+  {
+    "test": "",
+    "title_name": "Research"
+  },
+  {
+    "test": "",
+    "title_name": "Intellectual"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "GUILD CARDS + PRIMARY GROUP"
+  },
+  {
+    "test": "",
+    "title_name": "Also known as \"Joining a Squad\" on console versions."
+  },
+  {
+    "test": "",
+    "title_name": "Sensei"
+  },
+  {
+    "test": "",
+    "title_name": "Prime"
+  },
+  {
+    "test": "",
+    "title_name": "Business"
+  },
+  {
+    "test": "",
+    "title_name": "Active-duty"
+  },
+  {
+    "test": "",
+    "title_name": "Sweetheart"
+  },
+  {
+    "test": "",
+    "title_name": "Real"
+  },
+  {
+    "test": "",
+    "title_name": "Troupe"
+  },
+  {
+    "test": "",
+    "title_name": "Princess"
+  },
+  {
+    "test": "",
+    "title_name": "My"
+  },
+  {
+    "test": "",
+    "title_name": "Trendy"
+  },
+  {
+    "test": "",
+    "title_name": "Heir"
+  },
+  {
+    "test": "",
+    "title_name": "Famous"
+  },
+  {
+    "test": "",
+    "title_name": "Killer"
+  },
+  {
+    "test": "",
+    "title_name": "Telepathic"
+  },
+  {
+    "test": "",
+    "title_name": "Unmovable"
+  },
+  {
+    "test": "",
+    "title_name": "Eternal"
+  },
+  {
+    "test": "",
+    "title_name": "Service"
+  },
+  {
+    "test": "",
+    "title_name": "History"
+  },
+  {
+    "test": "",
+    "title_name": "Final"
+  },
+  {
+    "test": "",
+    "title_name": "Homemade"
+  },
+  {
+    "test": "",
+    "title_name": "Warrior"
+  },
+  {
+    "test": "",
+    "title_name": "Archer"
+  },
+  {
+    "test": "",
+    "title_name": "Bug-catcher"
+  },
+  {
+    "test": "",
+    "title_name": "Farmer"
+  },
+  {
+    "test": "",
+    "title_name": "Book"
+  },
+  {
+    "test": "",
+    "title_name": "Dapper"
+  },
+  {
+    "test": "",
+    "title_name": "Curmudgeon"
+  },
+  {
+    "test": "",
+    "title_name": "Maiden"
+  },
+  {
+    "test": "",
+    "title_name": "Moxie"
+  },
+  {
+    "test": "",
+    "title_name": "Grillmeister"
+  },
+  {
+    "test": "",
+    "title_name": "Fisherman"
+  },
+  {
+    "test": "",
+    "title_name": "Tracks"
+  },
+  {
+    "test": "",
+    "title_name": "Item"
+  },
+  {
+    "test": "",
+    "title_name": "Prize"
+  },
+  {
+    "test": "",
+    "title_name": "Specialist"
+  },
+  {
+    "test": "",
+    "title_name": "Skill"
+  },
+  {
+    "test": "",
+    "title_name": "Using"
+  },
+  {
+    "test": "",
+    "title_name": "Wobbly"
+  },
+  {
+    "test": "",
+    "title_name": "Rider"
+  },
+  {
+    "test": "",
+    "title_name": "Schemer"
+  },
+  {
+    "test": "",
+    "title_name": "Hide-and-Seek"
+  },
+  {
+    "test": "",
+    "title_name": "Well-done"
+  },
+  {
+    "test": "",
+    "title_name": "White Wind"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "For acquiring a total of 50 Guild Cards from other players."
+  },
+  {
+    "test": "",
+    "title_name": "Bond"
+  },
+  {
+    "test": "",
+    "title_name": "Spread"
+  },
+  {
+    "test": "",
+    "title_name": "Link"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "EXPLORATION"
+  },
+  {
+    "test": "",
+    "title_name": "These titles are awarded mostly for exploration and discovery. For reaching regions for the first time"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Experience The Ancient Forest:"
+  },
+  {
+    "test": "",
+    "title_name": "Ancient Tree"
+  },
+  {
+    "test": "",
+    "title_name": "Forest"
+  },
+  {
+    "test": "",
+    "title_name": "Experience The Wildspire Wastes:"
+  },
+  {
+    "test": "",
+    "title_name": "Wildspire"
+  },
+  {
+    "test": "",
+    "title_name": "Wastes"
+  },
+  {
+    "test": "",
+    "title_name": "Experience The Coral Highlands:"
+  },
+  {
+    "test": "",
+    "title_name": "Coral"
+  },
+  {
+    "test": "",
+    "title_name": "Highlands"
+  },
+  {
+    "test": "",
+    "title_name": "Experience The Rotten Vale:"
+  },
+  {
+    "test": "",
+    "title_name": "Rotten"
+  },
+  {
+    "test": "",
+    "title_name": "Vale"
+  },
+  {
+    "test": "",
+    "title_name": "Experience The Elder's Recess:"
+  },
+  {
+    "test": "",
+    "title_name": "Elder"
+  },
+  {
+    "test": "",
+    "title_name": "Recess"
+  },
+  {
+    "test": "",
+    "title_name": "Experience The Hoarfrost Reach:"
+  },
+  {
+    "test": "",
+    "title_name": "Hoarfrost"
+  },
+  {
+    "test": "",
+    "title_name": "Reach"
+  },
+  {
+    "test": "",
+    "title_name": "Snowpack"
+  },
+  {
+    "test": "",
+    "title_name": "Frigid"
+  },
+  {
+    "test": "",
+    "title_name": "Experience The Guiding Lands:"
+  },
+  {
+    "test": "",
+    "title_name": "Gathering"
+  },
+  {
+    "test": "",
+    "title_name": "Mix"
+  },
+  {
+    "test": "",
+    "title_name": "Spend Some Time In A Hot Spring:"
+  },
+  {
+    "test": "",
+    "title_name": "Hot Spring"
+  },
+  {
+    "test": "",
+    "title_name": "Relaxation"
+  },
+  {
+    "test": "",
+    "title_name": "Refreshing"
+  },
+  {
+    "test": "",
+    "title_name": "Capture A Moly:"
+  },
+  {
+    "test": "",
+    "title_name": "Moly"
+  },
+  {
+    "test": "",
+    "title_name": "Tiptoe"
+  },
+  {
+    "test": "",
+    "title_name": "Trending"
+  },
+  {
+    "test": "",
+    "title_name": "Find All Treasures Within A Single Locale:"
+  },
+  {
+    "test": "",
+    "title_name": "Trove"
+  },
+  {
+    "test": "",
+    "title_name": "Exchange"
+  },
+  {
+    "test": "",
+    "title_name": "Amiable"
+  },
+  {
+    "test": "",
+    "title_name": "Capture a Gold Crown Sized Endemic Life:"
+  },
+  {
+    "test": "",
+    "title_name": "Whopper"
+  },
+  {
+    "test": "",
+    "title_name": "Unerring"
+  },
+  {
+    "test": "",
+    "title_name": "Gotcha"
+  },
+  {
+    "test": "",
+    "title_name": "Capture a Miniature Crown Sized Endemic Life:"
+  },
+  {
+    "test": "",
+    "title_name": "Fishing"
+  },
+  {
+    "test": "",
+    "title_name": "Trawler"
+  },
+  {
+    "test": "",
+    "title_name": "Presence"
+  },
+  {
+    "test": "",
+    "title_name": "Befriend the Boaboa:"
+  },
+  {
+    "test": "",
+    "title_name": "Boaboa"
+  },
+  {
+    "test": "",
+    "title_name": "Recruit a Tailraider:"
+  },
+  {
+    "test": "",
+    "title_name": "Tailraider"
+  },
+  {
+    "test": "",
+    "title_name": "Stray"
+  },
+  {
+    "test": "",
+    "title_name": "Meow"
+  },
+  {
+    "test": "",
+    "title_name": "Grimalkyne"
+  },
+  {
+    "test": "",
+    "title_name": "Recruit a Gajalaka:"
+  },
+  {
+    "test": "",
+    "title_name": "Gajalaka"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "COMPLETIONIST"
+  },
+  {
+    "test": "",
+    "title_name": "Big chunk of completionist titles unlocked just for experiencing and doing things. If they didn't really fit into a category elsewhere"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Collect 100"
+  },
+  {
+    "test": "",
+    "title_name": "Insect"
+  },
+  {
+    "test": "",
+    "title_name": "Plant"
+  },
+  {
+    "test": "",
+    "title_name": "PhD"
+  },
+  {
+    "test": "",
+    "title_name": "Collect 1"
+  },
+  {
+    "test": "",
+    "title_name": "Tycoon"
+  },
+  {
+    "test": "",
+    "title_name": "Celebrity"
+  },
+  {
+    "test": "",
+    "title_name": "Resort"
+  },
+  {
+    "test": "",
+    "title_name": "Acquire 5 Rarity 8 Armour Pieces or Charms:"
+  },
+  {
+    "test": "",
+    "title_name": "Gear"
+  },
+  {
+    "test": "",
+    "title_name": "Obsession"
+  },
+  {
+    "test": "",
+    "title_name": "Quintessential"
+  },
+  {
+    "test": "",
+    "title_name": "Acquire 5 Rarity 8 Weapons:"
+  },
+  {
+    "test": "",
+    "title_name": "Arm"
+  },
+  {
+    "test": "",
+    "title_name": "Collector"
+  },
+  {
+    "test": "",
+    "title_name": "Lofty"
+  },
+  {
+    "test": "",
+    "title_name": "Slayed Ruiner Nergigante in the Guiding Lands:"
+  },
+  {
+    "test": "",
+    "title_name": "Watchman"
+  },
+  {
+    "test": "",
+    "title_name": "Pinnacle"
+  },
+  {
+    "test": "",
+    "title_name": "Obliteration"
+  },
+  {
+    "test": "",
+    "title_name": "Complete Heralds of Destruction Cry:"
+  },
+  {
+    "test": "",
+    "title_name": "God of Ruin"
+  },
+  {
+    "test": "",
+    "title_name": "Heaven's Ruin"
+  },
+  {
+    "test": "",
+    "title_name": "Tempered Master"
+  },
+  {
+    "test": "",
+    "title_name": "New World Hero"
+  },
+  {
+    "test": "",
+    "title_name": "Complete A Visitor from Eorza (Extreme):"
+  },
+  {
+    "test": "",
+    "title_name": "Warrior of Light"
+  },
+  {
+    "test": "",
+    "title_name": "Begin the Kulve Taroth Siege:"
+  },
+  {
+    "test": "",
+    "title_name": "Kulve Taroth"
+  },
+  {
+    "test": "",
+    "title_name": "Hoard"
+  },
+  {
+    "test": "",
+    "title_name": "Exhilarating"
+  },
+  {
+    "test": "",
+    "title_name": "Highly Prized"
+  },
+  {
+    "test": "",
+    "title_name": "Solved All The Mysteries In Contract: Trouble In The Ancient Forest:"
+  },
+  {
+    "test": "",
+    "title_name": "Wild Hunt"
+  },
+  {
+    "test": "",
+    "title_name": "Studied The Ways of the Clutch Claw:"
+  },
+  {
+    "test": "",
+    "title_name": "Claw"
+  },
+  {
+    "test": "",
+    "title_name": "Grappling"
+  },
+  {
+    "test": "",
+    "title_name": "Flinger"
+  },
+  {
+    "test": "",
+    "title_name": "Equipped Your First Pendant:"
+  },
+  {
+    "test": "",
+    "title_name": "Particular"
+  },
+  {
+    "test": "",
+    "title_name": "Upgraded"
+  },
+  {
+    "test": "",
+    "title_name": "Hidden Skill"
+  },
+  {
+    "test": "",
+    "title_name": "Used Raider Ride Many Times:"
+  },
+  {
+    "test": "",
+    "title_name": "Ride"
+  },
+  {
+    "test": "",
+    "title_name": "Tamer"
+  },
+  {
+    "test": "",
+    "title_name": "Buds"
+  },
+  {
+    "test": "",
+    "title_name": "Changed Your Room's Interior:"
+  },
+  {
+    "test": "",
+    "title_name": "Alter"
+  },
+  {
+    "test": "",
+    "title_name": "Breather"
+  },
+  {
+    "test": "",
+    "title_name": "My Room"
+  },
+  {
+    "test": "",
+    "title_name": "Sent the Steamworks into Overdrive:"
+  },
+  {
+    "test": "",
+    "title_name": "Fortunate"
+  },
+  {
+    "test": "",
+    "title_name": "Risktaker"
+  },
+  {
+    "test": "",
+    "title_name": "Jackpot"
+  },
+  {
+    "test": "",
+    "title_name": "Complete many Lynian Observation quests:"
+  },
+  {
+    "test": "",
+    "title_name": "Professionalism"
+  },
+  {
+    "test": "",
+    "title_name": "Dab Hand"
+  },
+  {
+    "test": "",
+    "title_name": "Artistry"
+  },
+  {
+    "test": "",
+    "title_name": "Obtained a Miniature Crown for almost every Monster:"
+  },
+  {
+    "test": "",
+    "title_name": "Tiniest"
+  },
+  {
+    "test": "",
+    "title_name": "Sign"
+  },
+  {
+    "test": "",
+    "title_name": "Minimum"
+  },
+  {
+    "test": "",
+    "title_name": "Obtained a Gold Crown for almost every Monster:"
+  },
+  {
+    "test": "",
+    "title_name": "Hugest"
+  },
+  {
+    "test": "",
+    "title_name": "Crown"
+  },
+  {
+    "test": "",
+    "title_name": "Maximum"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "SEASONAL FESTIVALS"
+  },
+  {
+    "test": "",
+    "title_name": "Titles you can earn just by logging in while a specific Seasonal Event is underway."
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Spring Blossom Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Spring"
+  },
+  {
+    "test": "",
+    "title_name": "Bloom"
+  },
+  {
+    "test": "",
+    "title_name": "March"
+  },
+  {
+    "test": "",
+    "title_name": "April"
+  },
+  {
+    "test": "",
+    "title_name": "May"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Full Bloom Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Sunshine"
+  },
+  {
+    "test": "",
+    "title_name": "Exquisite"
+  },
+  {
+    "test": "",
+    "title_name": "Rose"
+  },
+  {
+    "test": "",
+    "title_name": "Bouquet"
+  },
+  {
+    "test": "",
+    "title_name": "Aesthetic"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Summer Twilight Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Summer"
+  },
+  {
+    "test": "",
+    "title_name": "Ocean"
+  },
+  {
+    "test": "",
+    "title_name": "June"
+  },
+  {
+    "test": "",
+    "title_name": "July"
+  },
+  {
+    "test": "",
+    "title_name": "August"
+  },
+  {
+    "test": "",
+    "title_name": "Participate in The Sizzling Spice Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Hot"
+  },
+  {
+    "test": "",
+    "title_name": "Sweat"
+  },
+  {
+    "test": "",
+    "title_name": "Dances"
+  },
+  {
+    "test": "",
+    "title_name": "Zealous"
+  },
+  {
+    "test": "",
+    "title_name": "Dance"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Autumn Harvest Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Autumn"
+  },
+  {
+    "test": "",
+    "title_name": "Pumpkin"
+  },
+  {
+    "test": "",
+    "title_name": "September"
+  },
+  {
+    "test": "",
+    "title_name": "October"
+  },
+  {
+    "test": "",
+    "title_name": "November"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Fun Fright Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Chilly"
+  },
+  {
+    "test": "",
+    "title_name": "Full Moon"
+  },
+  {
+    "test": "",
+    "title_name": "Dead of Night"
+  },
+  {
+    "test": "",
+    "title_name": "Fun Fright"
+  },
+  {
+    "test": "",
+    "title_name": "Costume"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Winter Star Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Winter"
+  },
+  {
+    "test": "",
+    "title_name": "Snow"
+  },
+  {
+    "test": "",
+    "title_name": "December"
+  },
+  {
+    "test": "",
+    "title_name": "January"
+  },
+  {
+    "test": "",
+    "title_name": "February"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Holiday Joy Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Cold"
+  },
+  {
+    "test": "",
+    "title_name": "Icicle"
+  },
+  {
+    "test": "",
+    "title_name": "Paper Lantern"
+  },
+  {
+    "test": "",
+    "title_name": "Lantern"
+  },
+  {
+    "test": "",
+    "title_name": "Traditional"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Appreciation Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "Anniversary"
+  },
+  {
+    "test": "",
+    "title_name": "One Year"
+  },
+  {
+    "test": "",
+    "title_name": "Congrats"
+  },
+  {
+    "test": "",
+    "title_name": "Celebrate"
+  },
+  {
+    "test": "",
+    "title_name": "Birthday"
+  },
+  {
+    "test": "",
+    "title_name": "Participate In The Grand Appreciation Festival:"
+  },
+  {
+    "test": "",
+    "title_name": "2nd Anniversary"
+  },
+  {
+    "test": "",
+    "title_name": "Grand Appreciation"
+  },
+  {
+    "test": "",
+    "title_name": "Adulation"
+  },
+  {
+    "test": "",
+    "title_name": "Banquet"
+  },
+  {
+    "test": "",
+    "title_name": "Much Obliged"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "COLLABORATION / CROSSOVER"
+  },
+  {
+    "test": "",
+    "title_name": "All the stuff that comes with the various updates"
+  },
+  {
+    "test": "",
+    "title_name": ""
+  },
+  {
+    "test": "",
+    "title_name": "Low + High Rank / Vanilla Universal Studios Japan (USJ):"
+  },
+  {
+    "test": "",
+    "title_name": "Universal"
+  },
+  {
+    "test": "",
+    "title_name": "Studios"
+  },
+  {
+    "test": "",
+    "title_name": "Wonder"
+  },
+  {
+    "test": "",
+    "title_name": "World's Best"
+  },
+  {
+    "test": "",
+    "title_name": "Cool Japan"
+  },
+  {
+    "test": "",
+    "title_name": "Master Rank / Iceborne Universal Studios Japan (USJ):"
+  },
+  {
+    "test": "",
+    "title_name": "Attraction"
+  },
+  {
+    "test": "",
+    "title_name": "World-class"
+  },
+  {
+    "test": "",
+    "title_name": "Amazing"
+  },
+  {
+    "test": "",
+    "title_name": "Discovery"
+  },
+  {
+    "test": "",
+    "title_name": "Park"
+  },
+  {
+    "test": "",
+    "title_name": "Cast"
+  },
+  {
+    "test": "",
+    "title_name": "Stage Crew"
+  },
+  {
+    "test": "",
+    "title_name": "Guest"
+  },
+  {
+    "test": "",
+    "title_name": "Show"
+  },
+  {
+    "test": "",
+    "title_name": "USJ"
+  },
+  {
+    "test": "",
+    "title_name": "Devil May Cry:"
+  },
+  {
+    "test": "",
+    "title_name": "Stylish"
+  },
+  {
+    "test": "",
+    "title_name": "Must Die"
+  },
+  {
+    "test": "",
+    "title_name": "Ebony"
+  },
+  {
+    "test": "",
+    "title_name": "Ivory"
+  },
+  {
+    "test": "",
+    "title_name": "Force Edge"
+  },
+  {
+    "test": "",
+    "title_name": "Assassins Creed:"
+  },
+  {
+    "test": "",
+    "title_name": "Origins"
+  },
+  {
+    "test": "",
+    "title_name": "Assassins"
+  },
+  {
+    "test": "",
+    "title_name": "Bayek"
+  },
+  {
+    "test": "",
+    "title_name": "Scarab"
+  },
+  {
+    "test": "",
+    "title_name": "Pharoah"
+  },
+  {
+    "test": "",
+    "title_name": "Stealth"
+  },
+  {
+    "test": "",
+    "title_name": "Megaman:"
+  },
+  {
+    "test": "",
+    "title_name": "Dr."
+  },
+  {
+    "test": "",
+    "title_name": "E-Tank"
+  },
+  {
+    "test": "",
+    "title_name": "Classic"
+  },
+  {
+    "test": "",
+    "title_name": "Rush"
+  },
+  {
+    "test": "",
+    "title_name": "Rock n' Roll"
+  },
+  {
+    "test": "",
+    "title_name": "Resident Evil:"
+  },
+  {
+    "test": "",
+    "title_name": "Survival"
+  },
+  {
+    "test": "",
+    "title_name": "Horror"
+  },
+  {
+    "test": "",
+    "title_name": "Virus"
+  },
+  {
+    "test": "",
+    "title_name": "Survivor"
+  },
+  {
+    "test": "",
+    "title_name": "Close Call"
+  },
+  {
+    "test": "",
+    "title_name": "Street Fighter V:"
+  },
+  {
+    "test": "",
+    "title_name": "Rival"
+  },
+  {
+    "test": "",
+    "title_name": "Destined"
+  },
+  {
+    "test": "",
+    "title_name": "Living Legend"
+  },
+  {
+    "test": "",
+    "title_name": "Bandana Girl"
+  },
+  {
+    "test": "",
+    "title_name": "K.O"
+  },
+  {
+    "test": "",
+    "title_name": "Monster Hunter Movie:"
+  },
+  {
+    "test": "",
+    "title_name": "Artemis"
+  },
+  {
+    "test": "",
+    "title_name": "Devil's Teeth"
+  },
+  {
+    "test": "",
+    "title_name": "Sky Tower"
+  },
+  {
+    "test": "",
+    "title_name": "Ranger"
+  },
+  {
+    "test": "",
+    "title_name": "Chocolate"
+  },
+  {
+    "test": "",
+    "title_name": "Movie"
+  }
+]

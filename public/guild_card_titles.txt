@@ -1,0 +1,1740 @@
+TITLE (FIRST) AND TITLE (LAST)
+AVAILABLE FROM THE BEGINNING
+These are available by default, you don't have to do anything to unlock and use them.
+(None)
+Newbie
+First Year
+Beginner
+Fledgling
+Rookie
+Hunter
+Fisher
+Fighter
+Sniper
+Sword
+Rapier
+Blade
+Great Sword
+Lance
+Spear
+Hammer
+Mallet
+Dual Blades
+Twin Swords
+Light Bowgun
+Crossbow
+Heavy Bowgun
+Ballista
+Katana
+Long Sword
+Arrow
+Bow
+Gunlance
+Blast Pike
+Horn
+Flute
+Hatchet
+Switch Axe
+Glaive
+Staff
+Halberd
+Charge Blade
+Groups
+Now Recruiting
+Newcomer
+Courageous
+Helper
+Meowster
+Ms.
+Knightly Order
+Hunting Crew
+Man
+Girl
+He
+Me
+Lone Wolf
+Love
+Stranger
+Thrilling
+Exciting
+Solo
+Duo
+Trio
+Party
+Potion
+Honey
+Red
+Blue
+Green
+Promising
+Klutzy
+Third-rate
+Offense
+Defense
+On Sale Now!
+First Fleet
+Second Fleet
+Third Fleet
+Fourth Fleet
+Fifth Fleet
+New World
+Commission
+Good
+Bad
+Expedition
+A-Lister
+Scoutfly
+
+REACHED HUNTER RANK 6
+These unlock after reaching HR 6.
+Romance
+Lemon
+Head
+Mask
+Body
+Mail
+Vambraces
+Guard
+Waist
+Coat
+Leggings
+Boots
+Armor
+Assassin
+Grand
+Buster
+Strider
+Saber
+Slayer
+Brave
+First-class
+24/7
+Self
+Anima
+Pure
+(Self-)Trained
+Instructor
+Extraordinaire
+Trooper
+Adventurer
+Frontier
+Miss
+Cheery
+Oasis
+Protector
+Arcadia
+Buddy
+White
+Black
+Shadow
+Gloom
+Dark
+Jade
+Pink
+Crimson
+Vermillion
+Yellow
+Rainbow
+Shiny
+Ravine
+
+REACHED HUNTER RANK 11
+These unlock after you reach HR 11.
+Raw
+Rough
+Family
+Stubborn
+Amphibious
+Fang
+Youngster
+Shot
+Debonair
+Proven
+Flesh
+Ultraviolet
+Unforgiven
+Capable
+Phoenix
+Prodigy
+Genius
+Dashing
+Vanguard
+Amnesiac
+Mushroom
+Nectar
+Vale Tudo
+Diversion Team
+Pied Piper
+Gunslinger
+Angler
+Berserker
+Mercenary
+Assault
+Bride
+Rambling
+Eagle Eye
+Soldier
+Entomologist
+Bomber
+War
+Killer Bee
+Bearer
+Tragedy
+Sweet
+Tomorrow
+Papa
+Battalion
+Peach
+Diet
+Army
+Foreman
+Original
+Amateur
+
+REACHED HUNTER RANK 16
+These are unlocked upon reaching HR 16.
+Leader
+Ace
+Limitless
+Veteran
+Raid
+Cleave
+Melody
+Cannon
+Mutant
+Spinning
+Dancing
+Stalwart
+Romantic
+Shooting Star
+Quick Draw
+Beautiful
+Nostalgic
+Powerful
+Unrivaled
+Kid
+Dude
+Best
+Lucky
+Challenge
+Fleet
+Lady
+Mr.
+New Land
+Relaxing
+Monthly
+Artisan
+First
+Armed
+Cunning
+Punk
+Technician
+If Only
+Painful
+Slowpoke
+Advanced
+Pro
+Beloved
+Devoured
+Hard-boiled
+Masterful
+Giga
+Strawberry
+Cute
+Nearly
+Pretty
+
+REACHED HUNTER RANK 30
+These unlock once you reach HR 30.
+Lord
+Shinobi
+Freedom
+Dream
+Altair
+Kunoichi
+Vega
+Vagrant
+Iron
+Breaker
+Samurai
+Model
+Traveller
+Slash
+Wing
+Break
+All
+Weapon
+Anonymous
+Fan
+Crisis
+Heroine
+Finest
+Natural
+Heartthrob
+Boy
+So-called
+Tiny
+Former
+Casual
+Madam
+Professor
+Winner
+Loser
+Fever
+Coward
+Skilled
+Singed
+Beast
+Free
+Chicken
+Bug
+Silent
+Kinda
+Treasure
+Full-auto
+Compound
+First-time
+Soft
+Fate
+
+REACHED HUNTER RANK 50
+Unlocked upon reaching HR 50.
+Tail
+Shaker
+Sheathed
+Headshot
+Coordinated
+Hardcore
+Exacting
+Divine
+Very Stubborn
+Salvo
+Surefire
+Strategist
+Eco
+Ebon
+Unlucky
+Slim
+Unbelievable
+Story
+Cataclysm
+Ore
+Messy
+Value
+Derring-do
+Country
+Petit
+End of an Era
+Sealed
+Graduate
+Speciality
+Apprentice
+Neo
+Sister
+Acrobatic
+Maiden Name
+Myself
+Walker
+Alchemist
+Thief
+Captive
+Mining Master
+Transporter
+Guardian
+Grizzled
+Safari
+Trolley
+Minion
+Experienced
+Mecha
+Brand-new
+Researcher
+
+REACHED HUNTER RANK 100
+Unlocked by reaching HR 100.
+Complete
+Sage
+Perfect
+Ruler
+Big Bang
+Blademaster
+Beastmaster
+All-or-nothing
+Indiscriminating
+Machine Crew
+One-shot
+Gamble
+Prism
+Faint
+Cocky
+Exclusive
+Team
+Mostly
+Reborn
+Wonderful
+Viva
+Pseudo
+Disciple
+Not For Sale
+Radiant
+Beauty
+Temporary
+Ripe
+Favourite
+Squishy
+Darling
+Charmer
+Big
+Intermittent
+Max
+Fishmaster
+Rodeo
+Excellent
+Regular
+Stroll
+Love-Struck
+At First Sight
+Luv
+Roaming
+Rare
+Second-rate
+Mascot
+Partner
+Like
+Popular
+
+REACHED HUNTER RANK 250
+Unlocked by reaching HR 250.
+As Always!
+Sufferer
+Agent
+Riled-up
+Shuddering
+Terra
+Archdemon
+Requiem
+Ballad
+Marvellous
+Dauntless
+Bushido
+Avenger
+Double
+Hilarious
+Role Model
+Class Leader
+President
+Exhausted
+Indestructable
+Royal
+Blushing
+Chaos
+Retired
+Number
+Of All Time
+Sexy
+Awesome
+Flex
+Unbeaten
+All-out
+Joy
+Group
+No. 1
+Mrs.
+Born
+Nameless
+Giant
+Sorta
+Mini
+Lad
+Syndrome
+Anti
+Crew
+Captain
+Passion
+Special
+Half
+Respect
+Bargain
+Mega
+
+REACHED HUNTER RANK 500
+Unlocked for use at HR 500.
+Legend
+Champion
+Hero
+Clear
+Reincarnated
+Strongest
+Top-class
+Unparalleled
+Jet-black
+Robot
+Emperor
+Baby
+Gorgeous
+Short
+Foremost
+Anger
+Life
+Witch
+Person
+Forbidden
+Snowflake
+Famed
+Long
+Audacious
+Extreme
+Constant
+Gourmet
+Maid
+Magistrate
+Weakling
+Unthinkable
+Huh
+Macho
+Research Team
+Campaigner
+Scholar
+Bounty
+Illusion
+Sapphire Star
+Blinding
+Ultra
+Disappointing
+Human
+Smart
+Hunt
+Flower
+Right-hand
+Men
+Women
+
+REACHED HUNTER RANK 750
+Unlocked upon reaching HR 750.
+Super
+Complimentary
+Alias
+Hope
+Pioneer
+Freed
+Knight
+General
+Imperial
+Supreme
+Crack
+Opportunistic
+God
+Terror
+Squire
+Metal
+Karma
+Star
+Dragon
+Czar
+Fearless
+Brand
+Drink
+Egg
+Dumpling
+Friendly
+Hunt-crazy
+Monster Hunter
+Nailed It
+Tempered
+Trailblazer
+Challenger
+BFF
+Vibe
+Tracker
+Titan
+Observer
+Mission
+Go
+Handler
+Quirk
+Fly
+Miracle
+Fantasy
+Chockablock
+Big Sis
+Specimen
+Smitten
+Aerial Battle
+Charming
+
+REACHED HUNTER RANK 999
+Obtained at HR 999. Congratulations!
+Monster
+World
+Top
+
+REACHED MASTER RANK 1
+Unlocked at MR 1, as soon as you begin Iceborne content.
+New
+Tale
+Commendation
+Blessing
+Aspiration
+Premonition
+Bud
+Revere
+Envy
+Creed
+Cool-headed
+Passionate
+Ancient
+Pristine
+Steel
+Virtue
+Unsullied
+Whirlwind
+Wreckless
+Grin
+Target
+Prey
+Headliner
+Peerless
+Extremity
+Wielder
+Unheard Of
+Native
+Maelstrom
+Extradimensional
+Dawn
+All-nighter
+Morning
+Afternoon
+Night
+Sun
+Moonlight
+Empyrean
+Starry Sky
+Stardust
+
+REACHED MASTER RANK 12
+Unlocked once you reach MR 12.
+Astera
+Seliana
+Headquarters
+Frontline
+Sauna
+Steam Bath
+Alchemy
+Steam
+House
+Layered Armor
+Bumper Crop
+Close Shave
+Uncrowned
+Boundless
+Red Lotus
+Counterstrike
+Revolution
+Natural Born
+Talented
+Adoration
+Scheme
+Justice
+Resolve
+Stark
+Butler
+Sharp Tongued
+Nickname
+Nom de Guerre
+One-Hit Kill
+Sureshot
+Last Holdout
+Forte
+Weakness
+Slice
+Blow
+Marksman
+Avante-garde
+Rear Guard
+Phenomenom
+Secret Technique
+Defender
+Weakest
+Wimp
+
+REACHED MASTER RANK 23
+Available once you reach MR 23.
+Nature
+Bewilder
+Reality
+Truth
+True Identity
+Impact
+Eternity
+Beyond
+Unstoppable
+Victory
+Resonance
+Limit
+Breakthrough
+Change
+Referee
+Tradition
+Lifestyle
+Savings
+Gratuity
+Jewel
+Allure
+Effort
+Priority
+The Only
+Proxy
+Substitute
+Chairman
+Friendship
+Nemesis
+Benefactor
+Household
+Big Bro
+Older Sister
+Parent and Child
+Master and Pupil
+Best Bud
+Foster Parent
+Descendants
+Generation
+
+REACHED MASTER RANK 50
+Unlocked once you reach MR 50.
+Savior
+Top Dog
+Dynamo
+Man of Steel
+Commandant
+Playmaker
+Influencer
+Advisor
+Representative
+Gatekeeper
+Confidant
+Crest
+Heartbeat
+Surge
+Impulse
+Goal
+Myth
+Time
+Genuine
+Trails
+Silver
+Pewter
+Undefeated
+Unscathed
+Accomplished
+Glorious
+Impressive
+Awe-inspiring
+Triple
+Bronze
+Hit
+Hyper
+Acceptable
+Lousy
+Up
+Down
+Simple
+Dual
+Complex
+Mystic
+
+REACHED MASTER RANK 70
+Unlocked once you reach MR 70.
+Sparkling
+Seething
+Imprisoned
+Surging
+Growling
+Howling
+Playful
+Akin To
+Vow
+Beauteous
+Receiver
+Wandering
+Smile
+Reared
+Oath
+Slumber
+Unsleeping
+Care
+Echo
+Glint
+Camaraderie
+Spendthrift
+Gift
+Girly
+Storyteller
+Gourmand
+Tomboy
+Messenger
+Wealthy
+Fashion
+Command
+Guiding
+Order
+Custom
+Sense
+Force
+Legacy
+Silhouette
+Memory
+Combo
+
+REACHED MASTER RANK 100
+Available at MR 100.
+Daybreak
+Morningtide
+Light
+True
+Fake
+Honest
+Rumor
+Vessel
+Heaven
+Chieftain
+Cerulean
+Beryl
+Storm
+Enigma
+Edge
+Face
+Tears
+Mediator
+Interested
+Transient
+Glaring
+Shutout
+Cheerful
+Expected
+Just About
+One-on-one
+Dicey
+Clever
+Mystery
+Secret
+Climax
+Start
+End
+Another
+Point
+Unique
+One
+Second
+Home
+Third
+Daily
+Support
+Heartful
+Astonishing
+Fondness
+Reverence
+Positive
+Negative
+Forever
+Appreciate
+
+REACHED MASTER RANK 250
+Unlocked for use once you reach MR 250.
+Father
+Mother
+Compadre
+Ancestor
+Joyous
+Key Figure
+Celebrated
+Breadwinner
+Baron
+Spearheader
+Old Guard
+Caprice
+Blaze
+Sturdy
+Tempestuous
+Valorous
+Jest
+Delightful
+Dangerous
+Tidy
+Clear-cut
+Years
+In Training
+Diligent
+Rebellious
+Bottomless
+Self-improvement
+Integrity
+Innovator
+Hotblooded
+Senior
+Junior
+Meister
+Player
+Associate
+Aide
+Commando
+Gambler
+Keeper
+Doctor
+Striker
+Success
+Aggressive
+Motivation
+Excitement
+Local
+Major
+Minor
+Grand Prix
+Guilty
+
+REACHED MASTER RANK 500
+Unlocked once you reach MR 500.
+Fortune
+Providence
+Flowing
+Uninhibited
+Turmoil
+Unified
+The World
+Alliance
+Ritual
+Martial Arts
+Equal
+Result
+Talisman
+Advent
+Unity
+Federation
+Independence
+Deceit
+Greedy
+Offering
+Brilliance
+Misunderstanding
+Laudable
+Commemoration
+Barefoot
+Confident
+Gradual
+Doctrine
+Whim
+Rowdy
+Task
+Rank
+Level
+Attain
+Optional
+Nice
+Hard
+Technique
+Total
+Prominent
+Bonus
+Assist
+Skip
+Union
+Block
+Shield
+Tactics
+Mysterious
+Da
+
+REACHED MASTER RANK 750
+Available for use once you reach MR 750.
+Honor
+Wizard
+One-of-a-kind
+Wunderkind
+Brilliant
+Extraordinary
+Transcendence
+Studios
+Daring
+Sagacious
+Tenacious
+Refined
+Dexterity
+Hubris
+Humility
+All-In
+Solitary
+Unbroken
+Patience
+Principled
+Deva
+Topflight
+Without Equal
+Gruesome
+Mastery
+Spirit
+Personage
+Zenith
+Luck
+Journey
+Search
+Fluid
+Firm
+Pal
+Connection
+Clout
+Execution
+Speed
+Attack
+Defend
+Fire
+Aqua
+Dragons
+Wyvern
+Wave
+Vital
+Proof
+Dignified
+Vertex
+Grace
+
+REACHED MASTER RANK 999
+Available for you to use once you reach MR 999, and Goghood.
+Summit
+Honored
+Thanks
+Iceborne
+TOTAL MONSTER HUNTS
+Monster Hunt counts come in two types, regular monsters and Elder Dragons. Regular monsters have 4 titles available each, unlocked at 20, 30, 40 and 50 total hunts. Elder Dragons have 4 titles too, but they're unlocked at 10, 15, 20 and 30 hunts. Some Threat Level 3 non Elder Dragon monsters such as Savage Deviljho also use the Elder Dragon formula.
+
+Regular Monsters
+Great Jagras:
+Great Jagras
+Gluttonous
+Gobbling
+Shaggy
+Great Girros:
+Great Girros
+Ravenous
+Fear
+Paralyzing
+Dodogama:
+Dodogama
+Drill
+Dignity
+Bold
+Pukei-Pukei:
+Pukei-Pukei
+Venomous
+Pop
+Teacher
+Coral Pukei-Pukei:
+Water Pistol
+Eeriness
+Splish Splash
+Soaking Wet
+Kulu-Ya-Ku:
+Kulu-Ya-Ku
+Burglar
+Dextrous
+Raptor
+Tzitzi-Ya-Ku:
+Tzitzi-Ya-Ku
+Flashy
+Spotlight
+Mirror
+Jyuratodus:
+Jyuratodus
+Mud
+Water
+Owner
+Lavasioth:
+Lavasioth
+Amber
+Magma
+Red-hot
+Beotodus:
+Beotodus
+Snowman
+Swimmer
+Snowdrift
+Tobi-Kadachi:
+Tobi-Kadachi
+Fulgur
+Flying Squirrel
+Agile
+Viper Tobi-Kadachi:
+Kadachi
+Postern
+Power Surge
+Contingency Plan
+Barroth:
+Barroth
+Charge
+Tyrant
+Strong
+Banbaro:
+Banbaro
+Colossus
+Intimidating
+Stone
+Radobaan:
+Radobaan
+Bone
+Spiral
+Thorns
+Uragaan:
+Uragaan
+Destruction
+Rolling
+Sledgehammer
+Brachydios:
+Brachydios
+Bacteria
+Obsidian
+Pompadour
+Raging Brachydios:
+Big Blast
+Activation
+Fuse
+Hazardous
+Anjanath:
+Anjanath
+Bully
+Wild
+Brute Wyvern
+Fulgur Anjanath:
+Anja
+Electric Charge
+Physical
+Thunderstroke
+Glavenus:
+Glavenus
+Red-Hot
+Dueller
+Firebrand
+Acidic Glavenus:
+Corrosion
+Crystalized
+Polished
+Chop
+Savage Deviljho:
+Rage
+Devouring
+Starving
+Despot
+Paolumu:
+Paolumu
+Balloon
+Floaty
+Pearly
+Nightshade Paolumu:
+Lumu
+Sleep
+Floating
+Sleeping
+Legiana:
+Legiana
+Elegant
+Speedster
+Twister
+Shrieking Legiana:
+Ice Wind
+Frost
+Chill
+Frostbite
+Barioth:
+Barioth
+Frost-bound
+Velocity
+Freezing
+Frostfang Barioth:
+Frostfang
+Sabre
+High-Speed
+Threatening
+Nargacuga:
+Nargacuga
+Nightstalker
+Sonic
+Shadowstalker
+Tigrex:
+Tigrex
+Absolutely
+Sprint
+Roaring Tiger
+Brute Tigrex:
+Rex
+Roar
+Brute
+Black Tiger
+Rathian:
+Rathian
+Land
+Duchess
+Wyvern Princess
+Pink Rathian:
+Cherry Blossom
+Valkyrie
+Queen
+Graceful
+Gold Rathian:
+Queen Rath
+Gold
+Luna
+Damsel
+Rathalos:
+Rathalos
+Skies
+Prince
+King
+Azure Rathalos:
+Azure
+Sapphire
+Soul
+Regent
+Silver Rathalos:
+King Rath
+Silvery
+Sol
+Flying Wyvern
+Bazelgeuse:
+Bazelgeuse
+Trickster
+Trouble
+Raider
+Seething Bazelgeuse:
+Swoop
+Onslaught
+Explosion
+Scorched
+Yian Garuga:
+Garuga
+Black Wolf
+Wolf
+Aloof
+Scarred Yian Garuga:
+Deadeye
+Troublemaker
+Frenzy
+Aggressor
+Diablos:
+Diablos
+Berserk
+Desert
+Horned
+Black Diablos:
+Violent
+Piercing
+Devil
+Demon
+Odogaron:
+Odogaron
+Watchdog
+Predator
+Fierce
+Ebony Odogaron:
+Garon
+Frenzied
+Prowling
+Rampaging
+Zinogre:
+Zinogre
+Transformation
+Burst
+Alacrity
+Stygian Zinogre:
+Stygian
+Dracophage
+Unleashed
+Dracolite
+Rajang:
+Rajang
+Bossman
+Golden
+Oni
+Furious Rajang:
+Furious
+Fighting Spirit
+Heaven Sent
+Fury
+
+Elder Dragons
+Kirin:
+Kirin
+Stormy
+Thunder
+Flash
+Kushala Daora:
+Kushala
+Gale
+Cyclone
+Soaring
+Namielle:
+Namielle
+Current
+Luminous
+Spray
+Teostra:
+Teo
+Shimmering
+Kaiser
+Flame Emperor
+Vaal Hazak:
+Vaal Hazak
+Zombie
+Corpse
+Destination
+Blackveil Vaal Hazak:
+Sinking
+Spore
+Stagnant
+Shrouded
+Nergigante:
+Nergigante
+Power
+Rebirth
+Consume
+Ruiner Nergigante:
+Shattered
+Awe
+Overpowering
+Absolute
+Velkhana:
+Velkhana
+Frozen
+Fog
+Frost Crack
+Shara Ishvalda:
+Rumble
+Song
+Logic
+Decorum
+Xeno'Jiiva:
+Xeno'Jiiva
+Winged
+Energy
+Honcho
+Alatreon
+Alatreon
+Element
+Hard Luck
+Finality
+Fatalis:
+Fatal
+Dragon Killer
+Dragon's Bane
+Ruined Dragon
+Collab / Update Monster Related
+These don't require kill counts, but rather award you with all the titles upon hunting it for the first time or finishing specific quest chains. Typically attached to the assignment that comes with the collab.
+
+Zorah Magdaros:
+Zorah
+Volcano
+Advance
+Colossal
+Deviljho:
+Deviljho
+Demonic
+Destroy
+Invader
+Lunastra:
+Lunastra
+Flame
+Regal
+Incandescent
+Behemoth:
+Fantasy
+Crystal
+Dragoon
+Behemoth
+XIV
+Extreme Behemoth:
+Warrior of Light
+Leshen / Ancient Leshen:
+Witcher
+Geralt
+Ciri
+Leshen
+White Wolf
+Igni
+Safi'Jiiva
+Otherworldy
+Invasion
+Perfection
+Laser
+
+TOTAL MONSTER HUNTS
+General Hunting
+Titles for achieving a set amount of unspecified hunts in total go here.
+
+Hunt 50 Tempered Monsters:
+Adept
+Commander
+Charisma
+Slayed 50 Elder Dragons:
+Valiant
+Mythic
+Legendary
+Slayed 50 Master Rank Elder Dragons:
+Elder Dragon
+Style
+Majesty
+Capture 50 Monsters:
+Already
+Feral
+Comet
+Capture 50 Master Rank Monsters:
+Fortitude
+Capability
+Tenacity
+Hunt A Variant Monster:
+Variant
+Aberrant
+Wall
+Hunt 30 Variant Monsters:
+Attained
+Proficient
+Elite
+Hunt 100 Large Monsters:
+Maniac
+Tough
+Enraged
+Hunt 500 Large Monsters:
+Master
+Fairy-tale
+Unprecedented
+Complete 50 Optional Quests:
+Liberty
+Guide
+Guidance
+Complete 50 Investigations:
+Seeker
+Knowledable
+Fair Wind
+Complete 10 Arena Quests:
+Black Belt
+Arena
+Chosen
+Complete 30 Arena Quests:
+Expert
+Hardened
+Decidedly
+Complete 50 Arena Quests:
+Gladiator
+Glory
+Admired
+Responded To 10 SOS Flares:
+Backup
+Great
+Interceptor
+Completed 100 Multiplayer Quests:
+Comrade
+Friend
+Lonely
+Complete 10 Helpful Hunter Quests:
+Backer
+Mentor
+Aid
+Maximise Research For Almost All Monsters:
+Know-it-all
+Research
+Intellectual
+
+GUILD CARDS + PRIMARY GROUP
+Also known as "Joining a Squad" on console versions.
+Sensei
+Prime
+Business
+Active-duty
+Sweetheart
+Real
+Troupe
+Princess
+My
+Trendy
+Heir
+Famous
+Killer
+Telepathic
+Unmovable
+Eternal
+Service
+History
+Final
+Homemade
+Warrior
+Archer
+Bug-catcher
+Farmer
+Book
+Dapper
+Curmudgeon
+Maiden
+Moxie
+Grillmeister
+Fisherman
+Tracks
+Item
+Prize
+Specialist
+Skill
+Using
+Wobbly
+Rider
+Schemer
+Hide-and-Seek
+Well-done
+White Wind
+
+For acquiring a total of 50 Guild Cards from other players.
+Bond
+Spread
+Link
+
+EXPLORATION
+These titles are awarded mostly for exploration and discovery. For reaching regions for the first time, interacting with Lynian tribes, capturing Endemic Life, that sort of thing.
+
+Experience The Ancient Forest:
+Ancient Tree
+Forest
+Experience The Wildspire Wastes:
+Wildspire
+Wastes
+Experience The Coral Highlands:
+Coral
+Highlands
+Experience The Rotten Vale:
+Rotten
+Vale
+Experience The Elder's Recess:
+Elder
+Recess
+Experience The Hoarfrost Reach:
+Hoarfrost
+Reach
+Snowpack
+Frigid
+Experience The Guiding Lands:
+Gathering
+Mix
+Spend Some Time In A Hot Spring:
+Hot Spring
+Relaxation
+Refreshing
+Capture A Moly:
+Moly
+Tiptoe
+Trending
+Find All Treasures Within A Single Locale:
+Trove
+Exchange
+Amiable
+Capture a Gold Crown Sized Endemic Life:
+Whopper
+Unerring
+Gotcha
+Capture a Miniature Crown Sized Endemic Life:
+Fishing
+Trawler
+Presence
+Befriend the Boaboa:
+Boaboa
+Recruit a Tailraider:
+Tailraider
+Stray
+Meow
+Grimalkyne
+Recruit a Gajalaka:
+Gajalaka
+
+COMPLETIONIST
+Big chunk of completionist titles unlocked just for experiencing and doing things. If they didn't really fit into a category elsewhere, then they belong in here.
+
+Collect 100,000 Research Points:
+Insect
+Plant
+PhD
+Collect 1,000,000 Zenny:
+Tycoon
+Celebrity
+Resort
+Acquire 5 Rarity 8 Armour Pieces or Charms:
+Gear
+Obsession
+Quintessential
+Acquire 5 Rarity 8 Weapons:
+Arm
+Collector
+Lofty
+Slayed Ruiner Nergigante in the Guiding Lands:
+Watchman
+Pinnacle
+Obliteration
+Complete Heralds of Destruction Cry:
+God of Ruin
+Heaven's Ruin
+Tempered Master
+New World Hero
+Complete A Visitor from Eorza (Extreme):
+Warrior of Light
+Begin the Kulve Taroth Siege:
+Kulve Taroth
+Hoard
+Exhilarating
+Highly Prized
+Solved All The Mysteries In Contract: Trouble In The Ancient Forest:
+Wild Hunt
+Studied The Ways of the Clutch Claw:
+Claw
+Grappling
+Flinger
+Equipped Your First Pendant:
+Particular
+Upgraded
+Hidden Skill
+Used Raider Ride Many Times:
+Ride
+Tamer
+Buds
+Changed Your Room's Interior:
+Alter
+Breather
+My Room
+Sent the Steamworks into Overdrive:
+Fortunate
+Risktaker
+Jackpot
+Complete many Lynian Observation quests:
+Professionalism
+Dab Hand
+Artistry
+Obtained a Miniature Crown for almost every Monster:
+Tiniest
+Sign
+Minimum
+Obtained a Gold Crown for almost every Monster:
+Hugest
+Crown
+Maximum
+
+SEASONAL FESTIVALS
+Titles you can earn just by logging in while a specific Seasonal Event is underway.
+
+Participate In The Spring Blossom Festival:
+Spring
+Bloom
+March
+April
+May
+Participate In The Full Bloom Festival:
+Sunshine
+Exquisite
+Rose
+Bouquet
+Aesthetic
+Participate In The Summer Twilight Festival:
+Summer
+Ocean
+June
+July
+August
+Participate in The Sizzling Spice Festival:
+Hot
+Sweat
+Dances
+Zealous
+Dance
+Participate In The Autumn Harvest Festival:
+Autumn
+Pumpkin
+September
+October
+November
+Participate In The Fun Fright Festival:
+Chilly
+Full Moon
+Dead of Night
+Fun Fright
+Costume
+Participate In The Winter Star Festival:
+Winter
+Snow
+December
+January
+February
+Participate In The Holiday Joy Festival:
+Cold
+Icicle
+Paper Lantern
+Lantern
+Traditional
+Participate In The Appreciation Festival:
+Anniversary
+One Year
+Congrats
+Celebrate
+Birthday
+Participate In The Grand Appreciation Festival:
+2nd Anniversary
+Grand Appreciation
+Adulation
+Banquet
+Much Obliged
+
+COLLABORATION / CROSSOVER
+All the stuff that comes with the various updates, collaborations and crossovers added to the game.
+
+Low + High Rank / Vanilla Universal Studios Japan (USJ):
+Universal
+Studios
+Wonder
+World's Best
+Cool Japan
+Master Rank / Iceborne Universal Studios Japan (USJ):
+Attraction
+World-class
+Amazing
+Discovery
+Park
+Cast
+Stage Crew
+Guest
+Show
+USJ
+Devil May Cry:
+Stylish
+Must Die
+Ebony
+Ivory
+Force Edge
+Assassins Creed:
+Origins
+Assassins
+Bayek
+Scarab
+Pharoah
+Stealth
+Megaman:
+Dr.
+E-Tank
+Classic
+Rush
+Rock n' Roll
+Resident Evil:
+Survival
+Horror
+Virus
+Survivor
+Close Call
+Street Fighter V:
+Rival
+Destined
+Living Legend
+Bandana Girl
+K.O
+Monster Hunter Movie:
+Artemis
+Devil's Teeth
+Sky Tower
+Ranger
+Chocolate
+Movie

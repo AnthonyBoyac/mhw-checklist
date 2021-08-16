@@ -81,6 +81,11 @@
         <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
       </li>
     </ul>
+    <ul v-else-if="`${currentPath}`.includes('guild')">
+      <li v-for="(url, index) in urls.guild_cards" :key="index">
+        <span @click="navChange(url.url, url.title)">{{ url.title }}</span>
+      </li>
+    </ul>
   </div>
   <div :class="{ 'toggle-components': !isHome }">
     <ProgressTracker 
@@ -230,6 +235,17 @@
       @decrease="decreaseProgress" />
     </div>
   </div>
+  <div v-else-if="`${currentPath}`.includes('guild')">
+    <div :class="{ 'toggle-components': isHome }">
+      <GuildCards 
+      :title="currentTitle" 
+      :theItems="items" 
+      :maxProgressCount="maxProgress" 
+      :progressCounter="progress"
+      @increase="increaseProgress" 
+      @decrease="decreaseProgress" />
+    </div>
+  </div>
   <div v-else>
     <div :class="{ 'toggle-components': isHome }">
       <CraftablesBody 
@@ -259,6 +275,7 @@ import Crafting from '@/components/Crafting'
 import Elder from '@/components/Elder'
 import Room from '@/components/Room'
 import Observation from '@/components/Observation'
+import GuildCards from '@/components/GuildCards'
 
 export default {
   components: {
@@ -276,7 +293,8 @@ export default {
     Crafting,
     Elder,
     Room,
-    Observation
+    Observation,
+    GuildCards
   },
   data() {
     return {
@@ -350,6 +368,9 @@ export default {
         ],
         observation: [
           { url: '/storage/observation_log.json', title: 'Observation Log'}
+        ],
+        guild_cards: [
+          { url: '/storage/guild_card_titles.json', title: 'Guild Card Titles'}
         ]
       },
       items: [],
@@ -431,6 +452,8 @@ export default {
           clearedItems = JSON.parse(localStorage.getItem('unlockedRoomDecor'))
         else if (this.currentPath.includes('observation'))
           clearedItems = JSON.parse(localStorage.getItem('completedObsLog'))
+        else if (this.currentPath.includes('guild')) 
+          clearedItems = JSON.parse(localStorage.getItem('guildCardTitles'))
         else
           clearedItems = JSON.parse(localStorage.getItem('craftedGear'))
 
